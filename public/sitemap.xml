@@ -1,175 +1,333 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <!-- Core Pages -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.morganitegroup.com/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
+    <loc>https://morganite-zeta.vercel.app</loc>
+    <lastmod>2026-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app" />
   </url>
-
   <url>
-    <loc>https://www.morganitegroup.com/factory</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/factory?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/factory?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://morganite-zeta.vercel.app/entity-graph</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/entity-graph?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/entity-graph?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/entity-graph" />
   </url>
-
   <url>
-    <loc>https://www.morganitegroup.com/research-development</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/research-development?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/research-development?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.morganitegroup.com/founder/salah-alheresh</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/founder/salah-alheresh?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/founder/salah-alheresh?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
+    <loc>https://morganite-zeta.vercel.app/official-sources</loc>
+    <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/official-sources?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/official-sources?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/official-sources" />
   </url>
-
   <url>
-    <loc>https://www.morganitegroup.com/certifications</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/certifications?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/certifications?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
+    <loc>https://morganite-zeta.vercel.app/founder/salah-alheresh</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/founder/salah-alheresh?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/founder/salah-alheresh?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/founder/salah-alheresh" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/factory</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/factory?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/factory?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/factory" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/research-development</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/research-development?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/research-development?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/research-development" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/certifications</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/certifications?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/certifications?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/certifications" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/products</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/products?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/products?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/products" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/products/flavex</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/products/flavex?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/products/flavex?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/products/flavex" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/products/crusty</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/products/crusty?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/products/crusty?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/products/crusty" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/products/active</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/products/active?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/products/active?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/products/active" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/products/tapel</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/products/tapel?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/products/tapel?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/products/tapel" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/products/salsa</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/products/salsa?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/products/salsa?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/products/salsa" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/products/zaatar</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/products/zaatar?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/products/zaatar?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/products/zaatar" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/products/gluten-free</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/products/gluten-free?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/products/gluten-free?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/products/gluten-free" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/industries</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/industries?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/industries?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/industries" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/industries/meat-processing</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/industries/meat-processing?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/industries/meat-processing?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/industries/meat-processing" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/industries/food-manufacturing</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/industries/food-manufacturing?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/industries/food-manufacturing?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/industries/food-manufacturing" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/industries/horeca</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/industries/horeca?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/industries/horeca?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/industries/horeca" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/morganite-jordan</loc>
+    <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://www.morganitegroup.com/official-sources</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/official-sources?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/official-sources?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
+    <loc>https://morganite-zeta.vercel.app/food-technology-jordan</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/food-manufacturing-jordan</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/spice-blends-jordan</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/food-flavors-jordan</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/meat-processing-solutions</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/horeca-food-solutions</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/custom-food-blends</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://morganite-zeta.vercel.app/faq?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://morganite-zeta.vercel.app/faq?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://morganite-zeta.vercel.app/faq" />
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/company</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/founder</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/manufacturing</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/products</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/flavex</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/crusty</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/active</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/tapel</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/salsa</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/zaatar</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/gluten-free</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/horeca</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/meat-processing</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/food-manufacturing</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/quality</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/faq/certifications</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://morganite-zeta.vercel.app/query</loc>
+    <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-
-  <!-- Product Pages -->
-  <url>
-    <loc>https://www.morganitegroup.com/products/flavex</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/flavex?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/flavex?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.morganitegroup.com/products/crusty</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/crusty?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/crusty?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.morganitegroup.com/products/active</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/active?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/active?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.morganitegroup.com/products/tapel</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/tapel?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/tapel?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.morganitegroup.com/products/salsa</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/salsa?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/salsa?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.morganitegroup.com/products/zaatar</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/zaatar?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/zaatar?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://www.morganitegroup.com/products/gluten-free</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/gluten-free?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/gluten-free?lang=ar" />
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Industries -->
-  <url>
-    <loc>https://www.morganitegroup.com/industries</loc>
-    <lastmod>2026-08-23</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.morganitegroup.com/industries/meat-processing</loc>
-    <lastmod>2026-08-23</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.morganitegroup.com/industries/food-manufacturing</loc>
-    <lastmod>2026-08-23</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.morganitegroup.com/industries/horeca</loc>
-    <lastmod>2026-08-23</lastmod>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Search Intent Educational Hubs -->
-  <url><loc>https://www.morganitegroup.com/morganite-jordan</loc><priority>0.8</priority></url>
-  <url><loc>https://www.morganitegroup.com/food-technology-jordan</loc><priority>0.8</priority></url>
-  <url><loc>https://www.morganitegroup.com/food-manufacturing-jordan</loc><priority>0.8</priority></url>
-  <url><loc>https://www.morganitegroup.com/spice-blends-jordan</loc><priority>0.8</priority></url>
-  <url><loc>https://www.morganitegroup.com/food-flavors-jordan</loc><priority>0.8</priority></url>
-  <url><loc>https://www.morganitegroup.com/meat-processing-solutions</loc><priority>0.8</priority></url>
-  <url><loc>https://www.morganitegroup.com/horeca-food-solutions</loc><priority>0.8</priority></url>
-  <url><loc>https://www.morganitegroup.com/custom-food-blends</loc><priority>0.8</priority></url>
-
-  <!-- FAQ Hub & Categories -->
-  <url><loc>https://www.morganitegroup.com/faq</loc><priority>0.9</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/company</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/founder</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/manufacturing</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/products</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/flavex</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/crusty</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/active</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/tapel</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/salsa</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/zaatar</loc><priority>0.8</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/gluten-free</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/horeca</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/meat-processing</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/food-manufacturing</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/quality</loc><priority>0.7</priority></url>
-  <url><loc>https://www.morganitegroup.com/faq/certifications</loc><priority>0.7</priority></url>
-
 </urlset>

@@ -1,6 +1,6 @@
 # Robots.txt for Morganite Knowledge Center
 # Primary Entity: Morganite for Food Technology (Amman, Jordan)
-# Official Domain: https://www.morganitegroup.com/
+# Reference: https://www.morganitegroup.com/
 
 User-agent: *
 Allow: /
@@ -43,4 +43,4 @@ Disallow: /admin
 Allow: /llms.txt
 Allow: /data/morganite-knowledge.json
 
-Sitemap: https://www.morganitegroup.com/sitemap.xml
+Sitemap: https://morganite-zeta.vercel.app/sitemap.xml
