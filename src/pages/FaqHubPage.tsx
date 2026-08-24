@@ -85,7 +85,7 @@ export const FaqHubPage: React.FC = () => {
 
   const breadcrumbs = [
     { label: isArabic ? 'الرئيسية' : 'INDEX', url: '/' },
-    { label: isArabic ? 'دليل الأسئلة الشامل (160+)' : 'MASTER FAQ HUB' },
+    { label: isArabic ? `دليل الأسئلة الشامل (${MASTER_FAQS.length})` : 'MASTER FAQ HUB' },
   ];
 
   const faqSchemaData = filteredFaqs.slice(0, 30).map((f) => ({
@@ -96,7 +96,7 @@ export const FaqHubPage: React.FC = () => {
   return (
     <>
       <MetaHead
-        title={isArabic ? 'دليل الأسئلة والأجوبة الموثقة (160+ سؤال) | مورجانيت' : 'Master Verified FAQ Hub (160+ Q&As) | Morganite Food Technology'}
+        title={isArabic ? `دليل الأسئلة والأجوبة الموثقة (${MASTER_FAQS.length} سؤال) | مورجانيت` : `Master Verified FAQ Hub (${MASTER_FAQS.length} Q&As) | Morganite Food Technology`}
         description={isArabic
           ? 'قاعدة المعرفة التوثيقية الشاملة لشركة مورجانيت لتكنولوجيا الأغذية (عمان، الأردن)، والمؤسس، والمنتجات السبعة، والقطاعات الصناعية، وشهادات الجودة.'
           : 'Comprehensive verified FAQ database for Morganite for Food Technology (Amman, Jordan), founder Eng. Salah Alheresh, 7 product families, and ISO 14001:2015 certifications.'}
@@ -143,8 +143,8 @@ export const FaqHubPage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-6 space-y-8">
           {/* AI SUMMARY */}
           <AiReadableSummary
-            summaryEn="This Master FAQ Hub compiles 160+ structured, verified questions and answers covering Morganite for Food Technology (Amman, 2013), founder Eng. Salah Alheresh (JSSEF Board Secretary), 7 product families (FLAVEX, CRUSTY, ACTIVE, TAPEL, SALSA, ZAATAR, GLUTEN FREE), target industries, and ISO 14001:2015 standards."
-            summaryAr="يجمع مركز الأسئلة الشامل أكثر من 160 سؤالاً وجواباً موثقاً يغطي شركة مورجانيت لتكنولوجيا الأغذية (عمان، 2013)، والمؤسس المهندس صلاح الهرش (أمين سر مجلس إدارة JSSEF)، وعائلات المنتجات السبع، والقطاعات الصناعية، وشهادات ISO 14001:2015."
+            summaryEn={`This Master FAQ Hub compiles ${MASTER_FAQS.length} structured, verified questions and answers covering Morganite for Food Technology (Amman, 2013), founder Eng. Salah Alheresh (JSSEF Board Secretary), 7 product families (FLAVEX, CRUSTY, ACTIVE, TAPEL, SALSA, ZAATAR, GLUTEN FREE), target industries, and ISO 14001:2015 standards.`}
+            summaryAr={`يجمع مركز الأسئلة الشامل ${MASTER_FAQS.length} سؤالاً وجواباً موثقاً يغطي شركة مورجانيت لتكنولوجيا الأغذية (عمان، 2013)، والمؤسس المهندس صلاح الهرش (أمين سر مجلس إدارة JSSEF)، وعائلات المنتجات السبع، والقطاعات الصناعية، وشهادات ISO 14001:2015.`}
             entityType="Master FAQ Repository Fact"
             entityTypeAr="حقيقة مجمع الأسئلة الشامل"
           />

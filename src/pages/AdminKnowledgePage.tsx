@@ -17,7 +17,7 @@ export const AdminKnowledgePage: React.FC = () => {
   const [copied, setCopied] = useState(false);
 
   const statuses: Array<{ status: string; label: string }> = [
-    { status: 'ALL', label: 'All Entities (160+)' },
+    { status: 'ALL', label: 'All Entities (190+)' },
     { status: 'VERIFIED', label: 'Verified Sources' },
     { status: 'COMPANY CONFIRMED', label: 'Company Confirmed' },
     { status: 'EXTERNAL VERIFIED', label: 'External Corroborated' },

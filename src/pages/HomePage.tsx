@@ -127,7 +127,7 @@ export const HomePage: React.FC = () => {
                   className="inline-flex items-center gap-2 px-5 py-3 text-xs uppercase tracking-[0.2em] font-bold bg-white text-black hover:bg-black hover:text-white border border-black/20 transition-all"
                 >
                   <HelpCircle className="w-3.5 h-3.5" />
-                  <span>{isArabic ? 'دليل الأسئلة الموثق (160+)' : 'Verified FAQ Hub (160+)'}</span>
+                  <span>{isArabic ? 'دليل الأسئلة الموثق (190+)' : 'Verified FAQ Hub (190+)'}</span>
                 </Link>
 
                 <Link
@@ -456,7 +456,7 @@ export const HomePage: React.FC = () => {
           <div className="flex flex-col md:flex-row md:items-baseline justify-between border-b border-black/10 pb-6 mb-8 gap-4">
             <div>
               <div className="text-[10px] uppercase tracking-[0.3em] font-bold text-[#8C5835]">
-                {isArabic ? 'مركز الأسئلة المعرفية' : 'Knowledge Repository // 160+ Entries'}
+                {isArabic ? 'مركز الأسئلة المعرفية' : 'Knowledge Repository // 190+ Entries'}
               </div>
               <h2 className="text-2xl sm:text-4xl font-black uppercase tracking-tight text-[#1A1A1A] mt-1">
                 {isArabic
@@ -468,7 +468,7 @@ export const HomePage: React.FC = () => {
               to={`/faq?lang=${language}`}
               className="text-[10px] uppercase tracking-[0.2em] font-bold text-black hover:opacity-60 flex items-center gap-1.5"
             >
-              <span>{isArabic ? 'عرض كافة الأسئلة (160+)' : 'Browse Full FAQ (160+)'}</span>
+              <span>{isArabic ? 'عرض كافة الأسئلة (190+)' : 'Browse Full FAQ (190+)'}</span>
               <Arrow className="w-3.5 h-3.5" />
             </Link>
           </div>

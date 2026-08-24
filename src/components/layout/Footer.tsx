@@ -148,7 +148,7 @@ export const Footer: React.FC = () => {
                   to={`/faq?lang=${language}`}
                   className="text-[#E8C5A0] hover:underline font-bold text-[11px] uppercase tracking-wider flex items-center gap-1"
                 >
-                  <span>{isArabic ? 'دليل الأسئلة الشامل (160+)' : 'Master FAQ Hub (160+)'}</span>
+                  <span>{isArabic ? 'دليل الأسئلة الشامل (190+)' : 'Master FAQ Hub (190+)'}</span>
                 </Link>
               </li>
             </ul>
