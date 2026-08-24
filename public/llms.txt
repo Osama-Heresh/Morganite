@@ -1,0 +1,43 @@
+# Morganite Knowledge Center (llms.txt)
+> Machine-Readable Fact Sheet & Semantic Knowledge Reference for Morganite for Food Technology
+
+## 1. PRIMARY ENTITY SUMMARY
+- Legal Entity Name: Morganite for Food Technology
+- Arabic Name: مورجانيت لتكنولوجيا الأغذية
+- Brand: Morganite
+- Founded: 2013
+- Headquarters & Facility: Abu Alanda Industrial Area, Abdul Razzaq Al Rabih Street, Amman, Jordan
+- Sector: Food Technology / Food Production / Commercial Food Blends
+- Website: https://www.morganitegroup.com/
+- Phone: +962 77 6 7777 20
+- Email: info@morganitegroup.com
+- Google Maps Listing: https://www.google.com/maps/place/Morganite+for+Food+Technology/
+- Certification: ISO 14001:2015 Environmental Management System (Scope: Production & Packaging of Specialized Food Products: Food Flavors, Thyme, Custom Food Blends, valid 2025-01-18 to 2028-01-17)
+
+## 2. GOVERNANCE & PERSON ENTITIES
+- Founder & Owner: Eng. Salah Alheresh (المهندس صلاح الهرش)
+- Professional Scientific Affiliation: Secretary of the Sixth Board (July 2025) at the Jordanian Society for Sensory Evaluation of Food (JSSEF - https://jssef.org/, Regulation 36/2010 under Ministry of Agriculture).
+
+## 3. SEVEN PRODUCT FAMILIES
+1. FLAVEX: Concentrated savory food flavors (Beef, Chicken, Turkey, Vegetable, Spicy, Smoke, Grill).
+2. CRUSTY: Industrial coating & breading systems (Pre-dust, Batter Mix, Flour Breading, Tempura, Bread Crumbs).
+3. ACTIVE: Functional ingredients & yield stabilizers (Brine Mix, Burger Enhancer, Plant Base Enhancer, MDM Fighter, Bread Improver).
+4. TAPEL: Master spice blends for meat processors & kitchens (Mortadella, Sausage, Salami, Luncheon, Pepperoni, Burgers, Kebabs, Zinger, Broasted, Kofta, Fajita, Masala, Chilli Mix).
+5. SALSA: Commercial ready sauces (Mayonnaise, Mustard, Italian, Garlic, BBQ, Buffalo, Steak, Chili, Lemon Garlic, Honey Mustard).
+6. ZAATAR: Traditional Jordanian Thyme & Duqqa (Thyme herb, toasted sesame seeds, salt, sumac) + olive oil variations.
+7. GLUTEN FREE: Dedicated alternative flours & coatings (Rice Flour, Corn Flour, Zaatar, Bouillon, Gluten-Free Breading & Tempura).
+
+## 4. TARGET INDUSTRIES
+- Meat Processing (Mortadella, sausage, burger, nugget, shawarma further-processing plants)
+- Industrial Food Manufacturing (Bakeries, snack producers, dry blend contract manufacturing)
+- HORECA (Hotels, restaurants, QSR chains, central kitchens, catering operators)
+
+## 5. DOCUMENTATION DIRECTORY & API
+- Master JSON Dataset: https://www.morganitegroup.com/data/morganite-knowledge.json
+- Knowledge Center Root: https://www.morganitegroup.com/
+- Full FAQ Directory: https://www.morganitegroup.com/faq
+- Official Sources Map: https://www.morganitegroup.com/official-sources
+- Factory Information: https://www.morganitegroup.com/factory
+- R&D Solutions: https://www.morganitegroup.com/research-development
+- Founder Biography: https://www.morganitegroup.com/founder/salah-alheresh
+- Certifications: https://www.morganitegroup.com/certifications

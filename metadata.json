@@ -1,0 +1,6 @@
+{
+  "name": "Morganite Knowledge Center",
+  "description": "Authoritative, machine-readable digital knowledge center and structured entity graph for Morganite for Food Technology (Amman, Jordan).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

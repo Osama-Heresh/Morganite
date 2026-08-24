@@ -1,0 +1,46 @@
+# Robots.txt for Morganite Knowledge Center
+# Primary Entity: Morganite for Food Technology (Amman, Jordan)
+# Official Domain: https://www.morganitegroup.com/
+
+User-agent: *
+Allow: /
+Disallow: /admin
+
+# Standard Search Crawlers & AI Knowledge Systems
+User-agent: Googlebot
+Allow: /
+Disallow: /admin
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin
+
+User-agent: Applebot
+Allow: /
+Disallow: /admin
+
+User-agent: GPTBot
+Allow: /
+Disallow: /admin
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /admin
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /admin
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /admin
+
+# Machine Readable Knowledge Files
+Allow: /llms.txt
+Allow: /data/morganite-knowledge.json
+
+Sitemap: https://www.morganitegroup.com/sitemap.xml

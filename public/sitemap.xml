@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Core Pages -->
+  <url>
+    <loc>https://www.morganitegroup.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/factory</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/factory?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/factory?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/research-development</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/research-development?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/research-development?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/founder/salah-alheresh</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/founder/salah-alheresh?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/founder/salah-alheresh?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/certifications</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/certifications?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/certifications?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/official-sources</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/official-sources?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/official-sources?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Product Pages -->
+  <url>
+    <loc>https://www.morganitegroup.com/products/flavex</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/flavex?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/flavex?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/products/crusty</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/crusty?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/crusty?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/products/active</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/active?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/active?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/products/tapel</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/tapel?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/tapel?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/products/salsa</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/salsa?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/salsa?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/products/zaatar</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/zaatar?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/zaatar?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.morganitegroup.com/products/gluten-free</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.morganitegroup.com/products/gluten-free?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.morganitegroup.com/products/gluten-free?lang=ar" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Industries -->
+  <url>
+    <loc>https://www.morganitegroup.com/industries</loc>
+    <lastmod>2026-08-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.morganitegroup.com/industries/meat-processing</loc>
+    <lastmod>2026-08-23</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.morganitegroup.com/industries/food-manufacturing</loc>
+    <lastmod>2026-08-23</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.morganitegroup.com/industries/horeca</loc>
+    <lastmod>2026-08-23</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Search Intent Educational Hubs -->
+  <url><loc>https://www.morganitegroup.com/morganite-jordan</loc><priority>0.8</priority></url>
+  <url><loc>https://www.morganitegroup.com/food-technology-jordan</loc><priority>0.8</priority></url>
+  <url><loc>https://www.morganitegroup.com/food-manufacturing-jordan</loc><priority>0.8</priority></url>
+  <url><loc>https://www.morganitegroup.com/spice-blends-jordan</loc><priority>0.8</priority></url>
+  <url><loc>https://www.morganitegroup.com/food-flavors-jordan</loc><priority>0.8</priority></url>
+  <url><loc>https://www.morganitegroup.com/meat-processing-solutions</loc><priority>0.8</priority></url>
+  <url><loc>https://www.morganitegroup.com/horeca-food-solutions</loc><priority>0.8</priority></url>
+  <url><loc>https://www.morganitegroup.com/custom-food-blends</loc><priority>0.8</priority></url>
+
+  <!-- FAQ Hub & Categories -->
+  <url><loc>https://www.morganitegroup.com/faq</loc><priority>0.9</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/company</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/founder</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/manufacturing</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/products</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/flavex</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/crusty</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/active</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/tapel</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/salsa</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/zaatar</loc><priority>0.8</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/gluten-free</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/horeca</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/meat-processing</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/food-manufacturing</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/quality</loc><priority>0.7</priority></url>
+  <url><loc>https://www.morganitegroup.com/faq/certifications</loc><priority>0.7</priority></url>
+
+</urlset>

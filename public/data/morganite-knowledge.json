@@ -1,0 +1,3438 @@
+{
+  "version": "2026.1",
+  "generatedDate": "2026-08-23",
+  "entity": {
+    "id": "org-morganite-food-technology",
+    "legalName": "Morganite for Food Technology",
+    "legalNameAr": "مورجانيت لتكنولوجيا الأغذية",
+    "brandName": "Morganite",
+    "brandNameAr": "مورجانيت",
+    "foundingYear": 2013,
+    "industryCategory": "Food Technology & Food Manufacturing",
+    "industryCategoryAr": "تكنولوجيا الأغذية وتصنيع الأغذية",
+    "location": {
+      "streetAddress": "Abdul Razzaq Al Rabih Street",
+      "streetAddressAr": "شارع عبد الرزاق الرابح",
+      "industrialArea": "Abu Alanda Industrial Area",
+      "industrialAreaAr": "المنطقة الصناعية - أبو علندا",
+      "city": "Amman",
+      "cityAr": "عمان",
+      "country": "Jordan",
+      "countryAr": "الأردن",
+      "countryCode": "JO",
+      "postalRegion": "Amman Governorate",
+      "googleMapsUri": "https://www.google.com/maps/place/Morganite+for+Food+Technology/",
+      "coordinatesVerified": true
+    },
+    "contact": {
+      "phone": "+962 77 6 7777 20",
+      "email": "info@morganitegroup.com",
+      "websiteUrl": "https://www.morganitegroup.com/"
+    },
+    "socialProfiles": {
+      "facebook": "https://web.facebook.com/morganitegroup/",
+      "linkedIn": "https://www.linkedin.com/company/morganitegroup/",
+      "googleMaps": "https://www.google.com/maps/place/Morganite+for+Food+Technology/"
+    },
+    "summaryEn": "Morganite for Food Technology is a Jordanian food technology and food manufacturing company established in 2013, specializing in dry food mixes, flavors, spice blends, sauces, coatings, functional ingredients and specialized food solutions, with a focus on meat processing, food manufacturing and HORECA. The company also provides research and development, customized food solutions and technical support.",
+    "summaryAr": "مورجانيت لتكنولوجيا الأغذية هي شركة أردنية متخصصة في تكنولوجيا وتصنيع الأغذية تأسست عام 2013، وتتخصص في الخلطات الغذائية الجافة، النكهات، خلطات البهارات والتوابل، الصلصات، منتجات التغطية، المكونات الوظيفية والحلول الغذائية المتخصصة، مع التركيز على مصانع اللحوم، قطاع التصنيع الغذائي وقطاع الضيافة والمطاعم (هوريكا). كما تقدم الشركة خدمات البحث والتطوير، الحلول المخصصة والدعم الفني.",
+    "coreCapabilitiesEn": [
+      "Dry Food Mix Formulation & Blending",
+      "Customized Flavor Profiles (Beef, Chicken, Smoke, Grill, Vegetable)",
+      "Specialized Meat Processing Seasonings (TAPEL)",
+      "Industrial & Foodservice Coatings & Breadings (CRUSTY)",
+      "Functional & Active Ingredients (ACTIVE)",
+      "HORECA & Culinary Sauces (SALSA)",
+      "Traditional Jordanian Zaatar & Duqqa Processing",
+      "Dedicated Gluten-Free Product Range",
+      "Contract R&D and Custom Confidential Blends"
+    ],
+    "coreCapabilitiesAr": [
+      "تركيب ومزج الخلطات الغذائية الجافة",
+      "نكهات غذائية مخصصة (لحم بقري، دجاج، مدخن، مشوي، خضار)",
+      "بهارات وتوابل متخصصة لمصانع اللحوم (تابل)",
+      "منتجات التغطية والبقسماط الصناعية وقطاع المطاعم (كروستي)",
+      "المكونات الوظيفية والنشطة (أكتيف)",
+      "صلصات قطاع الضيافة والمطاعم (صلصة)",
+      "إنتاج وتعبئة الزعتر والدقة الأردنية التقليدية",
+      "خط إنتاج متخصص للمنتجات الخالية من الغلوتين",
+      "البحث والتطوير التعاقدي والخلطات المخصصة السرية"
+    ],
+    "royalRelationshipStatus": "PENDING COMPANY VERIFICATION",
+    "royalRelationshipNoticeEn": "Information regarding customer supply relationships with members of the Royal Family is classified internally as PENDING COMPANY VERIFICATION and is not published as confirmed public fact.",
+    "royalRelationshipNoticeAr": "المعلومات المتعلقة بالتوريد لأفراد من العائلة المالكة مصنفة داخلياً تحت بند قيد التحقق الرسمي من الشركة ولا يتم نشرها كحقيقة رسمية مؤكدة حالياً."
+  },
+  "founder": {
+    "id": "person-salah-alheresh",
+    "name": "Eng. Salah Alheresh",
+    "nameAr": "المهندس صلاح الهرش",
+    "honorificPrefix": "Eng.",
+    "honorificPrefixAr": "م.",
+    "companyConfirmedRoles": {
+      "founder": true,
+      "owner": true,
+      "company": "Morganite for Food Technology",
+      "establishedYear": 2013
+    },
+    "linkedInUrl": "https://www.linkedin.com/in/salah-alheresh-6b173334/",
+    "bioEn": "Eng. Salah Alheresh is the founder and owner of Morganite for Food Technology (established 2013 in Amman, Jordan). He has extensive technical experience in food technology, spice blending, flavor development, sensory analysis, and food manufacturing solutions. In addition to leading Morganite, he is actively involved in professional food science associations in Jordan.",
+    "bioAr": "المهندس صلاح الهرش هو مؤسس ومالك شركة مورجانيت لتكنولوجيا الأغذية (تأسست عام 2013 في عمان، الأردن). يتمتع بخبرة تقنية واسعة في تكنولوجيا الأغذية، وخلطات البهارات، وتطوير النكهات، والتقييم الحسي، وحلول التصنيع الغذائي. وإلى جانب قيادته لمورجانيت، ينشط في الجمعيات المهنية المتخصصة بعلوم الأغذية في الأردن.",
+    "professionalAffiliations": [
+      {
+        "organizationName": "Jordanian Society for Sensory Evaluation of Food (JSSEF)",
+        "organizationNameAr": "الجمعية الأردنية للتقييم الحسي للأغذية",
+        "organizationUrl": "https://jssef.org/",
+        "establishedUnder": "Regulation No. 36/2010 under the jurisdiction of the Ministry of Agriculture",
+        "establishedUnderAr": "نظام رقم 36/2010 تحت مظلة وزارة الزراعة الأردنية",
+        "role": "Secretary of the Sixth Board (elected/formed July 2025)",
+        "roleAr": "أمين سر مجلس الإدارة السادس (تم تشكيله في تموز 2025)",
+        "verificationSource": "https://jssef.org/أعضاء-المجالس/",
+        "verificationStatus": "EXTERNAL VERIFIED",
+        "purposeEn": "Independent nonprofit scientific association focused on sensory testing, spreading food sensory culture, cooperation with food manufacturers, enhancing national food products, and technical consulting.",
+        "purposeAr": "جمعية علمية غير ربحية مستقلة تعنى بالتقييم الحسي، ونشر ثقافة الجودة والتقييم الحسي، والتعاون مع المصانع لتطوير المنتجات الوطنية والاستشارات الفنية."
+      }
+    ]
+  },
+  "brandAssets": {
+    "officialLogo": {
+      "name": "Morganite Official Logo",
+      "filename": "Logo-Black-new.png",
+      "publicPath": "/brand/Logo-Black-new.png",
+      "canonicalUrl": "https://www.morganitegroup.com/brand/Logo-Black-new.png",
+      "source": "Official Morganite website",
+      "status": "OFFICIAL",
+      "immutable": true,
+      "dimensions": {
+        "width": 5868,
+        "height": 2067,
+        "aspectRatio": "2.8389:1"
+      },
+      "sha256": "d43a941eb01033108d8a59a0a9564666762774a89612c73f23839a7c6cb321a8"
+    }
+  },
+  "certifications": [
+    {
+      "id": "cert-iso-14001",
+      "name": "ISO 14001:2015 Environmental Management System",
+      "nameAr": "شهادة الآيزو 14001:2015 لنظام الإدارة البيئية",
+      "standard": "ISO 14001:2015",
+      "scopeEn": "Production & Packaging of Specialized Food Products (Food Flavors, Thyme, and Custom Food Blends)",
+      "scopeAr": "إنتاج وتعبئة المنتجات الغذائية المتخصصة (النكهات الغذائية، الزعتر، والخلطات الغذائية المخصصة)",
+      "issuingBody": "Authorized International Certification Body",
+      "issueDate": "2025-01-18",
+      "expiryDate": "2028-01-17",
+      "facilityAddressEn": "Jordan – Amman – Industrial Area – Abu Alanda",
+      "facilityAddressAr": "الأردن - عمان - المنطقة الصناعية - أبو علندا",
+      "verificationStatus": "VERIFIED",
+      "sourceUrl": "https://www.morganitegroup.com/",
+      "notesEn": "Current certificate valid through January 17, 2028.",
+      "notesAr": "شهادة سارية المفعول حتى 17 كانون الثاني 2028."
+    },
+    {
+      "id": "cert-halal-compliance",
+      "name": "Halal Certified Manufacturing Standards",
+      "nameAr": "معايير التصنيع المتوافقة مع متطلبات الحلال",
+      "standard": "Halal Food Production Standards",
+      "scopeEn": "Manufacturing and blending of food ingredients, dry mixes, spice blends, and food flavors in compliance with Islamic Halal dietary standards.",
+      "scopeAr": "تصنيع ومزج المكونات الغذائية، الخلطات الجافة، خلطات البهارات والنكهات الغذائية وفق متطلبات الشريعة الإسلامية للأغذية الحلال.",
+      "issuingBody": "Recognized Halal Certification Authority",
+      "issueDate": "2024-01-01",
+      "expiryDate": "Active/Ongoing Validated Facility Standards",
+      "facilityAddressEn": "Amman, Abu Alanda Industrial Area, Jordan",
+      "facilityAddressAr": "عمان، المنطقة الصناعية أبو علندا، الأردن",
+      "verificationStatus": "COMPANY CONFIRMED",
+      "sourceUrl": "https://www.morganitegroup.com/",
+      "notesEn": "All raw ingredients and finished blends comply with Halal specifications.",
+      "notesAr": "جميع المواد الأولية والخلطات النهائية ملتزمة بمتطلبات الحلال."
+    }
+  ],
+  "productFamilies": [
+    {
+      "id": "family-flavex",
+      "slug": "flavex",
+      "name": "FLAVEX",
+      "nameAr": "فلافيكس - FLAVEX",
+      "taglineEn": "Specialized Food Flavors & Culinary Taste Profiles",
+      "taglineAr": "نكهات غذائية متخصصة وملفات تذوق طهي احترافية",
+      "overviewEn": "FLAVEX is Morganite’s specialized product family of premium food flavors engineered for high-thermal processing, meat production, snack manufacturing, and commercial foodservice recipes. These flavor solutions deliver authentic, consistent aroma and taste profiles across production batches.",
+      "overviewAr": "فلافيكس (FLAVEX) هي عائلة النكهات الغذائية المتخصصة من مورجانيت، المصممة لتحمل درجات الحرارة العالية ومصممة لمصانع اللحوم، تصنيع الأغذية الخفيفة وقطاع المطابخ التجارية. توفر هذه النكهات ثباتاً فائقاً في الطعم والرائحة عبر مختلف مراحل الإنتاج.",
+      "aiSummaryEn": "Morganite FLAVEX comprises specialized food flavor systems including Beef, Chicken, Turkey, Vegetable, Spicy, Smoke, and Grill profiles designed for industrial food manufacturing and foodservice in Jordan and regional markets.",
+      "aiSummaryAr": "تضم عائلة فلافيكس (FLAVEX) من مورجانيت منظومات نكهات غذائية متخصصة تشمل نكهات اللحم البقري، الدجاج، الحبش، الخضار، الحار، المدخن والمشوي والمصممة للصناعات الغذائية وقطاع المطاعم في الأردن والمنطقة.",
+      "applicationsEn": [
+        "Processed meat products (sausages, mortadella, burgers, nuggets)",
+        "Marinades, brines, and injection systems for poultry and red meat",
+        "Snack seasonings and extruded food coatings",
+        "Industrial gravies, soups, and ready-meal production",
+        "Commercial kitchen savory sauces and dressings"
+      ],
+      "applicationsAr": [
+        "منتجات اللحوم المصنعة (النقانق، المرتديلا، البرغر، الناغتس)",
+        "محاليل التتبيل والنقع والحقن للدواجن واللحوم الحمراء",
+        "بهارات الأغذية الخفيفة ومقرمشات السناك",
+        "الصلصات الصناعية الجاهزة والشوربات والوجبات الجاهزة",
+        "صلصات وتتبيلات المطابخ التجارية"
+      ],
+      "productExamples": [
+        {
+          "name": "Beef Flavor",
+          "nameAr": "نكهة اللحم البقري",
+          "description": "Deep roasted and savory beef flavor note optimized for meat emulsions and savory broths.",
+          "descriptionAr": "نكهة لحم بقري محمص وغني مصممة لمستحلبات اللحوم والمرق المركز.",
+          "applications": [
+            "Burgers",
+            "Mortadella",
+            "Sausages",
+            "Beef Gravy"
+          ],
+          "applicationsAr": [
+            "برغر",
+            "مرتديلا",
+            "نقانق",
+            "صلصات اللحم"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Chicken Flavor",
+          "nameAr": "نكهة الدجاج",
+          "description": "Authentic roasted chicken flavor profile suitable for poultry marinades, broths, and tenders.",
+          "descriptionAr": "نكهة دجاج مشوي متوازنة ومناسبة لتتبيلات الدواجن، المرق، وقطع الدجاج.",
+          "applications": [
+            "Nuggets",
+            "Chicken Broasted",
+            "Poultry Brines",
+            "Soups"
+          ],
+          "applicationsAr": [
+            "ناغتس",
+            "بروستد الدجاج",
+            "محاليل نقع الدواجن",
+            "شوربات"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Turkey Flavor",
+          "nameAr": "نكهة الحبش (التيركي)",
+          "description": "Delicate savory poultry flavor tailored for turkey deli cuts and cold luncheon meats.",
+          "descriptionAr": "نكهة دواجن غنية مصممة خصيصاً لمصنعات لحوم الحبش ولحم اللانشون البارد.",
+          "applications": [
+            "Turkey Luncheon",
+            "Smoked Turkey Breast",
+            "Deli Slices"
+          ],
+          "applicationsAr": [
+            "لانشون الحبش",
+            "صدر حبش مدخن",
+            "شرائح اللحوم الباردة"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Vegetable Flavor",
+          "nameAr": "نكهة الخضار",
+          "description": "Harmonious bouquet of garden vegetable notes for plant-based foods, broths, and seasoning mixes.",
+          "descriptionAr": "مزيج متوازن من نكهات الخضار الطازجة للأطعمة النباتية، الشوربات وخلطات التوابل.",
+          "applications": [
+            "Vegetable Broths",
+            "Plant-based Meats",
+            "Seasoned Rice"
+          ],
+          "applicationsAr": [
+            "مرق الخضار",
+            "بدائل اللحوم النباتية",
+            "الأرز المتبل"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Spicy Flavor",
+          "nameAr": "نكهة حارة (Spicy)",
+          "description": "Controlled capsicum heat and spice aromatics designed to deliver sustained zesty profiles.",
+          "descriptionAr": "حرارة متوازنة ونكهة توابل عطرية تعطي طعماً حاراً ومميزاً في المنتج النهائي.",
+          "applications": [
+            "Zinger Chicken",
+            "Spicy Burgers",
+            "Spicy Snack Coatings"
+          ],
+          "applicationsAr": [
+            "دجاج زنجر",
+            "برغر حار",
+            "تغطية المقرمشات الحارة"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Smoke Flavor",
+          "nameAr": "نكهة التدخين (Smoke)",
+          "description": "Natural hardwood smoke profile delivering authentic smoked character without long smoking cycles.",
+          "descriptionAr": "طابع دخاني غني يعطي نكهة الشواء والتدخين الطبيعي دون الحاجة لعمليات تدخين طويلة.",
+          "applications": [
+            "Smoked Sausage",
+            "BBQ Bases",
+            "Processed Salami"
+          ],
+          "applicationsAr": [
+            "نقانق مدخنة",
+            "قواعد صلصة الباربكيو",
+            "سلامي"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Grill Flavor",
+          "nameAr": "نكهة الشواء (Grill)",
+          "description": "Charbroiled, fire-grilled notes providing depth to oven-baked or frozen prepared meats.",
+          "descriptionAr": "نكهة شواء على الفحم تمنح عمقاً ونكهة مشوية للمنتجات المطهوة بالفرن أو المجمدة.",
+          "applications": [
+            "Burger Patties",
+            "Kebab Seasonings",
+            "Grilled Poultry"
+          ],
+          "applicationsAr": [
+            "أقراص البرغر",
+            "بهارات الكباب",
+            "الدواجن المشوية"
+          ],
+          "verificationStatus": "VERIFIED"
+        }
+      ],
+      "targetUsersEn": [
+        "Industrial Meat Processors",
+        "Poultry Processing Plants",
+        "Commercial Food Manufacturers",
+        "Snack Food Producers",
+        "Restaurant Chains & Central Kitchens"
+      ],
+      "targetUsersAr": [
+        "مصانع معالجة وتصنيع اللحوم",
+        "مسالخ ومصانع الدواجن",
+        "شركات التصنيع الغذائي",
+        "منتجو الأغذية الخفيفة والمقرمشات",
+        "سلاسل المطاعم والمطابخ المركزية"
+      ],
+      "relatedIndustries": [
+        "Meat Processing",
+        "Food Manufacturing",
+        "HORECA"
+      ],
+      "relatedIndustriesAr": [
+        "معالجة اللحوم",
+        "التصنيع الغذائي",
+        "قطاع الضيافة والمطاعم (هوريكا)"
+      ],
+      "relatedProductFamilyIds": [
+        "family-tapel",
+        "family-crusty",
+        "family-active"
+      ],
+      "faqIds": [
+        "faq-flavex-1",
+        "faq-flavex-2",
+        "faq-flavex-3",
+        "faq-flavex-4",
+        "faq-flavex-5"
+      ],
+      "sourceReference": "Morganite Official Website & Product Catalog (2025/2026)"
+    },
+    {
+      "id": "family-crusty",
+      "slug": "crusty",
+      "name": "CRUSTY",
+      "nameAr": "كروستي - CRUSTY",
+      "taglineEn": "Industrial Coating, Breading & Crisping Systems",
+      "taglineAr": "أنظمة التغطية والبقسماط والقرمشة الصناعية",
+      "overviewEn": "CRUSTY provides complete coating technology solutions including Pre-dusts, Batter Mixes, Flour Breadings, Tempura, and Bread Crumbs. Designed for industrial continuous fryers, combi-ovens, and commercial restaurant fryers to ensure maximum pick-up, superior crunch, moisture retention, and golden color stability.",
+      "overviewAr": "توفر عائلة كروستي (CRUSTY) حلولاً متكاملة لتكنولوجيا التغطية تشمل البريدست (Pre-dust)، خلطات التغميس (Batter Mix)، طحين التغطية، التمبورا، والبقسماط. صُممت للقلايات الصناعية المستمرة وأفران الطهي وقلايات المطاعم لضمان التصاق مثالي، قرمشة طويلة الأمد، واحتباس للرطوبة ولون ذهبي جذاب.",
+      "aiSummaryEn": "Morganite CRUSTY is an industrial coating and breading product family offering Pre-dust, Batter Mix, Flour Breading, Tempura, and Bread Crumbs for poultry, seafood, cheese, and vegetable frying applications.",
+      "aiSummaryAr": "كروستي (CRUSTY) من مورجانيت هي عائلة منتجات التغطية والبقسماط الصناعية التي تشمل البريدست، خلطات الباتر، طحين التغطية، التمبورا، والبقسماط لتطبيقات الدواجن، المأكولات البحرية، الأجبان والخضار المقلية.",
+      "applicationsEn": [
+        "Broasted chicken and crispy chicken fillets",
+        "Industrial chicken nuggets and popcorn chicken",
+        "Tempura-battered seafood, shrimp, and vegetables",
+        "Breaded cheese sticks and appetizer bites",
+        "Frozen par-fried and fully-cooked retail items"
+      ],
+      "applicationsAr": [
+        "دجاج البروستد وفيليه الدجاج المقرمش",
+        "ناغتس الدجاج وبوب كورن الدجاج الصناعي",
+        "الروبيان والمأكولات البحرية والخضار بتغطية التمبورا",
+        "أصابع الجبنة والمقبلات المقلية",
+        "المنتجات المجمدة المقلية جزئياً أو المطهوة بالكامل"
+      ],
+      "productExamples": [
+        {
+          "name": "Pre-dust Mix",
+          "nameAr": "خلطة التثبيت الأولية (Pre-dust)",
+          "description": "Fine binding layer applied directly to protein to enhance batter adherence and reduce coating blow-off during frying.",
+          "descriptionAr": "طبقة التصاق أولية ناعمة توضع مباشرة على اللحوم لتعزيز ثبات الباتر ومنع انفصال القشرة أثناء القلي.",
+          "applications": [
+            "Chicken tenders",
+            "Fish fillets",
+            "Meat cutlets"
+          ],
+          "applicationsAr": [
+            "تندرز الدجاج",
+            "فيليه السمك",
+            "شنيتزل اللحم"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Batter Mix",
+          "nameAr": "خلطة التغميس السائلة (Batter Mix)",
+          "description": "Engineered liquid batter system delivering controlled viscosity, adhesion, and crisp barrier creation.",
+          "descriptionAr": "منظومة باتر سائل مصممة بدرجة لزوجة مضبوطة لتثبيت البقسماط وتشكيل حاجز يحفظ عصارة اللحم.",
+          "applications": [
+            "Broasted chicken",
+            "Nugget production lines"
+          ],
+          "applicationsAr": [
+            "دجاج البروستد",
+            "خطوط إنتاج الناغتس"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Flour Breading",
+          "nameAr": "طحين التغطية المقرمش (Flour Breading)",
+          "description": "Multi-grain seasoned coating generating distinctive flake structure, crackle texture, and golden hue.",
+          "descriptionAr": "خلطة طحين متبلة مخصصة لتكوين قشور مقرمشة وهيكل خشن ذهبي مميز.",
+          "applications": [
+            "Zinger chicken",
+            "Crispy strips",
+            "Fried seafood"
+          ],
+          "applicationsAr": [
+            "دجاج زنجر",
+            "ستربس مقرمش",
+            "مأكولات بحرية مقلية"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Tempura Mix",
+          "nameAr": "خلطة التمبورا (Tempura)",
+          "description": "Puffing batter system providing an airy, delicate, lace-like crispy outer crust.",
+          "descriptionAr": "خلطة تغميس تنتفخ أثناء القلي لتعطي قواماً هوائياً خفيفاً وهشاً.",
+          "applications": [
+            "Tempura shrimp",
+            "Vegetable rings",
+            "Asian style appetizers"
+          ],
+          "applicationsAr": [
+            "روبيان تمبورا",
+            "حلقات الخضار",
+            "المقبلات الآسيوية"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Bread Crumbs System",
+          "nameAr": "أنظمة البقسماط والفتات المقرمش",
+          "description": "Controlled-granulation breadcrumbs ensuring uniform coverage and low oil absorption.",
+          "descriptionAr": "فتات خبز وبقسماط بحبيبات متجانسة الحجم لامتصاص أقل للزيت وتغطية كاملة.",
+          "applications": [
+            "Escalopes",
+            "Mozzarella sticks",
+            "Cutlets"
+          ],
+          "applicationsAr": [
+            "اسكالوب",
+            "أصابع الموزاريلا",
+            "كستليتة"
+          ],
+          "verificationStatus": "VERIFIED"
+        }
+      ],
+      "targetUsersEn": [
+        "Poultry Further-Processing Plants",
+        "Frozen Food Manufacturers",
+        "Fast Food Chains & QSRs",
+        "Central Production Kitchens"
+      ],
+      "targetUsersAr": [
+        "مصانع المعالجة الإضافية للدواجن",
+        "شركات تصنيع الأغذية المجمدة",
+        "سلاسل مطاعم الخدمة السريعة (QSR)",
+        "المطابخ المركزية والتصنيعية"
+      ],
+      "relatedIndustries": [
+        "Meat Processing",
+        "Food Manufacturing",
+        "HORECA"
+      ],
+      "relatedIndustriesAr": [
+        "معالجة اللحوم",
+        "التصنيع الغذائي",
+        "قطاع الضيافة والمطاعم (هوريكا)"
+      ],
+      "relatedProductFamilyIds": [
+        "family-flavex",
+        "family-active",
+        "family-tapel"
+      ],
+      "faqIds": [
+        "faq-crusty-1",
+        "faq-crusty-2",
+        "faq-crusty-3",
+        "faq-crusty-4"
+      ],
+      "sourceReference": "Morganite Official Website & Technical Catalog"
+    },
+    {
+      "id": "family-active",
+      "slug": "active",
+      "name": "ACTIVE",
+      "nameAr": "أكتيف - ACTIVE",
+      "taglineEn": "Functional Ingredients, Texture Modifiers & Yield Solutions",
+      "taglineAr": "المكونات الوظيفية ومحسنات القوام وحلول الإنتاجية",
+      "overviewEn": "ACTIVE encompasses Morganite’s functional food ingredients designed to solve technical production challenges in meat processing and bakery. From optimizing water-binding capacity and emulsion stability to enhancing dough performance and MDM (mechanically deboned meat) formulation, ACTIVE formulations support consistent manufacturing yields without making unsupported nutritional or health claims.",
+      "overviewAr": "تضم عائلة أكتيف (ACTIVE) المكونات الغذائية الوظيفية من مورجانيت المصممة لحل التحديات التقنية في تصنيع اللحوم والمخابز. من تحسين قدرة احتباس الماء وثبات المستحلب إلى تعزيز أداء العجين والتعامل مع لحوم نزع العظم الميكانيكي (MDM)، تدعم منتجات أكتيف كفاءة الإنتاج دون تقديم ادعاءات صحية أو علاجية غير موثقة.",
+      "aiSummaryEn": "Morganite ACTIVE includes technical functional ingredients such as Brine Mix, Burger Enhancer, Plant Base Enhancer, MDM Fighter, and Bread Improver, formulated for food processing yield, texture, and stability.",
+      "aiSummaryAr": "تشمل عائلة أكتيف (ACTIVE) من مورجانيت مكونات وظيفية تقنية تشمل خلطات النقع والحقن، محسن البرغر، محسن البدائل النباتية، معالج لحوم MDM، ومحسن الخبز لتعزيز القوام والإنتاجية والثبات.",
+      "applicationsEn": [
+        "Yield optimization and water retention in poultry and red meat",
+        "Texture and emulsion stabilization in comminuted meat systems",
+        "Plant-protein structuring and mouthfeel improvement",
+        "Quality stabilization in MDM meat recipes",
+        "Bakery dough tolerance, volume, and crumb structure improvement"
+      ],
+      "applicationsAr": [
+        "رفع الإنتاجية واحتباس العصارة في لحوم الدواجن واللحوم الحمراء",
+        "تثبيت الاستحلاب وتحسين القوام في اللحوم المفرومة والمصنعة",
+        "تحسين بنية البروتينات النباتية وقوام المأكولات النباتية",
+        "تثبيت جودة ونكهة خلطات اللحوم منزوعة العظم ميكانيكياً (MDM)",
+        "تحسين مرونة العجين وحجم وهيكل اللب في المخابز"
+      ],
+      "productExamples": [
+        {
+          "name": "Brine Mix",
+          "nameAr": "خلطة محاليل النقع والحقن (Brine Mix)",
+          "description": "Functional blend designed for injection and tumbling systems to improve juiciness, sliceability, and cook yield.",
+          "descriptionAr": "خلطة وظيفية لمحاليل الحقن والتدوير (Tumbling) لتعزيز العصارة وسهولة التقطيع والإنتاجية بعد الطهي.",
+          "applications": [
+            "Whole muscle poultry",
+            "Smoked turkey breast",
+            "Roast beef"
+          ],
+          "applicationsAr": [
+            "دواجن كاملة",
+            "صدر حبش مدخن",
+            "روست بيف"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Burger Enhancer",
+          "nameAr": "محسن البرغر (Burger Enhancer)",
+          "description": "Functional binder preventing shrinkage, preserving juiciness, and stabilizing patty structure during frozen storage and cooking.",
+          "descriptionAr": "مركب وظيفي يقلل الانكماش أثناء الطهي، ويحافظ على العصارة وتماسك القرص أثناء التجميد والطهي.",
+          "applications": [
+            "Beef burgers",
+            "Chicken patties",
+            "Kofta"
+          ],
+          "applicationsAr": [
+            "برغر اللحم",
+            "أقراص برغر الدجاج",
+            "كفتة"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Plant Base Enhancer",
+          "nameAr": "محسن المنتجات النباتية (Plant Base Enhancer)",
+          "description": "Hydrocolloid and seasoning complex creating meaty chew and moisture retention in vegetarian food systems.",
+          "descriptionAr": "مركب لتحسين القوام والملمس الفموي واحتباس الرطوبة في بدائل اللحوم النباتية.",
+          "applications": [
+            "Plant-based patties",
+            "Veggie sausages",
+            "Soy/pea nuggets"
+          ],
+          "applicationsAr": [
+            "برغر نباتي",
+            "نقانق نباتية",
+            "ناغتس الصويا والبازلاء"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "MDM Fighter",
+          "nameAr": "معالج لحوم نزع العظم الميكانيكي (MDM Fighter)",
+          "description": "Specialized functional formulation supporting texture cohesion, fat emulsification, and flavor balancing in recipes utilizing MDM.",
+          "descriptionAr": "تركيبة وظيفية متخصصة لدعم تماسك القوام واستحلاب الدهون وتوازن الطعم في وصفات لحوم MDM.",
+          "applications": [
+            "Emulsified sausages",
+            "Economy luncheon",
+            "Hot dogs"
+          ],
+          "applicationsAr": [
+            "النقانق المستحلبة",
+            "اللانشون الاقتصادي",
+            "الهوت دوج"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Bread Improver",
+          "nameAr": "محسن الخبز (Bread Improver)",
+          "description": "Functional bakery conditioning agent improving dough elasticity, oven spring, crumb softness, and shelf resilience.",
+          "descriptionAr": "مركب وظيفي للمخابز يحسن مرونة العجين، حجم الرغيف في الفرن، طراوة اللب وعمر الصلاحية.",
+          "applications": [
+            "Burger buns",
+            "Sandwich bread",
+            "Pita & flatbreads"
+          ],
+          "applicationsAr": [
+            "خبز البرغر",
+            "خبز الساندويش",
+            "الخبز العربي والمسطح"
+          ],
+          "verificationStatus": "VERIFIED"
+        }
+      ],
+      "targetUsersEn": [
+        "Industrial Meat Processors",
+        "Commercial Bakeries & Industrial Millers",
+        "Plant-Based Food Formulators",
+        "Food Processing Technologists"
+      ],
+      "targetUsersAr": [
+        "مصانع اللحوم المصنعة",
+        "المخابز الصناعية والمطاحن",
+        "مبتكرو الأغذية النباتية",
+        "تقنيو التصنيع الغذائي"
+      ],
+      "relatedIndustries": [
+        "Meat Processing",
+        "Food Manufacturing"
+      ],
+      "relatedIndustriesAr": [
+        "معالجة اللحوم",
+        "التصنيع الغذائي"
+      ],
+      "relatedProductFamilyIds": [
+        "family-flavex",
+        "family-tapel"
+      ],
+      "faqIds": [
+        "faq-active-1",
+        "faq-active-2",
+        "faq-active-3",
+        "faq-active-4"
+      ],
+      "sourceReference": "Morganite Technical Documentation & Product Data"
+    },
+    {
+      "id": "family-tapel",
+      "slug": "tapel",
+      "name": "TAPEL",
+      "nameAr": "تابل - TAPEL",
+      "taglineEn": "Master Spice Blends & Specialty Seasonings for Meat & Culinary Arts",
+      "taglineAr": "خلطات البهارات الرئيسية والتوابل المتخصصة للحوم والمأكولات",
+      "overviewEn": "TAPEL is Morganite’s signature spice and seasoning brand developed specifically for meat processors, charcuterie makers, and restaurant chefs. Each formulation balances whole ground aromatic spices, herbs, and color-stabilizing ingredients to meet traditional Levantine, Mediterranean, and international taste profiles.",
+      "overviewAr": "تابل (TAPEL) هي العلامة البارزة لخلطات البهارات والتوابل المتخصصة من مورجانيت، المطورة خصيصاً لمصانع اللحوم، وصانعي المرتديلا واللحوم الباردة، وطهاة المطاعم. توازن كل خلطة بين التوابل المطحونة العطرية، الأعشاب الطبيعية، ومثبتات اللون لتلائم الأذواق الشامية، المتوسطية والعالمية.",
+      "aiSummaryEn": "Morganite TAPEL provides comprehensive spice blend systems for Mortadella, Sausage, Salami, Luncheon, Pepperoni, Burgers, Kebabs, Zinger, Broasted, Kofta, Fajita, Italian Seasonings, Chicken Masala, and Chilli Mix.",
+      "aiSummaryAr": "توفر عائلة تابل (TAPEL) من مورجانيت أنظمة خلطات بهارات متكاملة للمرتديلا، السجق، السلامي، اللانشون، البيبروني، البرغر، الكباب، الزنجر، البروستد، الكفتة، الفاهيتا، البهارات الإيطالية، مسالا الدجاج، والخلطة الحارة.",
+      "applicationsEn": [
+        "Emulsified & cooked meats: Mortadella, Luncheon, Franks",
+        "Fermented & dry-cured meats: Salami, Pepperoni, Sujuk",
+        "Minced meat products: Burgers, Kebabs, Kofta, Meatballs",
+        "Poultry specialties: Zinger coatings, Broasted spice marinades, Chicken Masala",
+        "Culinary cuisine mixes: Fajita seasonings, Italian herbal blends, Chilli mix"
+      ],
+      "applicationsAr": [
+        "اللحوم المستحلبة والمطهوة: المرتديلا، اللانشون، النقانق",
+        "اللحوم المعتقة والمجففة: السلامي، البيبروني، السجق",
+        "منتجات اللحوم المفرومة: البرغر، الكباب، الكفتة، كرات اللحم",
+        "أطباق الدواجن المتخصصة: تتبيلات الزنجر، بهارات البروستد، مسالا الدجاج",
+        "خلطات الطهي العالمية: بهارات الفاهيتا، الخلطة الإيطالية، خلطة الفلفل الحار"
+      ],
+      "productExamples": [
+        {
+          "name": "Mortadella Spice Blend",
+          "nameAr": "بهار المرتديلا المخصوص",
+          "description": "Classic aromatic spice system with white pepper, coriander, nutmeg, and mastic notes.",
+          "descriptionAr": "منظومة بهارات كلاسيكية عطرية مع الفلفل الأبيض، الكزبرة، جوزة الطيب ونفحات المستكة.",
+          "applications": [
+            "Beef mortadella",
+            "Chicken mortadella",
+            "Olive/pistachio loaf"
+          ],
+          "applicationsAr": [
+            "مرتديلا لحم",
+            "مرتديلا دجاج",
+            "مرتديلا بالزيتون والفستق"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Sausage & Hot Dog Seasoning",
+          "nameAr": "بهارات السجق والنقانق",
+          "description": "Balanced blend with paprika, garlic, mace, and herb fractions for fine emulsion sausages.",
+          "descriptionAr": "خلطة متوازنة مع البابريكا، الثوم، والبهارات العطرية المخصصة للنقانق الناعمة.",
+          "applications": [
+            "Breakfast sausages",
+            "Hot dogs",
+            "Cocktail franks"
+          ],
+          "applicationsAr": [
+            "سجق إفطار",
+            "هوت دوج",
+            "نقانق كوكتيل"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Salami & Pepperoni Blend",
+          "nameAr": "بهارات السلامي والبيبروني",
+          "description": "Rich cured-meat seasoning with fennel, cracked black pepper, garlic, and red pepper tones.",
+          "descriptionAr": "بهارات لحوم مجففة غنية مع الشومر، الفلفل الأسود المجروش، الثوم والحرارة المعتدلة.",
+          "applications": [
+            "Pizza pepperoni",
+            "Fermented beef salami"
+          ],
+          "applicationsAr": [
+            "بيبروني البيتزا",
+            "سلامي اللحم البقري"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Luncheon Meat Seasoning",
+          "nameAr": "بهار لحم اللانشون",
+          "description": "Delicate all-purpose seasoning providing consistent savory background and smooth profile.",
+          "descriptionAr": "خلطة بهارات متجانسة توفر نكهة متوازنة ولوناً ثابتاً في لحوم اللانشون المعلبة أو المبردة.",
+          "applications": [
+            "Canned luncheon",
+            "Chilled poultry loaf"
+          ],
+          "applicationsAr": [
+            "لانشون معلب",
+            "قوالب لانشون الدجاج المبردة"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Burger & Kofta Seasonings",
+          "nameAr": "بهارات البرغر والكفتة",
+          "description": "Authentic spice combinations tailored for coarse minced beef and lamb preparations.",
+          "descriptionAr": "توليفات بهارات أصيلة مصممة خصيصاً للحوم المفرومة الخشنة ولحم الضأن والبقر.",
+          "applications": [
+            "Gourmet burger patties",
+            "Traditional Levantine kofta"
+          ],
+          "applicationsAr": [
+            "أقراص البرغر الفاخرة",
+            "الكفتة الشامية التقليدية"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Zinger & Broasted Seasonings",
+          "nameAr": "بهارات الزنجر والبروستد",
+          "description": "Signature crispy chicken marinades combining fiery heat, garlic, and savory depth.",
+          "descriptionAr": "تتبيلات دجاج مقرمش شهيرة تدمج بين الحرارة المتوازنة، الثوم، وعمق النكهة.",
+          "applications": [
+            "Fried chicken fillets",
+            "Broasted chicken pieces"
+          ],
+          "applicationsAr": [
+            "فيليه الدجاج المقلي",
+            "قطع دجاج البروستد"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Fajita & Italian Herb Blends",
+          "nameAr": "بهارات الفاهيتا والأعشاب الإيطالية",
+          "description": "International culinary seasonings formulated with oregano, basil, cumin, and Mexican spices.",
+          "descriptionAr": "بهارات طهي عالمية مركبة من الأوريغانو، الحبق، الكمون وتوابل الفاهيتا المكسيكية.",
+          "applications": [
+            "Restaurant skillet meals",
+            "Pasta sauces",
+            "Specialty sandwiches"
+          ],
+          "applicationsAr": [
+            "وجبات المقالي للمطاعم",
+            "صلصات الباستا",
+            "الساندويشات المتخصصة"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Chicken Masala & Chilli Mix",
+          "nameAr": "مسالا الدجاج وخلطة الفلفل الحار",
+          "description": "Warm spice aromatics combining turmeric, ginger, cardamom, and curated chili heat.",
+          "descriptionAr": "توابل دافئة عطرية تجمع الكركم، الزنجبيل، الهيل، مع حرارة الفلفل الحار المتجانسة.",
+          "applications": [
+            "Curries",
+            "Spicy rice",
+            "Restaurant marinades"
+          ],
+          "applicationsAr": [
+            "الكاري",
+            "الأرز المبهر",
+            "تتبيلات المطاعم"
+          ],
+          "verificationStatus": "VERIFIED"
+        }
+      ],
+      "targetUsersEn": [
+        "Industrial Meat Processing Plants",
+        "Charcuterie & Deli Producers",
+        "Butcheries with Value-Added Prep",
+        "Restaurant Chains & Caterers"
+      ],
+      "targetUsersAr": [
+        "مصانع اللحوم المصنعة الكبرى",
+        "منتجو اللحوم الباردة والمقبلات",
+        "الملاحم ذات خطوط التحضير والتصنيع",
+        "سلاسل المطاعم وشركات الإعاشة"
+      ],
+      "relatedIndustries": [
+        "Meat Processing",
+        "HORECA",
+        "Food Manufacturing"
+      ],
+      "relatedIndustriesAr": [
+        "معالجة اللحوم",
+        "قطاع الضيافة والمطاعم (هوريكا)",
+        "التصنيع الغذائي"
+      ],
+      "relatedProductFamilyIds": [
+        "family-flavex",
+        "family-crusty",
+        "family-active"
+      ],
+      "faqIds": [
+        "faq-tapel-1",
+        "faq-tapel-2",
+        "faq-tapel-3",
+        "faq-tapel-4",
+        "faq-tapel-5"
+      ],
+      "sourceReference": "Morganite Product Catalog & Industry Applications (2025/2026)"
+    },
+    {
+      "id": "family-salsa",
+      "slug": "salsa",
+      "name": "SALSA",
+      "nameAr": "صلصة - SALSA",
+      "taglineEn": "Commercial & Foodservice Ready-to-Use Sauces and Condiments",
+      "taglineAr": "صلصات وتغميسات جاهزة للاستخدام لقطاع المطاعم والتصنيع الغذائي",
+      "overviewEn": "SALSA is Morganite’s dedicated sauce product line crafted for restaurant kitchens, fast-casual dining, burger bars, and foodservice distributors. Emulsion stability, clean pourability, and flavor balance allow operators to maintain menu consistency across branches.",
+      "overviewAr": "صلصة (SALSA) هي خط إنتاج الصلصات المتخصص من مورجانيت المصمم لمطابخ المطاعم، سلاسل البرغر، وموزعي خدمات الأغذية. يضمن ثبات الاستحلاب وسهولة التوزيع وتوازن النكهة الحفاظ على جودة الأطباق عبر كافة الفروع.",
+      "aiSummaryEn": "Morganite SALSA offers commercial sauces including Mayonnaise, Mustard Sauce, Italian Sauce, Garlic Sauce, BBQ Sauce, Buffalo Sauce, Steak Sauce, Chili Sauce, Lemon Garlic, and Honey Mustard.",
+      "aiSummaryAr": "تقدم عائلة صلصة (SALSA) من مورجانيت صلصات تجارية تشمل المايونيز، صلصة الخردل، الصلصة الإيطالية، صلصة الثوم، الباربكيو، البافلو، صلصة الستيك، الصلصة الحارة، الليمون بالثوم، والخردل بالعسل.",
+      "applicationsEn": [
+        "Table condiments and dipping pots in restaurant operations",
+        "Sandwich spreads and burger assembly lines",
+        "Wing coatings and glaze applications (BBQ, Buffalo)",
+        "Salad dressings and culinary finishing sauces",
+        "Foodservice bulk dispensers and portion packs"
+      ],
+      "applicationsAr": [
+        "صلصات المائدة وعبوات التغميس في المطاعم",
+        "دهن الساندويشات وخطوط تحضير البرغر",
+        "تغطية وتتبيل أجنحة الدجاج (باربكيو، بافلو)",
+        "تتبيلات السلطات واللمسات النهائية للأطباق",
+        "عبوات الاستخدام التجاري وموزعات الخدمة السريعة"
+      ],
+      "productExamples": [
+        {
+          "name": "Mayonnaise & Garlic Sauce",
+          "nameAr": "المايونيز وصلصة الثومية",
+          "description": "Silky, emulsion-stable mayonnaise base and authentic creamy garlic sauce for shawarma and broasted items.",
+          "descriptionAr": "قاعدة مايونيز حريرية وثابتة الاستحلاب، مع صلصة ثوم كريمية ممتازة للشاورما والبروستد.",
+          "applications": [
+            "Shawarma",
+            "Broasted chicken",
+            "Burgers"
+          ],
+          "applicationsAr": [
+            "شاورما",
+            "دجاج بروستد",
+            "برغر"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "BBQ & Buffalo Sauce",
+          "nameAr": "صلصة الباربكيو والبافلو",
+          "description": "Rich smoky BBQ glaze and tangy spicy buffalo wing sauce with clinging viscosity.",
+          "descriptionAr": "صلصة باربكيو مدخنة غنية، وصلصة بافلو حارة لاذعة تلتصق تماماً بأجنحة الدجاج.",
+          "applications": [
+            "Chicken wings",
+            "Ribs",
+            "BBQ burgers"
+          ],
+          "applicationsAr": [
+            "أجنحة الدجاج",
+            "الريش والمشاوي",
+            "برغر باربكيو"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Mustard & Honey Mustard",
+          "nameAr": "صلصة الخردل والخردل بالعسل",
+          "description": "Smooth yellow mustard and sweet-savory honey mustard perfect for tenders and hot dogs.",
+          "descriptionAr": "خردل ناعم وخردل بالعسل متوازن الحلاوة والحموضة لتغميس أصابع الدجاج والهوت دوج.",
+          "applications": [
+            "Pretzels",
+            "Chicken tenders",
+            "Hot dogs"
+          ],
+          "applicationsAr": [
+            "أصابع الدجاج",
+            "هوت دوج",
+            "الساندويشات"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Italian & Lemon Garlic Sauces",
+          "nameAr": "الصلصة الإيطالية وصلصة الليمون بالثوم",
+          "description": "Herb-infused vinaigrette and zesty Mediterranean citrus-garlic dressing for salads and grilled seafood.",
+          "descriptionAr": "تتبيلة إيطالية بالأعشاب وصلصة ليمون بالثوم منعشة للسلطات والأسماك والمشاوي.",
+          "applications": [
+            "Garden salads",
+            "Grilled fish",
+            "Wraps"
+          ],
+          "applicationsAr": [
+            "السلطات الخضراء",
+            "السمك المشوي",
+            "اللفائف"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Steak & Chili Sauce",
+          "nameAr": "صلصة الستيك والصلصة الحارة (Chili Sauce)",
+          "description": "Savory Worcestershire-peppery steak sauce and fiery chili pepper condiment.",
+          "descriptionAr": "صلصة ستيك فلفلية غنية مع صلصة فلفل حار مناسبة للحوم والمشاوي.",
+          "applications": [
+            "Steak cuts",
+            "Fries topping",
+            "Burgers"
+          ],
+          "applicationsAr": [
+            "شرائح الستيك",
+            "البطاطا المقلية",
+            "البرغر"
+          ],
+          "verificationStatus": "VERIFIED"
+        }
+      ],
+      "targetUsersEn": [
+        "Burger Chains & QSR Outlets",
+        "Full-Service Restaurants & Diners",
+        "Shawarma & Middle Eastern Grills",
+        "Foodservice Wholesalers & Distributors"
+      ],
+      "targetUsersAr": [
+        "سلاسل البرغر ومطاعم الخدمة السريعة",
+        "المطاعم المتكاملة ومطابخ الضيافة",
+        "مطاعم الشاورما والمشاوي",
+        "تجار وموزعو الأغذية لقطاع هوريكا"
+      ],
+      "relatedIndustries": [
+        "HORECA",
+        "Food Manufacturing"
+      ],
+      "relatedIndustriesAr": [
+        "قطاع الضيافة والمطاعم (هوريكا)",
+        "التصنيع الغذائي"
+      ],
+      "relatedProductFamilyIds": [
+        "family-crusty",
+        "family-flavex",
+        "family-tapel"
+      ],
+      "faqIds": [
+        "faq-salsa-1",
+        "faq-salsa-2",
+        "faq-salsa-3",
+        "faq-salsa-4"
+      ],
+      "sourceReference": "Morganite Official Website Product Data"
+    },
+    {
+      "id": "family-zaatar",
+      "slug": "zaatar",
+      "name": "ZAATAR",
+      "nameAr": "زعتر ودقة - ZAATAR & DUQQA",
+      "taglineEn": "Traditional Jordanian Thyme Blends & Premium Duqqa",
+      "taglineAr": "خلطات الزعتر الأردني الأصيل والدقة الممتازة",
+      "overviewEn": "ZAATAR represents Morganite’s authentic Jordanian culinary heritage range. Prepared using carefully selected thyme herb, toasted sesame seeds, pure sumac, and salt, Morganite produces classic dry Zaatar, traditional Duqqa, and specialized formulations packed with pure olive oil for retail, bakery, and foodservice channels.",
+      "overviewAr": "تمثل عائلة الزعتر (ZAATAR) أصالة الموروث الغذائي الأردني لدى مورجانيت. يتم تحضيرها بعناية من أوراق الزعتر البري المنتقاة، السمسم المحمص، السماق البلدي والملح. تنتج مورجانيت الزعتر التقليدي، الدقة التراثية، والخلطات المعبأة بزيت الزيتون البكر للمخابز والمطاعم والمستهلكين.",
+      "aiSummaryEn": "Morganite ZAATAR features verified traditional blends including Zaatar, Duqqa, Zaatar with Olive Oil, and Duqqa with Olive Oil, formulated with thyme herb, toasted sesame seeds, salt, and sumac.",
+      "aiSummaryAr": "تضم منتجات الزعتر (ZAATAR) من مورجانيت خلطات أصيلة موثقة تشمل الزعتر، الدقة، الزعتر بزيت الزيتون، والدقة بزيت الزيتون، والمحضرة من الزعتر، السمسم المحمص، الملح والسماق.",
+      "applicationsEn": [
+        "Commercial bakeries (Manakish, Zaatar pastries, flatbreads)",
+        "Traditional Jordanian breakfast & HORECA buffet spreads",
+        "Food gifts, gourmet retail packs, and export culinary lines",
+        "Snack and cracker seasoning applications"
+      ],
+      "applicationsAr": [
+        "المخابز ومحلات المعجنات (المناقيش، الفطائر، الخبز بالزعتر)",
+        "بوفيهات الإفطار التراثية في الفنادق وقطاع الضيافة",
+        "عبوات التجزئة الفاخرة وخطوط التصدير التراثية",
+        "تتبيل المقرمشات والمخبوزات الخفيفة"
+      ],
+      "productExamples": [
+        {
+          "name": "Jordanian Zaatar (Traditional)",
+          "nameAr": "الزعتر الأردني التقليدي",
+          "description": "Authentic blend of dried wild thyme herb, aromatic sumac, golden toasted sesame, and salt.",
+          "descriptionAr": "خلطة متوازنة من الزعتر المجفف، السماق البلدي الحامض، السمسم المحمص الذهبي، والملح.",
+          "applications": [
+            "Manakish",
+            "Breakfast tables",
+            "Dips with olive oil"
+          ],
+          "applicationsAr": [
+            "مناقيش",
+            "سفرة الإفطار",
+            "تغميس مع زيت الزيتون"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Duqqa (Traditional Spice & Herb Blend)",
+          "nameAr": "الدقة الأردنية التراثية",
+          "description": "Rich, deeply seasoned heritage blend featuring roasted grains, spices, and toasted aromatics.",
+          "descriptionAr": "خلطة تراثية غنية تجمع الحبوب المحمصة والتوابل المتوازنة والسمسم والنكهات العطرية.",
+          "applications": [
+            "Breakfast dipping",
+            "Bread toppings",
+            "Traditional snacks"
+          ],
+          "applicationsAr": [
+            "التغميس الصباحي",
+            "تغطية المخبوزات",
+            "الوجبات التراثية"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Zaatar with Olive Oil",
+          "nameAr": "زعتر بزيت الزيتون (Ready-to-Use)",
+          "description": "Convenient pre-mixed blend of premium thyme and extra virgin olive oil for instant culinary use.",
+          "descriptionAr": "خلطة جاهزة تجمع الزعتر الفاخر مع زيت الزيتون البكر للاستخدام الفوري والمريح.",
+          "applications": [
+            "Ready sandwich spreads",
+            "Pastry fillings",
+            "Foodservice dips"
+          ],
+          "applicationsAr": [
+            "دهن الساندويشات الجاهزة",
+            "حشوات المعجنات",
+            "أطباق الضيافة"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Duqqa with Olive Oil",
+          "nameAr": "دقة بزيت الزيتون",
+          "description": "Artisanal combination of spiced duqqa preserved in pure olive oil for premium dining experiences.",
+          "descriptionAr": "توليفة متميزة من الدقة المتبلة مع زيت الزيتون النقي لتجربة طعام راقية.",
+          "applications": [
+            "Gourmet buffets",
+            "Specialty sandwiches"
+          ],
+          "applicationsAr": [
+            "البوفيهات الراقية",
+            "الساندويشات الخاصة"
+          ],
+          "verificationStatus": "VERIFIED"
+        }
+      ],
+      "targetUsersEn": [
+        "Commercial & Artisanal Bakeries",
+        "Hotels & Breakfast Buffet Operators",
+        "Supermarket & Gourmet Retailers",
+        "Food Distributors & Exporters"
+      ],
+      "targetUsersAr": [
+        "المخابز التجارية ومخابز المعجنات",
+        "الفنادق ومقدمو بوفيهات الإفطار",
+        "السوبرماركت ومتاجر الأغذية الفاخرة",
+        "موزعو ومصدرو الأغذية"
+      ],
+      "relatedIndustries": [
+        "HORECA",
+        "Food Manufacturing"
+      ],
+      "relatedIndustriesAr": [
+        "قطاع الضيافة والمطاعم (هوريكا)",
+        "التصنيع الغذائي"
+      ],
+      "relatedProductFamilyIds": [
+        "family-gluten-free",
+        "family-tapel"
+      ],
+      "faqIds": [
+        "faq-zaatar-1",
+        "faq-zaatar-2",
+        "faq-zaatar-3",
+        "faq-zaatar-4",
+        "faq-zaatar-5"
+      ],
+      "sourceReference": "Morganite Official Website & ISO 14001:2015 Registered Scope",
+      "specialNoticeEn": "Verified Ingredients Policy: Public descriptions specify thyme herb, toasted sesame seeds, salt, and sumac. No unverified ingredients are added.",
+      "specialNoticeAr": "سياسة المكونات الموثقة: توضح البيانات الرسمية مكونات الزعتر من أوراق الزعتر، السمسم المحمص، الملح، والسماق فقط دون افتراض مكونات غير منشورة."
+    },
+    {
+      "id": "family-gluten-free",
+      "slug": "gluten-free",
+      "name": "GLUTEN FREE",
+      "nameAr": "المنتجات الخالية من الغلوتين - GLUTEN FREE",
+      "taglineEn": "Dedicated Gluten-Free Flours, Seasonings & Coating Systems",
+      "taglineAr": "طحين وتوابل وأنظمة تغطية مخصصة وخالية من الغلوتين",
+      "overviewEn": "Morganite publicly lists a specialized gluten-free product range manufactured to accommodate consumers and food processors seeking alternative grains and wheat-free solutions. The range spans base flours, seasoned gluten-free breadings, savory stocks, and authentic thyme blends.",
+      "overviewAr": "تعلن شركة مورجانيت عن تشكيلة متخصصة من المنتجات الخالية من الغلوتين لتلبية احتياجات المستهلكين ومصنعي الأغذية الباحثين عن بدائل الحبوب والحلول الخالية من القمح. تشمل التشكيلة أنواع الطحين الأساسي، البقسماط الخالي من الغلوتين، مرق الدجاج، وخلطات الزعتر.",
+      "aiSummaryEn": "Morganite’s publicly listed gluten-free range includes Rice Flour, Corn Flour, Zaatar, Zaatar with Olive Oil, Spices, Chicken Stock, Flour Breading, Batter Mix, and Tempura.",
+      "aiSummaryAr": "تشمل تشكيلة مورجانيت الخالية من الغلوتين طحين الأرز، طحين الذرة، الزعتر، الزعتر بزيت الزيتون، البهارات، مرق الدجاج، طحين التغطية، الباتر والتمبورا.",
+      "applicationsEn": [
+        "Gluten-free bakery and pastry formulations",
+        "Wheat-free crispy fried chicken and appetizer coatings",
+        "Allergen-conscious seasoning in institutional kitchens",
+        "Gluten-free soups, stocks, and culinary bases"
+      ],
+      "applicationsAr": [
+        "مخبوزات ومعجنات خالية من الغلوتين",
+        "تغطية الدجاج المقلي والمقبلات بدون طحين القمح",
+        "تتبيل الأطعمة للمطابخ المهتمة بمسببات الحساسية",
+        "شوربات ومرق وقواعد طهي خالية من الغلوتين"
+      ],
+      "productExamples": [
+        {
+          "name": "Rice Flour (Gluten-Free)",
+          "nameAr": "طحين الأرز (خالٍ من الغلوتين)",
+          "description": "Finely milled pure rice flour serving as versatile neutral base for gluten-free baking and thickening.",
+          "descriptionAr": "طحين أرز نقي مطحون بدقة يستخدم كقاعدة محايدة للخبز وتكثيف القوام.",
+          "applications": [
+            "Baking",
+            "Thickening",
+            "Batter base"
+          ],
+          "applicationsAr": [
+            "المخبوزات",
+            "تكثيف الصلصات",
+            "قواعد الباتر"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Corn Flour (Gluten-Free)",
+          "nameAr": "طحين الذرة (خالٍ من الغلوتين)",
+          "description": "Refined corn flour delivering crisp structure and golden color in wheat-free cooking.",
+          "descriptionAr": "طحين ذرة ناعم يمنح قواماً مقرمشاً ولوناً ذهبياً في الوصفات الخالية من القمح.",
+          "applications": [
+            "Gluten-free tortillas",
+            "Crisping batters",
+            "Sauce binding"
+          ],
+          "applicationsAr": [
+            "تورتيلا خالية من الغلوتين",
+            "خلطات القرمشة",
+            "ربط الصلصات"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Gluten-Free Zaatar & Zaatar with Olive Oil",
+          "nameAr": "زعتر خالٍ من الغلوتين وزعتر بزيت الزيتون",
+          "description": "Authentic Levantine thyme blends formulated in Morganite’s gluten-free product portfolio.",
+          "descriptionAr": "خلطات زعتر بلدي أصيلة مقدمة ضمن تشكيلة مورجانيت للمنتجات الخالية من الغلوتين.",
+          "applications": [
+            "Gluten-free pastries",
+            "Breakfast table dip"
+          ],
+          "applicationsAr": [
+            "معجنات خالية من الغلوتين",
+            "تغميس الإفطار"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Gluten-Free Spices & Chicken Stock",
+          "nameAr": "بهارات ومرق دجاج خالٍ من الغلوتين",
+          "description": "Culinary spice blends and chicken bouillon base free from gluten-containing cereal carriers.",
+          "descriptionAr": "خلطات بهارات طهي ومرق دجاج خالية من الحوامل والمكونات المحتوية على الغلوتين.",
+          "applications": [
+            "Soups",
+            "Marinades",
+            "Stews"
+          ],
+          "applicationsAr": [
+            "الشوربات",
+            "التتبيلات",
+            "اليخنات"
+          ],
+          "verificationStatus": "VERIFIED"
+        },
+        {
+          "name": "Gluten-Free Flour Breading, Batter & Tempura",
+          "nameAr": "طحين تغطية وباتر وتمبورا خالية من الغلوتين",
+          "description": "High-performance crispy coating system developed for wheat-free frying of chicken and vegetables.",
+          "descriptionAr": "أنظمة تغطية مقرمشة عالية الأداء مصممة لقلي الدجاج والخضار بدون طحين القمح.",
+          "applications": [
+            "Gluten-free broasted chicken",
+            "Wheat-free nuggets",
+            "Tempura shrimp"
+          ],
+          "applicationsAr": [
+            "دجاج بروستد خالٍ من الغلوتين",
+            "ناغتس بدون قمح",
+            "روبيان تمبورا"
+          ],
+          "verificationStatus": "VERIFIED"
+        }
+      ],
+      "targetUsersEn": [
+        "Gluten-Free Dedicated Bakeries",
+        "Allergen-Conscious Food Manufacturers",
+        "HORECA Caterers with Dietary Menus",
+        "Specialty Health Retailers"
+      ],
+      "targetUsersAr": [
+        "المخابز المتخصصة بالمنتجات الخالية من الغلوتين",
+        "مصانع الأغذية المهتمة ببدائل مسببات الحساسية",
+        "مطابخ الضيافة التي تقدم قوائم حميات خاصة",
+        "متاجر الأغذية الصحية المتخصصة"
+      ],
+      "relatedIndustries": [
+        "Food Manufacturing",
+        "HORECA"
+      ],
+      "relatedIndustriesAr": [
+        "التصنيع الغذائي",
+        "قطاع الضيافة والمطاعم (هوريكا)"
+      ],
+      "relatedProductFamilyIds": [
+        "family-zaatar",
+        "family-crusty"
+      ],
+      "faqIds": [
+        "faq-glutenfree-1",
+        "faq-glutenfree-2",
+        "faq-glutenfree-3",
+        "faq-glutenfree-4"
+      ],
+      "sourceReference": "Morganite Official Website Gluten-Free Range & 2026 Facility Updates",
+      "specialNoticeEn": "Factual Notice: Morganite publicly lists these items within its gluten-free product range. No medical or celiac disease therapeutic claims are made; businesses should verify current batch certificates for specific regulatory compliance.",
+      "specialNoticeAr": "تنويه توثيقي: تعلن مورجانيت عن هذه المنتجات ضمن تشكيلة خالية من الغلوتين. لا تقدم الشركة ادعاءات طبية أو علاجية لمرضى حساسية القمح (السيلياك)؛ ويُنصح بالتحقق من شهادات التشغيلات المحددة للمطابقة الرقابية."
+    }
+  ],
+  "industries": [
+    {
+      "id": "ind-meat-processing",
+      "slug": "meat-processing",
+      "name": "Meat Processing & Further-Processing Solutions",
+      "nameAr": "حلول مصانع ومعالجة اللحوم",
+      "heroTaglineEn": "Engineered Spice Systems, Functional Binders, Flavors & Breading for Industrial Meat Processors",
+      "heroTaglineAr": "أنظمة بهارات متخصصة، روابط وظيفية، نكهات وبقسماط لمصانع اللحوم المصنعة",
+      "overviewEn": "Morganite provides comprehensive formulation solutions for commercial meat processors across Jordan and the region. Our offerings address texture stabilization, moisture management, yield improvement, authentic seasoning, and high-performance crispy coatings for poultry, beef, and specialty deli items.",
+      "overviewAr": "توفر مورجانيت حلول تركيب متكاملة لمصانع اللحوم في الأردن والمنطقة. تغطي حلولنا تثبيت القوام، إدارة الرطوبة، رفع الإنتاجية بعد الطهي، التتبيل الأصيل، وأنظمة التغطية المقرمشة للدواجن واللحوم الحمراء ومصنعات اللانشون والمرتديلا.",
+      "aiSummaryEn": "Morganite provides meat processors with specialized seasonings (TAPEL), flavor enhancers (FLAVEX), functional binders/brines (ACTIVE), and coating systems (CRUSTY) for mortadella, sausages, burgers, nuggets, and shawarma.",
+      "aiSummaryAr": "توفر مورجانيت لمصانع اللحوم بهارات متخصصة (TAPEL)، نكهات غذائية (FLAVEX)، روابط ومحاليل نقع وظيفية (ACTIVE)، وأنظمة تغطية (CRUSTY) لإنتاج المرتديلا، السجق، البرغر، الناغتس، والشاورما.",
+      "challengesSolvedEn": [
+        "Moisture loss and shrinkage during frying or commercial cooking",
+        "Batch-to-batch flavor inconsistencies in large volume production",
+        "Emulsion breakdown and fat separation in comminuted meat pastes",
+        "Coating detachment and sogginess in frozen par-fried chicken",
+        "Texture and mouthfeel optimization when formulating with MDM"
+      ],
+      "challengesSolvedAr": [
+        "فقدان الرطوبة وانكماش الحجم أثناء القلي أو الطهي التجاري",
+        "تفاوت الطعم بين تشغيلات الإنتاج الكبيرة",
+        "تفكك المستحلب وانفصال الدهون في معجون اللحوم المفرومة",
+        "انفصال طبقة البقسماط وفقدان القرمشة في المنتجات المجمدة",
+        "تحسين القوام والملمس في الوصفات المعتمدة على لحوم MDM"
+      ],
+      "keySolutionsEn": [
+        "TAPEL: Tailored spice profiles for Mortadella, Luncheon, Franks, Salami, Burgers, and Kebabs",
+        "ACTIVE: Functional Brine Mixes, Burger Enhancers, and MDM Fighters for texture and yield",
+        "FLAVEX: High-thermal stable Beef, Chicken, Smoke, and Grill flavors",
+        "CRUSTY: Pre-dust, Batter, and Flour Breadings for broasted chicken and nuggets"
+      ],
+      "keySolutionsAr": [
+        "تابل (TAPEL): توليفات بهارات متكاملة للمرتديلا، اللانشون، النقانق، السلامي، البرغر، والكباب",
+        "أكتيف (ACTIVE): محاليل حقن وظيفية، ومحسنات للبرغر، ومعالجات لحوم MDM لتحسين القوام والإنتاجية",
+        "فلافيكس (FLAVEX): نكهات لحم بقري ودجاج وتدخين وشواء ثابتة حرارياً",
+        "كروستي (CRUSTY): بريدست، باتر وطحين تغطية مخصص لدجاج البروستد والناغتس"
+      ],
+      "matchingProductFamilies": [
+        "family-tapel",
+        "family-active",
+        "family-flavex",
+        "family-crusty"
+      ],
+      "sourceReference": "Morganite Industry Applications & HORECA Trade Documents"
+    },
+    {
+      "id": "ind-food-manufacturing",
+      "slug": "food-manufacturing",
+      "name": "Industrial Food Manufacturing & Dry Mix Solutions",
+      "nameAr": "قطاع التصنيع الغذائي والخلطات الجافة الصناعية",
+      "heroTaglineEn": "Custom Blends, Technical R&D, and Standardized Flavor Formulations for Food Factories",
+      "heroTaglineAr": "خلطات مخصصة، بحث وتطوير تقني، وتوليفات نكهات معيارية للمصانع الغذائية",
+      "overviewEn": "Food manufacturers require reliable ingredient consistency, microbiological safety, and custom technical development. Morganite acts as an industrial partner supplying bulk dry mixes, customized seasoning formulas, bakery improvers, and dedicated allergen-conscious gluten-free solutions.",
+      "overviewAr": "تحتاج المصانع الغذائية إلى ثبات معياري في المواد الأولية، وضمانات الجودة الميكروبيولوجية، وتطوير تقني مخصص. تعمل مورجانيت كشريك صناعي يوفر الخلطات الجافة السائبة، وتراكيب التوابل المخصصة، ومحسنات المخابز، والحلول الخالية من الغلوتين.",
+      "aiSummaryEn": "For industrial food manufacturers, Morganite supplies custom dry mixes, bakery conditioning agents, bulk flavor bases, and contract formulation under ISO 14001:2015 environmental and safety standards.",
+      "aiSummaryAr": "توفر مورجانيت للمصانع الغذائية خلطات جافة مخصصة، ومحسنات عجين، وقواعد نكهات سائبة، مع خدمات التطوير التعاقدي وفق معايير الجودة والبيئة آيزو 14001:2015.",
+      "challengesSolvedEn": [
+        "Scaling laboratory formulations to commercial-scale continuous production",
+        "Maintaining exact spice and flavor profile confidentiality",
+        "Developing gluten-free alternative lines without sacrificing texture",
+        "Standardizing bakery dough volume, crumb structure, and shelf freshness"
+      ],
+      "challengesSolvedAr": [
+        "نقل وصفات المختبر إلى خطوط الإنتاج المستمرة على نطاق واسع",
+        "حماية سرية وصفات وخلطات العملاء الخاصة بدقة",
+        "تطوير خطوط خالية من الغلوتين مع الحفاظ على القوام المرغوب",
+        "توحيد حجم المخبوزات ونعومة اللب وعمر الصلاحية على الرف"
+      ],
+      "keySolutionsEn": [
+        "Confidential Contract Blending & Formulation Assistance",
+        "ACTIVE Bread Improvers for industrial bakeries and flatbread lines",
+        "Gluten-Free Rice & Corn Flours, Bouillons, and Specialty Coatings",
+        "Standardized Bulk Seasonings & Industrial Flavor Carriers"
+      ],
+      "keySolutionsAr": [
+        "خلطات مخصصة سرية وخدمات مساعدة في التركيبات المخبرية",
+        "محسنات الخبز (أكتيف) للمخابز الصناعية وخطوط الخبز الآلي",
+        "طحين أرز وذرة ومرق وأنظمة تغطية متخصصة خالية من الغلوتين",
+        "بهارات سائبة معيارية وحوامل نكهات صناعية"
+      ],
+      "matchingProductFamilies": [
+        "family-active",
+        "family-gluten-free",
+        "family-flavex",
+        "family-tapel"
+      ],
+      "sourceReference": "Morganite Corporate Capability Statement & Factory Profile"
+    },
+    {
+      "id": "ind-horeca",
+      "slug": "horeca",
+      "name": "HORECA (Hotels, Restaurants, Cafes & Central Kitchens)",
+      "nameAr": "قطاع الضيافة والمطاعم والمطابخ المركزية (هوريكا)",
+      "heroTaglineEn": "Ready-to-Use Sauces, Signature Marinades, Crispy Breadings & Heritage Thyme Blends for Culinary Pros",
+      "heroTaglineAr": "صلصات جاهزة، تتبيلات مميزة، بقسماط مقرمش وخلطات زعتر بلدي لقطاع المطاعم والضيافة",
+      "overviewEn": "The modern foodservice and hospitality sector demands high kitchen speed, portion control, menu differentiation, and uncompromised taste. Morganite supports culinary directors, executive chefs, and restaurant operators with ready-to-use sauces, signature marinade bases, crispy fry coatings, and authentic Jordanian Zaatar.",
+      "overviewAr": "يتطلب قطاع المطاعم والضيافة الحديث سرعة التحضير في المطابخ، وضبط التكلفة والكميات، وتميز أطباق القائمة، والمذاق العالي. تدعم مورجانيت الطهاة التنفيذيين وإدارات المطاعم بسلسلة صلصات جاهزة، وقواعد تتبيل، وأنظمة قرمشة، والزعتر الأردني الأصيل.",
+      "aiSummaryEn": "Morganite supports HORECA operators with ready commercial sauces (SALSA), crispy chicken coatings (CRUSTY), culinary seasonings (TAPEL), and traditional Zaatar and Duqqa for breakfast buffets and dining menus.",
+      "aiSummaryAr": "تدعم مورجانيت قطاع هوريكا بصلصات تجارية جاهزة (SALSA)، وأنظمة قلي دجاج مقرمش (CRUSTY)، وتوابل طهي (TAPEL)، وزعتر ودقة تراثية لبوفيهات الإفطار وقوائم الطعام.",
+      "challengesSolvedEn": [
+        "Inconsistent sauce quality and high labor cost in manual prep",
+        "Loss of coating crunchiness in delivery and takeaway orders",
+        "Complex recipe management across multiple chain branches",
+        "Sourcing authentic Jordanian heritage Zaatar with consistent quality"
+      ],
+      "challengesSolvedAr": [
+        "تفاوت جودة الصلصات وارتفاع تكلفة العمالة في التحضير اليدوي",
+        "فقدان قرمشة الوجبات المقلية أثناء خدمات التوصيل",
+        "صعوبة ضبط المعايير عبر فروع سلاسل المطاعم المتعددة",
+        "تأمين زعتر أردني بلدي أصيل بجودة وثبات على مدار العام"
+      ],
+      "keySolutionsEn": [
+        "SALSA: Ready Mayo, Garlic, BBQ, Buffalo, Mustard, and Steak Sauces",
+        "CRUSTY: High-crunch Breading and Batters designed for delivery hold-time",
+        "TAPEL: Fast-marinating Fajita, Zinger, Broasted, and Kebab seasonings",
+        "ZAATAR: Authentic Levantine Thyme & Duqqa for hotel buffets and bakeries"
+      ],
+      "keySolutionsAr": [
+        "صلصة (SALSA): مايونيز، ثومية، باربكيو، بافلو، خردل، وصلصة ستيك جاهزة للاستخدام",
+        "كروستي (CRUSTY): طحين وباتر مقرمش يحافظ على القرمشة لفترة أطول أثناء التوصيل",
+        "تابل (TAPEL): تتبيلات فاهيتا، زنجر، بروستد وكباب سريعة النقع وعالية النكهة",
+        "زعتر (ZAATAR): خلطات زعتر ودقة أردنية أصيلة للبوفيهات والمخابز"
+      ],
+      "matchingProductFamilies": [
+        "family-salsa",
+        "family-crusty",
+        "family-tapel",
+        "family-zaatar"
+      ],
+      "sourceReference": "Morganite Foodservice Catalog & HORECA Jordan Exhibition Records"
+    }
+  ],
+  "searchIntentPages": [
+    {
+      "slug": "morganite-jordan",
+      "titleEn": "Morganite for Food Technology in Jordan | Entity Overview & Capabilities",
+      "titleAr": "مورجانيت لتكنولوجيا الأغذية في الأردن | الدليل التعريفي والقدرات الصناعية",
+      "metaDescriptionEn": "Authoritative factual knowledge overview of Morganite for Food Technology, established in 2013 in Amman, Jordan. Specializing in dry mixes, flavors, coatings, and seasonings.",
+      "metaDescriptionAr": "دليل معرفي موثق عن شركة مورجانيت لتكنولوجيا الأغذية، تأسست عام 2013 في عمان الأردن، متخصصة في الخلطات الجافة والنكهات والتغطية والبهارات.",
+      "aiSummaryEn": "Morganite for Food Technology is a Jordanian food technology company founded in 2013 in Abu Alanda, Amman. It manufactures dry food mixes, flavors, seasonings, coatings, sauces, and functional ingredients for food processors and HORECA.",
+      "aiSummaryAr": "مورجانيت لتكنولوجيا الأغذية هي شركة أردنية متخصصة في تكنولوجيا وتصنيع الأغذية تأسست عام 2013 في أبو علندا بعمان، وتنتج الخلطات الجافة والنكهات والبهارات وصلصات التغطية والمكونات الوظيفية.",
+      "topicCategory": "Corporate Entity & Overview",
+      "intentType": "Entity Definition",
+      "mainContentEn": [
+        {
+          "heading": "Company Foundation & Industrial Presence",
+          "body": [
+            "Morganite for Food Technology was founded in 2013 in Amman, Jordan. Its primary facility is situated in the Abu Alanda Industrial Area on Abdul Razzaq Al Rabih Street.",
+            "The company operates as a self-owned enterprise with an estimated team of 11–50 specialized personnel in food science, production, and technical sales.",
+            "Morganite holds ISO 14001:2015 certification for the production and packaging of specialized food products including flavors, thyme (Zaatar), and customized dry food blends."
+          ],
+          "keyTakeaways": [
+            "Founded in 2013 in Amman, Jordan",
+            "Facility located in Abu Alanda Industrial Area",
+            "Holds ISO 14001:2015 Environmental Management System Certification"
+          ]
+        },
+        {
+          "heading": "Product Portfolio & Industrial Scope",
+          "body": [
+            "Morganite is organized around seven distinct product families: FLAVEX (Flavors), CRUSTY (Coatings & Breadings), ACTIVE (Functional Ingredients & Improvers), TAPEL (Specialized Spice Blends), SALSA (Commercial Sauces), ZAATAR (Traditional Jordanian Thyme & Duqqa), and GLUTEN FREE (Dedicated Alternative Flour & Seasoning Range).",
+            "The business serves commercial clients in meat further-processing, large-scale food manufacturing, and the regional HORECA (Hotels, Restaurants, Cafes) sector."
+          ],
+          "keyTakeaways": [
+            "7 established product families",
+            "Focus on B2B meat processors, food manufacturers, and HORECA",
+            "Dedicated R&D and confidential custom formulation capabilities"
+          ]
+        }
+      ],
+      "mainContentAr": [
+        {
+          "heading": "تأسيس الشركة والتواجد الصناعي",
+          "body": [
+            "تأسست شركة مورجانيت لتكنولوجيا الأغذية في عام 2013 في العاصمة الأردنية عمان، ويقع مصنعها ومنشأتها الرئيسية في المنطقة الصناعية بأبو علندا على شارع عبد الرزاق الرابح.",
+            "تعمل الشركة كمنشأة مملوكة ذاتياً مع فريق عمل متخصص في علوم وتكنولوجيا الأغذية، والإنتاج، والدعم الفني.",
+            "المنشأة حاصلة على شهادة المطابقة آيزو 14001:2015 لنظام الإدارة البيئية في مجال إنتاج وتعبئة النكهات والزعتر والخلطات المتخصصة."
+          ],
+          "keyTakeaways": [
+            "تأسست عام 2013 في عمان، الأردن",
+            "المنشأة تقع في المنطقة الصناعية - أبو علندا",
+            "حاصلة على شهادة ISO 14001:2015 السارية"
+          ]
+        },
+        {
+          "heading": "محفظة المنتجات والنطاق الصناعي",
+          "body": [
+            "تنتظم منتجات الشركة تحت 7 عائلات رئيسية: فلافيكس (النكهات)، كروستي (التغطية والبقسماط)، أكتيف (المكونات الوظيفية)، تابل (خلطات البهارات)، صلصة (الصلصات الجاهزة)، زعتر (الزعتر والدقة الأردنية)، والمنتجات الخالية من الغلوتين.",
+            "تخدم الشركة قطاعات مصانع اللحوم، التصنيع الغذائي، وسلاسل الضيافة والمطاعم في الأردن والأسواق الإقليمية."
+          ],
+          "keyTakeaways": [
+            "7 عائلات منتجات صناعية متخصصة",
+            "تركيز رئيسي على المعالجة الصناعية للحوم وهوريكا",
+            "قدرات بحث وتطوير وتصنيع خلطات سرية مخصصة"
+          ]
+        }
+      ],
+      "relatedEntities": [
+        "org-morganite-food-technology",
+        "person-salah-alheresh",
+        "cert-iso-14001"
+      ],
+      "relatedProducts": [
+        "flavex",
+        "crusty",
+        "active",
+        "tapel",
+        "salsa",
+        "zaatar",
+        "gluten-free"
+      ],
+      "relatedIndustries": [
+        "meat-processing",
+        "food-manufacturing",
+        "horeca"
+      ]
+    },
+    {
+      "slug": "food-technology-jordan",
+      "titleEn": "Food Technology in Jordan | Industrial Formulations & Quality Standards",
+      "titleAr": "تكنولوجيا الأغذية في الأردن | التركيبات الصناعية ومعايير الجودة",
+      "metaDescriptionEn": "Explore how food technology companies in Jordan develop dry food mixes, functional ingredient systems, and flavor formulations for regional food manufacturers.",
+      "metaDescriptionAr": "تعرف على دور شركات تكنولوجيا الأغذية في الأردن في تطوير الخلطات الجافة، المكونات الوظيفية، وتركيبات النكهات للمصانع الغذائية.",
+      "aiSummaryEn": "The Jordanian food technology sector provides essential R&D, ingredient blending, and texture enhancement for the regional food industry. Morganite for Food Technology is an established Jordan-based manufacturer serving this sector since 2013.",
+      "aiSummaryAr": "يقدم قطاع تكنولوجيا الأغذية الأردني خدمات البحث والتطوير، مزج المكونات وتحسين القوام للصناعات الغذائية الإقليمية. وتعد مورجانيت من الشركات الأردنية العاملة في هذا المجال منذ 2013.",
+      "topicCategory": "Industry Analysis",
+      "intentType": "Educational",
+      "mainContentEn": [
+        {
+          "heading": "The Role of Food Technology in Jordan",
+          "body": [
+            "Jordan has established itself as an agile manufacturing and R&D hub for food science across the Levant and GCC regions. Food technology companies formulate customized ingredient solutions that allow manufacturers to achieve precise texture, shelf life, and sensory parameters.",
+            "Key technological developments include thermal-stable flavor compounds, hydrocolloid water-binding systems, and allergen-segregated processing environments."
+          ],
+          "keyTakeaways": [
+            "Jordan is a regional center for food formulation and dry ingredient blending",
+            "Focus on thermal stability, shelf-life extension, and texture consistency",
+            "Adherence to strict national and international standards (JSMO, ISO, Halal)"
+          ]
+        },
+        {
+          "heading": "Morganite’s Contribution to Jordanian Food Technology",
+          "body": [
+            "Located in Amman’s Abu Alanda industrial cluster, Morganite for Food Technology applies modern food engineering to develop specialized spice systems (TAPEL), functional binders (ACTIVE), and crispy coatings (CRUSTY).",
+            "Through collaborative R&D and sensory evaluation practices, Morganite helps local and export food processors modernize traditional recipes for automated production."
+          ],
+          "keyTakeaways": [
+            "Laboratory and pilot plant formulation capabilities",
+            "Close alignment with modern sensory evaluation practices in Jordan"
+          ]
+        }
+      ],
+      "mainContentAr": [
+        {
+          "heading": "دور تكنولوجيا الأغذية في الصناعة الأردنية",
+          "body": [
+            "يتميز الأردن بكونه مركزاً إقليمياً متقدماً في علوم وتكنولوجيا الأغذية وتركيب الخلطات الجافة الموجهة لأسواق الشرق الأوسط والخليج. تعمل شركات تكنولوجيا الأغذية على تصميم حلول دقيقة تضمن ثبات القوام وفترة الصلاحية والخصائص الحسية للأطعمة.",
+            "تشمل التطورات التقنية تطوير نكهات مقاومة لحرارة الطهي، وروابط هيدروكولودية لحفظ العصارة، وخطوط إنتاج مخصصة للبدائل الخالية من مسببات الحساسية."
+          ],
+          "keyTakeaways": [
+            "الأردن مركز إقليمي لتركيب ومزج المكونات الغذائية الجافة",
+            "التركيز على الثبات الحراري وإطالة الصلاحية وتجانس القوام",
+            "مطابقة المواصفات الأردنية والدولية (المواصفات والمقاييس، آيزو، حلال)"
+          ]
+        },
+        {
+          "heading": "إسهام مورجانيت في قطاع تكنولوجيا الأغذية",
+          "body": [
+            "من موقعها في مجمع أبو علندا الصناعي بعمان، تطبق مورجانيت الهندسة الغذائية الحديثة لابتكار منظومات بهارات (تابل)، ومكونات وظيفية (أكتيف)، وأنظمة تغطية (كروستي).",
+            "تساعد الشركة المصانع المحلية والإقليمية على تكييف الوصفات التراثية مع خطوط الإنتاج الآلية الحديثة."
+          ],
+          "keyTakeaways": [
+            "قدرات بحث وتطوير مخبري وتجريبي",
+            "مواكبة ممارسات التقييم الحسي العلمي للأغذية في الأردن"
+          ]
+        }
+      ],
+      "relatedEntities": [
+        "org-morganite-food-technology",
+        "person-salah-alheresh"
+      ],
+      "relatedProducts": [
+        "active",
+        "flavex",
+        "crusty"
+      ],
+      "relatedIndustries": [
+        "food-manufacturing",
+        "meat-processing"
+      ]
+    },
+    {
+      "slug": "food-manufacturing-jordan",
+      "titleEn": "Food Manufacturing in Jordan | Industrial Ingredient Supply & Standards",
+      "titleAr": "التصنيع الغذائي في الأردن | توريد المكونات الصناعية ومعايير الجودة",
+      "metaDescriptionEn": "Discover Jordan’s food manufacturing landscape and how specialized ingredient suppliers like Morganite support industrial processing plants with dry mixes and custom seasonings.",
+      "metaDescriptionAr": "استكشف قطاع التصنيع الغذائي في الأردن وكيف تدعم شركات المكونات مثل مورجانيت المصانع بالخلطات الجافة والتوابل المخصصة.",
+      "aiSummaryEn": "Food manufacturing in Jordan relies on high-grade ingredient blending, microbiological safety, and functional additives. Morganite for Food Technology supplies bulk mixes, improvers, and custom seasonings to food factories from Amman.",
+      "aiSummaryAr": "يعتمد التصنيع الغذائي في الأردن على دقة خلط المكونات، السلامة الميكروبيولوجية، والمضافات الوظيفية. وتوفر مورجانيت الخلطات السائبة ومحسنات القوام للمصانع انطلاقاً من عمان.",
+      "topicCategory": "Industrial Sector",
+      "intentType": "Educational",
+      "mainContentEn": [
+        {
+          "heading": "Industrial Dynamics of Jordanian Food Production",
+          "body": [
+            "The food manufacturing sector in Jordan is a major contributor to national exports, operating under rigorous hygienic controls and sensory standards.",
+            "Food processors frequently partner with specialized blending facilities to outsource complex dry mix formulation, enabling operational focus on core processing and packaging."
+          ],
+          "keyTakeaways": [
+            "Strict compliance with Jordanian Standards and Metrology Organization (JSMO)",
+            "High export demand across the Levant, GCC, and international ethnic markets",
+            "Increasing adoption of dedicated gluten-free and allergen-controlled production"
+          ]
+        },
+        {
+          "heading": "Morganite’s Industrial Manufacturing Support",
+          "body": [
+            "Morganite supplies food manufacturing facilities with pre-measured seasoning packs, functional bread improvers, and tailored coating systems.",
+            "Batch consistency and ISO 14001:2015 management practices ensure that industrial clients receive uniform lots that integrate seamlessly into high-speed lines."
+          ],
+          "keyTakeaways": [
+            "Pre-batched seasoning bags tailored to client batch sizes",
+            "ISO 14001:2015 certified environmental management"
+          ]
+        }
+      ],
+      "mainContentAr": [
+        {
+          "heading": "ديناميكيات التصنيع الغذائي في الأردن",
+          "body": [
+            "يمثل قطاع التصنيع الغذائي أحد أهم القطاعات الإنتاجية والتصديرية في الأردن، حيث يعمل تحت رقابة صحية ومعايير قياسية صارمة.",
+            "تلجأ العديد من المصانع إلى الشراكة مع منشآت متخصصة في خلط المكونات الجافة لضمان دقة النسب وتوفير الوقت والجهد في عمليات الإنتاج الواسعة."
+          ],
+          "keyTakeaways": [
+            "مطابقة معايير مؤسسة المواصفات والمقاييس الأردنية (JSMO)",
+            "طلب تصديري متنامٍ في الأسواق العربية والخليجية",
+            "توسع في اعتماد خطوط إنتاج خالية من الغلوتين والمواد المسببة للحساسية"
+          ]
+        },
+        {
+          "heading": "دعم مورجانيت لخطوط الإنتاج الصناعي",
+          "body": [
+            "تزود مورجانيت مصانع الأغذية بعبوات بهارات وخلطات مسبقة الوزن تتناسب مع أحجام الخلطات الإنتاجية لدى العميل، إضافة إلى محسنات الخبز وأنظمة التغطية.",
+            "يضمن نظام إدارة البيئة والجودة المعتمد تسليم دفعات متطابقة تماماً تعمل بسلاسة على خطوط التعبئة والتصنيع السريعة."
+          ],
+          "keyTakeaways": [
+            "عبوات خلطات مسبقة الوزن مصممة لأحجام خلاطات العميل",
+            "إدارة بيئية وجودة معتمدة بشهادة ISO 14001:2015"
+          ]
+        }
+      ],
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedProducts": [
+        "active",
+        "gluten-free",
+        "tapel"
+      ],
+      "relatedIndustries": [
+        "food-manufacturing"
+      ]
+    },
+    {
+      "slug": "spice-blends-jordan",
+      "titleEn": "Specialized Spice Blends in Jordan | Meat, Culinary & Industrial Seasonings",
+      "titleAr": "خلطات البهارات المتخصصة في الأردن | بهارات اللحوم والتوابل الصناعية",
+      "metaDescriptionEn": "Comprehensive guide to specialized spice blending in Jordan. How Morganite TAPEL provides custom seasoning formulas for mortadella, burgers, shawarma, and HORECA.",
+      "metaDescriptionAr": "دليل شامل لخلطات البهارات المتخصصة في الأردن. كيف توفر علامة تابل (TAPEL) من مورجانيت توابل مخصصة للمرتديلا والبرغر والشاورما والمطاعم.",
+      "aiSummaryEn": "Spice blending for commercial food processing requires aromatic balance, microbial safety, and thermal stability. Morganite produces TAPEL spice blends in Amman, Jordan, serving meat processors and restaurants.",
+      "aiSummaryAr": "يتطلب مزج البهارات للتصنيع الغذائي توازناً عطرياً، سلامة ميكروبيولوجية، وثباتاً حرارياً. وتنتج مورجانيت خلطات تابل (TAPEL) في عمان لتلبية احتياجات مصانع اللحوم والمطاعم.",
+      "topicCategory": "Product Category Hub",
+      "intentType": "Commercial Research",
+      "mainContentEn": [
+        {
+          "heading": "Crafting Industrial & Culinary Spice Blends",
+          "body": [
+            "Commercial spice blending differs fundamentally from retail seasoning. In industrial meat processing, spices must endure pasteurization, smoking, freezing, and reheating without flavor loss or discoloration.",
+            "Morganite’s TAPEL brand formulates customized seasoning formulas tailored to specific meats (beef, poultry, lamb) and traditional regional dishes."
+          ],
+          "keyTakeaways": [
+            "Precision grinding and homogenous blending prevent hot spots",
+            "Formulations designed for meat emulsions, cured salamis, and fast marinades",
+            "Levantine, Mediterranean, and international flavor profiles"
+          ]
+        },
+        {
+          "heading": "Key Spice Profiles in Morganite TAPEL",
+          "body": [
+            "The TAPEL line includes dedicated blends for Mortadella, Sausage, Salami, Luncheon, Pepperoni, Burgers, Kebabs, Zinger Chicken, Broasted Chicken, Kofta, Fajita, and Masala.",
+            "Custom proprietary blends can be engineered under confidentiality agreements for restaurant chains and private-label manufacturers."
+          ],
+          "keyTakeaways": [
+            "Over 14 verified specialized spice applications",
+            "Custom flavor matching and private recipe formulation"
+          ]
+        }
+      ],
+      "mainContentAr": [
+        {
+          "heading": "صناعة خلطات البهارات الصناعية والطهوية",
+          "body": [
+            "يختلف خلط البهارات الصناعي جوهرياً عن بهارات المائدة العادية؛ حيث يجب أن تتحمل التوابل عمليات البسترة، التدخين، التجميد، وإعادة التسخين دون أن تفقد نكهتها العطرية أو يتغير لونها.",
+            "تطور علامة تابل (TAPEL) من مورجانيت توليفات بهارات دقيقة مخصصة لنوع اللحم المستخدم والأطباق التراثية والعالمية."
+          ],
+          "keyTakeaways": [
+            "طحن دقيق ومزج متجانس يمنع تفاوت النكهة في المنتج",
+            "تركيبات مخصصة لمستحلبات اللحوم والسلامي والتتبيل السريع",
+            "ملفات نكهات شامية ومتوسطية وعالمية أصيلة"
+          ]
+        },
+        {
+          "heading": "أبرز خلطات البهارات في مجموعة تابل (TAPEL)",
+          "body": [
+            "تتضمن مجموعة تابل خلطات مخصصة للمرتديلا، السجق، السلامي، اللانشون، البيبروني، البرغر، الكباب، الزنجر، البروستد، الكفتة، الفاهيتا، والمسالا.",
+            "إمكانية تطوير خلطات حصرية سرية لسلاسل المطاعم ومصانع الأغذية بموجب اتفاقيات سرية المهنة."
+          ],
+          "keyTakeaways": [
+            "أكثر من 14 تطبيقاً متخصصاً لبهارات اللحوم والمأكولات",
+            "مطابقة النكهات وابتكار وصفات خاصة بالعميل"
+          ]
+        }
+      ],
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedProducts": [
+        "tapel",
+        "flavex"
+      ],
+      "relatedIndustries": [
+        "meat-processing",
+        "horeca"
+      ]
+    },
+    {
+      "slug": "food-flavors-jordan",
+      "titleEn": "Industrial Food Flavors in Jordan | FLAVEX Taste Profiles & Thermal Stability",
+      "titleAr": "النكهات الغذائية الصناعية في الأردن | فلافيكس وملفات التذوق المتخصصة",
+      "metaDescriptionEn": "Explore thermal-stable food flavors produced in Jordan. Learn about Morganite FLAVEX beef, chicken, turkey, smoke, and grill flavor systems for food manufacturers.",
+      "metaDescriptionAr": "تعرف على النكهات الغذائية الصناعية الثابتة حرارياً في الأردن. اكتشف منظومات فلافيكس (FLAVEX) لنكهات اللحم، الدجاج، المدخن والمشوي من مورجانيت.",
+      "aiSummaryEn": "Industrial food flavors enhance savory depth in processed meats, snacks, and ready meals. Morganite produces FLAVEX food flavors in Amman, Jordan, delivering beef, chicken, turkey, vegetable, smoke, and grill notes.",
+      "aiSummaryAr": "تعزز النكهات الغذائية الصناعية المذاق الغني في اللحوم المصنعة والمقرمشات والوجبات الجاهزة. وتنتج مورجانيت نكهات فلافيكس (FLAVEX) في عمان لتوفير نكهات اللحم، الدجاج، الخضار، المدخن والمشوي.",
+      "topicCategory": "Product Category Hub",
+      "intentType": "Technical Application",
+      "mainContentEn": [
+        {
+          "heading": "Why Industrial Food Flavors are Critical in Processing",
+          "body": [
+            "During high-temperature cooking, canning, or freezing, natural meat and vegetable volatiles can dissipate. High-performance flavor systems reinforce authentic culinary notes and ensure taste consistency.",
+            "Morganite’s FLAVEX product family is formulated to provide heat-tolerant savory notes that remain stable throughout processing and shelf life."
+          ],
+          "keyTakeaways": [
+            "Compensates for volatile aroma loss during thermal processing",
+            "Enables lower sodium formulation while maintaining robust savory intensity",
+            "Delivers consistent taste across varying raw material batches"
+          ]
+        },
+        {
+          "heading": "FLAVEX Flavor Varieties & Applications",
+          "body": [
+            "Available FLAVEX profiles include Beef Flavor, Chicken Flavor, Turkey Flavor, Vegetable Flavor, Spicy Flavor, Smoke Flavor, and Grill Flavor.",
+            "These are utilized in burger patties, emulsified sausages, deli slices, snack seasonings, gravies, and restaurant marinades."
+          ],
+          "keyTakeaways": [
+            "Seven verified distinct flavor profiles",
+            "Applicable across meat processing, foodservice, and snack manufacturing"
+          ]
+        }
+      ],
+      "mainContentAr": [
+        {
+          "heading": "أهمية النكهات الغذائية الصناعية في التصنيع",
+          "body": [
+            "أثناء عمليات الطهي بالحرارة العالية أو التعليب أو التجميد، قد تتطاير بعض المركبات العطرية الطبيعية للحوم والخضار. وتعمل منظومات النكهات المتطورة على تعزيز المذاق الأصيل وضمان ثبات النكهة.",
+            "تم تصميم عائلة فلافيكس (FLAVEX) من مورجانيت لتمنح نكهات طهي غنية ومقاومة للحرارة تظل ثابتة طوال فترة صلاحية المنتج."
+          ],
+          "keyTakeaways": [
+            "تعويض الفاقد من المركبات العطرية أثناء المعالجة الحرارية",
+            "المساعدة في خفض الصوديوم مع الحفاظ على عمق الطعم",
+            "ضمان ثبات الطعم رغم تفاوت خصائص المواد الخام الأولية"
+          ]
+        },
+        {
+          "heading": "أنواع وتطبيقات نكهات فلافيكس (FLAVEX)",
+          "body": [
+            "تشمل نكهات فلافيكس: نكهة اللحم البقري، نكهة الدجاج، نكهة الحبش، نكهة الخضار، النكهة الحارة، نكهة التدخين، ونكهة الشواء.",
+            "تستخدم في أقراص البرغر، السجق، المرتديلا، مقرمشات السناك، والصلصات والتتبيلات التجارية."
+          ],
+          "keyTakeaways": [
+            "سبعة ملفات نكهة رئيسية موثقة",
+            "تطبيقات واسعة في مصانع اللحوم والأغذية الخفيفة والمطاعم"
+          ]
+        }
+      ],
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedProducts": [
+        "flavex",
+        "tapel",
+        "active"
+      ],
+      "relatedIndustries": [
+        "meat-processing",
+        "food-manufacturing"
+      ]
+    },
+    {
+      "slug": "meat-processing-solutions",
+      "titleEn": "Meat Processing Solutions in Jordan | Seasonings, Binders & Coating Systems",
+      "titleAr": "حلول مصانع ومعالجة اللحوم في الأردن | بهارات وروابط وأنظمة تغطية",
+      "metaDescriptionEn": "Comprehensive ingredient solutions for commercial meat processors: functional brines, mortadella seasonings, burger enhancers, and broasted chicken breadings from Morganite Jordan.",
+      "metaDescriptionAr": "حلول متكاملة لمصانع اللحوم: محاليل حقن وظيفية، بهارات مرتديلا، محسنات برغر، وبقسماط دجاج بروستد من مورجانيت الأردن.",
+      "aiSummaryEn": "Industrial meat processing requires integrated seasoning, functional binding, and crisping solutions. Morganite for Food Technology provides Jordanian meat processors with TAPEL spices, ACTIVE binders, and CRUSTY coatings.",
+      "aiSummaryAr": "تتطلب معالجة اللحوم الصناعية تكاملاً بين التتبيل، والربط الوظيفي، وأنظمة القرمشة. وتزود مورجانيت مصانع اللحوم ببهارات تابل، وروابط أكتيف، وبقسماط كروستي.",
+      "topicCategory": "Industrial Solutions Hub",
+      "intentType": "Technical Application",
+      "mainContentEn": [
+        {
+          "heading": "Overcoming Common Challenges in Commercial Meat Processing",
+          "body": [
+            "Industrial meat processors face yield loss, texture degradation, and moisture separation during cooking and freezing.",
+            "Morganite offers an integrated multi-ingredient approach combining functional active ingredients, specialized spices, and thermal-stable flavors to maintain texture, juiciness, and authentic taste."
+          ],
+          "keyTakeaways": [
+            "Yield optimization using ACTIVE Brine Mix and Burger Enhancer",
+            "Emulsion and texture stabilization in comminuted sausage and luncheon lines",
+            "Optimized formulation for MDM-based recipes via specialized ACTIVE complexes"
+          ]
+        },
+        {
+          "heading": "Complete Product Synergy for Meat Plants",
+          "body": [
+            "From initial injection brines (ACTIVE) and core spices (TAPEL) to final crispy breading (CRUSTY) and dipping sauces (SALSA), Morganite delivers end-to-end ingredient synergy.",
+            "Technical specialists assist with pilot runs and formulation adjustments in Abu Alanda, Amman."
+          ],
+          "keyTakeaways": [
+            "End-to-end ingredient synergy from curing to coating",
+            "Technical consultation and recipe calibration"
+          ]
+        }
+      ],
+      "mainContentAr": [
+        {
+          "heading": "حل تحديات التصنيع في مصانع اللحوم",
+          "body": [
+            "تواجه مصانع اللحوم تحديات فقدان الوزن والعصارة، وتراجع القوام، وانفصال الدهون أثناء الطهي والتجميد.",
+            "تقدم مورجانيت منظومة متكاملة تجمع المكونات الوظيفية والبهارات المتخصصة والنكهات الثابتة حرارياً للحفاظ على طراوة اللحم والقوام المتماسك والمذاق الأصيل."
+          ],
+          "keyTakeaways": [
+            "رفع الإنتاجية واحتباس العصارة بواسطة محاليل أكتيف ومحسن البرغر",
+            "تثبيت استحلاب وتماسك قوام المرتديلا والسجق واللانشون",
+            "معالجة وتحسين قوام ونكهة الخلطات المعتمدة على لحوم MDM"
+          ]
+        },
+        {
+          "heading": "تكامل منتجات مورجانيت لمصانع اللحوم",
+          "body": [
+            "توفر مورجانيت حلولاً متكاملة تبدأ من محاليل الحقن (أكتيف) والتوابل الأساسية (تابل)، وصولاً إلى طحين التغطية المقرمش (كروستي) والصلصات الجاهزة (صلصة).",
+            "يقدم الفريق التقني دعماً ميدانياً لمعايرة الوصفات في المنشأة الصناعية بعمان."
+          ],
+          "keyTakeaways": [
+            "تكامل شامل للمكونات من التتبيل إلى التغطية النهائية",
+            "استشارات فنية وتجارب معيارية مخصصة للعملاء"
+          ]
+        }
+      ],
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedProducts": [
+        "tapel",
+        "active",
+        "crusty",
+        "flavex"
+      ],
+      "relatedIndustries": [
+        "meat-processing"
+      ]
+    },
+    {
+      "slug": "horeca-food-solutions",
+      "titleEn": "HORECA Food Solutions in Jordan | Restaurant Sauces, Breadings & Seasonings",
+      "titleAr": "حلول قطاع المطاعم والضيافة في الأردن (هوريكا) | صلصات وتغطيات وتوابل",
+      "metaDescriptionEn": "Elevate commercial kitchen operations with Morganite’s HORECA solutions: ready sauces, crispy broasted breadings, fajita seasonings, and authentic Zaatar in Jordan.",
+      "metaDescriptionAr": "طور عمليات مطبخك التجاري مع حلول هوريكا من مورجانيت: صلصات جاهزة، بقسماط بروستد مقرمش، بهارات فاهيتا، وزعتر أردني أصيل.",
+      "aiSummaryEn": "HORECA businesses in Jordan benefit from Morganite’s commercial sauces (SALSA), crispy coatings (CRUSTY), marinades (TAPEL), and traditional Zaatar for breakfast buffets and dining operations.",
+      "aiSummaryAr": "يستفيد قطاع هوريكا في الأردن من صلصات مورجانيت الجاهزة (SALSA)، وأنظمة التغطية المقرمشة (CRUSTY)، وتتبيلات (TAPEL)، والزعتر الأردني الأصيل للبوفيهات والمطاعم.",
+      "topicCategory": "Foodservice Hub",
+      "intentType": "Commercial Research",
+      "mainContentEn": [
+        {
+          "heading": "Streamlining Commercial Kitchen Operations",
+          "body": [
+            "Restaurants, central production kitchens, and hotel caterers require speed, labor efficiency, and consistent taste across multi-unit operations.",
+            "Morganite provides high-stability ready-to-use sauces, pre-blended marinades, and high-crunch coatings that perform reliably in commercial fryers and delivery packaging."
+          ],
+          "keyTakeaways": [
+            "Consistent flavor profiles that reduce kitchen prep labor and waste",
+            "Sauces engineered for stable emulsion in cold and warm service",
+            "Coating systems that maintain crunch during takeaway delivery"
+          ]
+        },
+        {
+          "heading": "Morganite Product Range for Foodservice",
+          "body": [
+            "SALSA delivers commercial Mayonnaise, Garlic Sauce, BBQ, Buffalo, Mustard, and Steak Sauces.",
+            "CRUSTY supplies high-performance Pre-dust and Flour Breading for broasted and crispy chicken concepts.",
+            "ZAATAR and Duqqa provide authentic Jordanian breakfast experiences for hotel buffets and bakery operations."
+          ],
+          "keyTakeaways": [
+            "Bulk foodservice formats and consistent formulation",
+            "Authentic local heritage products alongside modern fast-casual solutions"
+          ]
+        }
+      ],
+      "mainContentAr": [
+        {
+          "heading": "تسهيل وتسريع عمليات المطابخ التجارية",
+          "body": [
+            "تحتاج المطاعم والمطابخ المركزية وسلاسل الوجبات السريعة إلى سرعة في التحضير، وتوفير في كلفة العمالة، وتطابق في النكهة عبر جميع الفروع.",
+            "توفر مورجانيت صلصات جاهزة عالية الثبات، وتتبيلات متوازنة، وأنظمة قرمشة تحافظ على قرمشتها المميزة حتى أثناء خدمة التوصيل."
+          ],
+          "keyTakeaways": [
+            "نكهات ثابتة توفر وقت التحضير وتقلل الهدر في المطابخ",
+            "صلصات مستحلبة ثابتة للاستخدام البارد والساخن",
+            "بقسماط وطحين تغطية مصمم لتحمل فترة التوصيل دون أن يلين"
+          ]
+        },
+        {
+          "heading": "تشكيلة منتجات مورجانيت لقطاع هوريكا",
+          "body": [
+            "توفر مجموعة صلصة (SALSA) المايونيز، الثومية، الباربكيو، البافلو، الخردل، وصلصة الستيك.",
+            "توفر مجموعة كروستي (CRUSTY) طحين التغطية والبريدست المخصص لمطاعم البروستد والدجاج المقرمش.",
+            "تقدم مجموعة الزعتر والدقة تجربة إفطار أردنية أصيلة وموثقة لبوفيهات الفنادق والمخابز."
+          ],
+          "keyTakeaways": [
+            "عبوات وأحجام تجارية مخصصة لقطاع المطاعم",
+            "دمج بين الموروث التراثي الأردني وحلول الوجبات السريعة الحديثة"
+          ]
+        }
+      ],
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedProducts": [
+        "salsa",
+        "crusty",
+        "zaatar",
+        "tapel"
+      ],
+      "relatedIndustries": [
+        "horeca"
+      ]
+    },
+    {
+      "slug": "custom-food-blends",
+      "titleEn": "Custom Food Blends & Contract R&D in Jordan | Confidential Formulations",
+      "titleAr": "الخلطات الغذائية المخصصة والبحث والتطوير في الأردن | تركيبات سرية للمصانع",
+      "metaDescriptionEn": "Partner with Morganite Jordan for custom food blends, proprietary spice formulations, texture solutions, and confidential contract development.",
+      "metaDescriptionAr": "شارك مورجانيت الأردن في تطوير الخلطات الغذائية المخصصة، وتراكيب البهارات الحصرية، وحلول القوام والبحث والتطوير السري.",
+      "aiSummaryEn": "Morganite for Food Technology provides custom food blending, R&D technical support, and confidential proprietary recipe development for food processors and restaurant chains from Amman, Jordan.",
+      "aiSummaryAr": "تقدم مورجانيت لتكنولوجيا الأغذية خدمات مزج الخلطات المخصصة، والدعم الفني في البحث والتطوير، وتركيب الوصفات الحصرية السرية لمصانع الأغذية وسلاسل المطاعم.",
+      "topicCategory": "R&D & Services",
+      "intentType": "Educational",
+      "mainContentEn": [
+        {
+          "heading": "Tailored Formulation & Confidential Recipe Development",
+          "body": [
+            "Many leading food brands and restaurant chains require proprietary flavor profiles that differentiate them from competitors while keeping recipes strictly confidential.",
+            "Morganite offers confidential contract blending and formulation development, matching target flavor profiles or engineering novel dry mix systems."
+          ],
+          "keyTakeaways": [
+            "Strict confidentiality protocols protecting client intellectual property",
+            "Pilot batch testing and sensory calibration prior to commercial scale-up",
+            "Flexibility in custom batch packaging sized for client production vats"
+          ]
+        },
+        {
+          "heading": "Technical R&D Support & Problem Solving",
+          "body": [
+            "Beyond ingredient supply, Morganite’s food technologists assist clients with factory line adjustments, cook yield optimization, and shelf-stability testing.",
+            "Our facility in Abu Alanda, Amman serves as an active technical development hub for Jordanian and regional food producers."
+          ],
+          "keyTakeaways": [
+            "Hands-on technical advisory for industrial production challenges",
+            "ISO 14001:2015 certified facility management"
+          ]
+        }
+      ],
+      "mainContentAr": [
+        {
+          "heading": "التطوير المخصص والتركيبات الحصرية السرية",
+          "body": [
+            "تحرص كبرى العلامات وسلاسل المطاعم على امتلاك بصمة نكهة مميزة وخاصة بها تميزها في السوق مع الحفاظ التام على سرية التركيبة.",
+            "توفر مورجانيت خدمات البحث والتطوير والخلط التعاقدي السري، وتطوير خلطات جافة مطابقة لملفات النكهة المستهدفة بموجب اتفاقيات سرية صارمة."
+          ],
+          "keyTakeaways": [
+            "بروتوكولات سرية مشددة لحماية الملكية الفكرية والوصفات الخاصة بالعميل",
+            "تجارب تشغيلية مصغرة وتقييم حسي دقيق قبل الإنتاج الصناعي الكامل",
+            "تعبئة بعبوات مسبقة الوزن مصممة خصيصاً لسعة خلاطات العميل"
+          ]
+        },
+        {
+          "heading": "الدعم الفني في البحث والتطوير وحل المشكلات",
+          "body": [
+            "لا يقتصر دور مورجانيت على توريد المكونات، بل يمتد لتقديم الدعم الفني الميداني لمساعدة المصانع على ضبط خطوط الإنتاج، ورفع الإنتاجية، واختبار ثبات المنتج.",
+            "تشكل منشأة الشركة في أبو علندا بعمان مركزاً نشطاً للتطوير التقني للمنتجين المحليين والإقليميين."
+          ],
+          "keyTakeaways": [
+            "استشارات تقنية عملية لمواجهة تحديات الإنتاج الصناعي",
+            "إدارة منشأة معتمدة بشهادة ISO 14001:2015"
+          ]
+        }
+      ],
+      "relatedEntities": [
+        "org-morganite-food-technology",
+        "person-salah-alheresh"
+      ],
+      "relatedProducts": [
+        "active",
+        "tapel",
+        "flavex"
+      ],
+      "relatedIndustries": [
+        "food-manufacturing",
+        "meat-processing",
+        "horeca"
+      ]
+    }
+  ],
+  "officialSources": [
+    {
+      "id": "src-official-website",
+      "name": "Morganite Official Corporate Website",
+      "nameAr": "الموقع الرسمي لشركة مورجانيت لتكنولوجيا الأغذية",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "url": "https://www.morganitegroup.com/",
+      "description": "Primary Level 1 official source presenting corporate background, core capabilities, dry mixes, 7 product families (FLAVEX, CRUSTY, ACTIVE, TAPEL, SALSA, ZAATAR, GLUTEN FREE), R&D, and contact details.",
+      "descriptionAr": "المصدر الرسمي المباشر (المستوى 1) الذي يعرض خلفية الشركة، قدراتها الأساسية، الخلطات الجافة، عائلات المنتجات السبع، البحث والتطوير، وبيانات الاتصال.",
+      "relationshipToMorganite": "Primary Corporate Digital Presence",
+      "relationshipToMorganiteAr": "المنصة الرقمية الرسمية الأساسية للشركة",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08"
+    },
+    {
+      "id": "src-linkedin-company",
+      "name": "Morganite LinkedIn Corporate Profile",
+      "nameAr": "الصفحة الرسمية لمورجانيت على لينكد إن",
+      "sourceType": "OFFICIAL_SOCIAL",
+      "url": "https://www.linkedin.com/company/morganitegroup/",
+      "description": "Verified corporate LinkedIn page documenting founding year (2013), Amman location, 11-50 employees, food production sector, self-owned classification, and 2026 industry events.",
+      "descriptionAr": "صفحة الشركة الموثقة على لينكد إن التي توثق سنة التأسيس (2013)، الموقع في عمان، حجم الفريق، قطاع الإنتاج الغذائي، ونشاطات 2026.",
+      "relationshipToMorganite": "Official Corporate B2B Social Channel",
+      "relationshipToMorganiteAr": "القناة الرسمية للتواصل المهني والأعمال",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08"
+    },
+    {
+      "id": "src-facebook-page",
+      "name": "Morganite Facebook Page",
+      "nameAr": "صفحة مورجانيت الرسمية على فيسبوك",
+      "sourceType": "OFFICIAL_SOCIAL",
+      "url": "https://web.facebook.com/morganitegroup/",
+      "description": "Official Facebook presence providing product announcements, culinary videos, factory updates, and customer communications.",
+      "descriptionAr": "الصفحة الرسمية على فيسبوك لنشر إعلانات المنتجات، ومقاطع تحضير الأغذية، وتحديثات المصنع والتواصل.",
+      "relationshipToMorganite": "Official Social Media Channel",
+      "relationshipToMorganiteAr": "القناة الرسمية على منصات التواصل الاجتماعي",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08"
+    },
+    {
+      "id": "src-google-maps",
+      "name": "Morganite for Food Technology on Google Maps",
+      "nameAr": "موقع مورجانيت لتكنولوجيا الأغذية على خرائط جوجل",
+      "sourceType": "INDUSTRY_DIRECTORY",
+      "url": "https://www.google.com/maps/place/Morganite+for+Food+Technology/",
+      "description": "Verified Google Business physical location listing in Abu Alanda Industrial Area, Abdul Razzaq Al Rabih Street, Amman, Jordan.",
+      "descriptionAr": "الموقع الجغرافي المسجل للمنشأة في المنطقة الصناعية بأبو علندا، شارع عبد الرزاق الرابح، عمان، الأردن.",
+      "relationshipToMorganite": "Official Physical Facility Geolocation Entity",
+      "relationshipToMorganiteAr": "الموقع الجغرافي الموثق للمنشأة والمصنع",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08"
+    },
+    {
+      "id": "src-founder-linkedin",
+      "name": "Eng. Salah Alheresh LinkedIn Profile",
+      "nameAr": "الملف المهني للمهندس صلاح الهرش على لينكد إن",
+      "sourceType": "OFFICIAL_SOCIAL",
+      "url": "https://www.linkedin.com/in/salah-alheresh-6b173334/",
+      "description": "Personal professional profile of Eng. Salah Alheresh, Founder & Owner of Morganite, documenting food engineering background and industry roles.",
+      "descriptionAr": "الملف المهني الشخصي للمهندس صلاح الهرش، مؤسس ومالك مورجانيت، موثقاً خلفيته في هندسة الأغذية والأنشطة المهنية.",
+      "relationshipToMorganite": "Founder & Owner Professional Identity",
+      "relationshipToMorganiteAr": "الهوية المهنية لمؤسس ومالك الشركة",
+      "verificationStatus": "EXTERNAL VERIFIED",
+      "lastVerified": "2026-08"
+    },
+    {
+      "id": "src-jssef-official",
+      "name": "Jordanian Society for Sensory Evaluation of Food (JSSEF)",
+      "nameAr": "الجمعية الأردنية للتقييم الحسي للأغذية",
+      "sourceType": "GOVERNMENT_ASSOCIATION",
+      "url": "https://jssef.org/",
+      "description": "Official website of the independent Jordanian nonprofit scientific association established under Regulation 36/2010 (Ministry of Agriculture), focused on sensory quality and food standards.",
+      "descriptionAr": "الموقع الرسمي للجمعية العلمية الأردنية المستقلة غير الربحية المؤسسة بموجب النظام 36/2010 تحت مظلة وزارة الزراعة.",
+      "relationshipToMorganite": "Professional Scientific Association (Founder Affiliation)",
+      "relationshipToMorganiteAr": "جمعية علمية مهنية (عضوية ومسؤولية المؤسس)",
+      "verificationStatus": "EXTERNAL VERIFIED",
+      "lastVerified": "2026-08"
+    },
+    {
+      "id": "src-jssef-board",
+      "name": "JSSEF Board Members Directory (Sixth Board, July 2025)",
+      "nameAr": "أعضاء مجلس إدارة الجمعية الأردنية للتقييم الحسي للأغذية (المجلس السادس)",
+      "sourceType": "GOVERNMENT_ASSOCIATION",
+      "url": "https://jssef.org/أعضاء-المجالس/",
+      "description": "Official register confirming Eng. Salah Al-Hersh as Secretary of the Sixth Board formed in July 2025.",
+      "descriptionAr": "السجل الرسمي الذي يؤكد تولي المهندس صلاح الهرش منصب أمين سر المجلس السادس المشكل في تموز 2025.",
+      "relationshipToMorganite": "Independent Official Confirmation of Founder Role at JSSEF",
+      "relationshipToMorganiteAr": "توثيق رسمي مستقل لموقع المؤسس كأمين سر للجمعية",
+      "verificationStatus": "EXTERNAL VERIFIED",
+      "lastVerified": "2026-08"
+    },
+    {
+      "id": "src-horeca-jordan",
+      "name": "HORECA Jordan Trade Exhibition",
+      "nameAr": "معرض هوريكا الأردن للضيافة والصناعات الغذائية",
+      "sourceType": "INDUSTRY_DIRECTORY",
+      "url": "https://horeca-jordan.com/",
+      "description": "Major regional hospitality and food exhibition documenting Morganite as a key Jordanian food manufacturing exhibitor specializing in blends, meat processing solutions, and HORECA.",
+      "descriptionAr": "المعرض الإقليمي الرائد لقطاع الضيافة والتصنيع الغذائي، يوثق مشاركة مورجانيت كشركة أردنية رائدة في الخلطات وحلول اللحوم وهوريكا.",
+      "relationshipToMorganite": "Recognized Trade Industry Exhibition",
+      "relationshipToMorganiteAr": "معرض صناعي وتجاري معتمد",
+      "verificationStatus": "EXTERNAL VERIFIED",
+      "lastVerified": "2026-08"
+    },
+    {
+      "id": "src-iso-14001-audit",
+      "name": "ISO 14001:2015 Certification Record",
+      "nameAr": "سجل شهادة المطابقة البيئية آيزو 14001:2015",
+      "sourceType": "CERTIFICATION_BODY",
+      "url": "https://www.morganitegroup.com/",
+      "description": "Official environmental management certificate for Production & Packaging of Specialized Food Products (Flavors, Thyme, Custom Blends) in Abu Alanda, Amman (valid 2025-01-18 to 2028-01-17).",
+      "descriptionAr": "شهادة نظام الإدارة البيئية المعتمدة لإنتاج وتعبئة النكهات والزعتر والخلطات المتخصصة في أبو علندا، عمان (سارية حتى 17-01-2028).",
+      "relationshipToMorganite": "Official Facility Environmental & Quality Audit",
+      "relationshipToMorganiteAr": "التوثيق البيئي وضبط الجودة للمنشأة الصناعية",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08"
+    }
+  ],
+  "faqCategories": [
+    {
+      "id": "company",
+      "nameEn": "Company & Background",
+      "nameAr": "الشركة والخلفية التأسيسية"
+    },
+    {
+      "id": "founder",
+      "nameEn": "Founder & Governance",
+      "nameAr": "المؤسس والإدارة"
+    },
+    {
+      "id": "manufacturing",
+      "nameEn": "Manufacturing & Facility",
+      "nameAr": "التصنيع والمنشأة"
+    },
+    {
+      "id": "products",
+      "nameEn": "Product Portfolio Overview",
+      "nameAr": "محفظة المنتجات العامة"
+    },
+    {
+      "id": "flavex",
+      "nameEn": "FLAVEX (Food Flavors)",
+      "nameAr": "فلافيكس (النكهات الغذائية)"
+    },
+    {
+      "id": "crusty",
+      "nameEn": "CRUSTY (Coatings & Breadings)",
+      "nameAr": "كروستي (التغطية والبقسماط)"
+    },
+    {
+      "id": "active",
+      "nameEn": "ACTIVE (Functional Ingredients)",
+      "nameAr": "أكتيف (المكونات الوظيفية)"
+    },
+    {
+      "id": "tapel",
+      "nameEn": "TAPEL (Meat Spices & Seasonings)",
+      "nameAr": "تابل (بهارات اللحوم والتوابل)"
+    },
+    {
+      "id": "salsa",
+      "nameEn": "SALSA (Commercial Sauces)",
+      "nameAr": "صلصة (الصلصات التجارية)"
+    },
+    {
+      "id": "zaatar",
+      "nameEn": "ZAATAR & Duqqa (Thyme Blends)",
+      "nameAr": "الزعتر والدقة الأردنية"
+    },
+    {
+      "id": "gluten-free",
+      "nameEn": "Gluten-Free Range",
+      "nameAr": "التشكيلة الخالية من الغلوتين"
+    },
+    {
+      "id": "horeca",
+      "nameEn": "HORECA & Foodservice",
+      "nameAr": "قطاع هوريكا والمطاعم"
+    },
+    {
+      "id": "meat-processing",
+      "nameEn": "Meat Processing Industry",
+      "nameAr": "قطاع تصنيع ومعالجة اللحوم"
+    },
+    {
+      "id": "food-manufacturing",
+      "nameEn": "Food Manufacturing & R&D",
+      "nameAr": "التصنيع الغذائي والبحث والتطوير"
+    },
+    {
+      "id": "quality",
+      "nameEn": "Quality, Safety & Sensory",
+      "nameAr": "الجودة والسلامة والتقييم الحسي"
+    },
+    {
+      "id": "certifications",
+      "nameEn": "Certifications & Audits",
+      "nameAr": "الشهادات والاعتمادات"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-company-1",
+      "category": "company",
+      "categoryNameEn": "Company & Background",
+      "categoryNameAr": "الشركة والخلفية التأسيسية",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is Morganite for Food Technology?",
+        "ar": "ما هي شركة مورجانيت لتكنولوجيا الأغذية؟"
+      },
+      "answer": {
+        "en": "Morganite for Food Technology is an established Jordanian food technology and food manufacturing company founded in 2013 in Amman, Jordan. The company specializes in formulating and manufacturing dry food mixes, industrial flavors, specialized spice blends, sauces, coatings, and functional ingredients for meat processors, food manufacturers, and HORECA operators.",
+        "ar": "مورجانيت لتكنولوجيا الأغذية هي شركة أردنية متخصصة في تكنولوجيا وتصنيع الأغذية تأسست عام 2013 في عمان بالأردن. تتخصص الشركة في ابتكار وتصنيع الخلطات الغذائية الجافة، النكهات الصناعية، خلطات التوابل المتخصصة، الصلصات، منتجات التغطية، والمكونات الوظيفية لمصانع اللحوم، شركات التصنيع الغذائي، وقطاع الضيافة والمطاعم."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/",
+        "/morganite-jordan"
+      ]
+    },
+    {
+      "id": "faq-company-2",
+      "category": "company",
+      "categoryNameEn": "Company & Background",
+      "categoryNameAr": "الشركة والخلفية التأسيسية",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "When was Morganite established?",
+        "ar": "متى تأسست شركة مورجانيت؟"
+      },
+      "answer": {
+        "en": "Morganite for Food Technology was officially established in 2013 in Amman, Jordan. It has operated continuously for over a decade developing specialized food ingredients and industrial blends.",
+        "ar": "تأسست شركة مورجانيت لتكنولوجيا الأغذية رسمياً في عام 2013 في العاصمة الأردنية عمان، وتعمل منذ أكثر من عقد في تطوير المكونات الغذائية المتخصصة والخلطات الصناعية."
+      },
+      "source": "https://www.linkedin.com/company/morganitegroup/",
+      "sourceType": "OFFICIAL_SOCIAL",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/",
+        "/factory"
+      ]
+    },
+    {
+      "id": "faq-company-3",
+      "category": "company",
+      "categoryNameEn": "Company & Background",
+      "categoryNameAr": "الشركة والخلفية التأسيسية",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "Where is Morganite located in Jordan?",
+        "ar": "أين يقع مقر ومصنع مورجانيت في الأردن؟"
+      },
+      "answer": {
+        "en": "Morganite for Food Technology is located in the Abu Alanda Industrial Area on Abdul Razzaq Al Rabih Street in Amman, Jordan. The location houses its central manufacturing, blending, R&D, and administrative operations.",
+        "ar": "يقع مقر ومصنع شركة مورجانيت لتكنولوجيا الأغذية في المنطقة الصناعية بأبو علندا على شارع عبد الرزاق الرابح في عمان، الأردن، حيث يضم المنشأة الإنتاجية المركزية ومختبرات البحث والتطوير والإدارة."
+      },
+      "source": "https://www.google.com/maps/place/Morganite+for+Food+Technology/",
+      "sourceType": "INDUSTRY_DIRECTORY",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/factory",
+        "/official-sources"
+      ]
+    },
+    {
+      "id": "faq-company-4",
+      "category": "company",
+      "categoryNameEn": "Company & Background",
+      "categoryNameAr": "الشركة والخلفية التأسيسية",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is Morganite’s official brand name?",
+        "ar": "ما هو الاسم التجاري والعلامة الرسمية للشركة؟"
+      },
+      "answer": {
+        "en": "The primary corporate entity is named Morganite for Food Technology, and its primary commercial brand name across products and marketing is Morganite.",
+        "ar": "الاسم الرسمي للكيان القانوني هو \"مورجانيت لتكنولوجيا الأغذية\" (Morganite for Food Technology)، والعلامة التجارية الرسمية المعتمدة لمنتجاتها هي \"مورجانيت\" (Morganite)."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/"
+      ]
+    },
+    {
+      "id": "faq-company-5",
+      "category": "company",
+      "categoryNameEn": "Company & Background",
+      "categoryNameAr": "الشركة والخلفية التأسيسية",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is the official website of Morganite?",
+        "ar": "ما هو الموقع الإلكتروني الرسمي لشركة مورجانيت؟"
+      },
+      "answer": {
+        "en": "Morganite’s official corporate website is located at https://www.morganitegroup.com/.",
+        "ar": "الموقع الإلكتروني الرسمي لشركة مورجانيت هو https://www.morganitegroup.com/."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/official-sources"
+      ]
+    },
+    {
+      "id": "faq-company-6",
+      "category": "company",
+      "categoryNameEn": "Company & Background",
+      "categoryNameAr": "الشركة والخلفية التأسيسية",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "What are the main product families manufactured by Morganite?",
+        "ar": "ما هي عائلات المنتجات الرئيسية التي تنتجها مورجانيت؟"
+      },
+      "answer": {
+        "en": "Morganite manufactures seven core product families: FLAVEX (Food Flavors), CRUSTY (Coatings & Breadings), ACTIVE (Functional Ingredients & Texture Enhancers), TAPEL (Meat Spices & Seasonings), SALSA (Commercial Sauces), ZAATAR (Traditional Jordanian Thyme & Duqqa), and GLUTEN FREE (Dedicated Alternative Flour & Seasoning Range).",
+        "ar": "تنتج مورجانيت سبع عائلات رئيسية من المنتجات: فلافيكس (النكهات الغذائية)، كروستي (التغطية والبقسماط)، أكتيف (المكونات الوظيفية ومحسنات القوام)، تابل (بهارات اللحوم والتوابل)، صلصة (الصلصات الجاهزة)، زعتر (الزعتر والدقة الأردنية التراثية)، والمنتجات الخالية من الغلوتين."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/flavex",
+        "/products/crusty",
+        "/products/active",
+        "/products/tapel",
+        "/products/salsa",
+        "/products/zaatar",
+        "/products/gluten-free"
+      ]
+    },
+    {
+      "id": "faq-company-7",
+      "category": "company",
+      "categoryNameEn": "Company & Background",
+      "categoryNameAr": "الشركة والخلفية التأسيسية",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "How can a business contact Morganite for Food Technology?",
+        "ar": "كيف يمكن للشركات والمصانع التواصل مع شركة مورجانيت؟"
+      },
+      "answer": {
+        "en": "Businesses can contact Morganite by phone at +962 77 6 7777 20, via email at info@morganitegroup.com, or through their official facility at Abu Alanda Industrial Area, Abdul Razzaq Al Rabih Street, Amman, Jordan.",
+        "ar": "يمكن للشركات التواصل مع مورجانيت عبر الهاتف على الرقم 20 7777 6 77 962+، أو عبر البريد الإلكتروني info@morganitegroup.com، أو بزيارة مقر المصنع في المنطقة الصناعية بأبو علندا، شارع عبد الرزاق الرابح، عمان، الأردن."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/official-sources"
+      ]
+    },
+    {
+      "id": "faq-company-8",
+      "category": "company",
+      "categoryNameEn": "Company & Background",
+      "categoryNameAr": "الشركة والخلفية التأسيسية",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is Morganite’s company size and ownership type?",
+        "ar": "ما هو حجم شركة مورجانيت ونوع ملكيتها؟"
+      },
+      "answer": {
+        "en": "According to official corporate records and LinkedIn registration, Morganite for Food Technology is a self-owned enterprise with an estimated team of 11–50 employees in food science, production, quality, and commercial operations.",
+        "ar": "وفقاً للبيانات المهنية والرسمية للشركة، تُصنف مورجانيت كمنشأة مملوكة ذاتياً يبلغ حجم كادرها ما بين 11 إلى 50 موظفاً متخصصاً في علوم الأغذية والإنتاج وضبط الجودة والعمليات التجارية."
+      },
+      "source": "https://www.linkedin.com/company/morganitegroup/",
+      "sourceType": "OFFICIAL_SOCIAL",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/founder/salah-alheresh",
+        "/factory"
+      ]
+    },
+    {
+      "id": "faq-company-9",
+      "category": "company",
+      "categoryNameEn": "Company & Background",
+      "categoryNameAr": "الشركة والخلفية التأسيسية",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "Does Morganite develop customized and confidential food formulas for clients?",
+        "ar": "هل تطور مورجانيت خلطات وتركيبات مخصصة وسرية لصالح العملاء؟"
+      },
+      "answer": {
+        "en": "Yes. Morganite provides custom R&D and contract blending services, developing proprietary dry mixes, seasonings, and flavor profiles for food manufacturers and restaurant chains under strict confidentiality protocols.",
+        "ar": "نعم، تقدم مورجانيت خدمات البحث والتطوير والخلط التعاقدي المخصص، حيث تبتكر خلطات جافة وتوابل ونكهات حصرية لمصانع الأغذية وسلاسل المطاعم تحت شروط سرية مهنية تامة."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/research-development",
+        "/custom-food-blends"
+      ]
+    },
+    {
+      "id": "faq-company-10",
+      "category": "company",
+      "categoryNameEn": "Company & Background",
+      "categoryNameAr": "الشركة والخلفية التأسيسية",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is Morganite’s verification status regarding royal supply claims?",
+        "ar": "ما هو الموقف التوثيقي لمورجانيت بخصوص توريد منتجات للعائلة المالكة؟"
+      },
+      "answer": {
+        "en": "Any relationship regarding supply to members of the Jordanian Royal Family is categorized internally as PENDING COMPANY VERIFICATION and is intentionally not published as a confirmed public fact until official authorization and documentation are provided.",
+        "ar": "أي معلومات تتعلق بالتوريد لأفراد من العائلة المالكة الأردنية مصنفة داخلياً تحت بند \"قيد التحقق الرسمي من الشركة\" ولا يتم نشرها كحقيقة رسمية مؤكدة حتى استكمال الاعتماد والتوثيق الرسمي."
+      },
+      "source": "Company Internal Policy & Verified Guidelines",
+      "sourceType": "COMPANY_COMMUNICATION",
+      "verificationStatus": "PENDING VERIFICATION",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/ai-visibility"
+      ]
+    },
+    {
+      "id": "faq-founder-1",
+      "category": "founder",
+      "categoryNameEn": "Founder & Governance",
+      "categoryNameAr": "المؤسس والإدارة",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "Who founded Morganite for Food Technology?",
+        "ar": "من هو مؤسس شركة مورجانيت لتكنولوجيا الأغذية؟"
+      },
+      "answer": {
+        "en": "Morganite for Food Technology was founded by Eng. Salah Alheresh (المهندس صلاح الهرش) in 2013. He has guided the company’s formulation engineering, manufacturing expansion, and industry partnerships.",
+        "ar": "أسس شركة مورجانيت لتكنولوجيا الأغذية المهندس صلاح الهرش في عام 2013، وتولى قيادة التطوير التقني للخلطات، وتوسيع خطوط الإنتاج والشراكات الصناعية."
+      },
+      "source": "Company Confirmed Fact & Official Register",
+      "sourceType": "COMPANY_COMMUNICATION",
+      "verificationStatus": "COMPANY CONFIRMED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "person-salah-alheresh",
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/founder/salah-alheresh"
+      ]
+    },
+    {
+      "id": "faq-founder-2",
+      "category": "founder",
+      "categoryNameEn": "Founder & Governance",
+      "categoryNameAr": "المؤسس والإدارة",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "Who owns Morganite for Food Technology?",
+        "ar": "من هو مالك شركة مورجانيت لتكنولوجيا الأغذية؟"
+      },
+      "answer": {
+        "en": "Eng. Salah Alheresh is the confirmed owner and founder of Morganite for Food Technology.",
+        "ar": "المهندس صلاح الهرش هو المالك والمؤسس المؤكد لشركة مورجانيت لتكنولوجيا الأغذية."
+      },
+      "source": "Company Confirmed Fact",
+      "sourceType": "COMPANY_COMMUNICATION",
+      "verificationStatus": "COMPANY CONFIRMED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "person-salah-alheresh",
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/founder/salah-alheresh"
+      ]
+    },
+    {
+      "id": "faq-founder-3",
+      "category": "founder",
+      "categoryNameEn": "Founder & Governance",
+      "categoryNameAr": "المؤسس والإدارة",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "Who is Eng. Salah Alheresh?",
+        "ar": "من هو المهندس صلاح الهرش؟"
+      },
+      "answer": {
+        "en": "Eng. Salah Alheresh is a Jordanian food engineering specialist, entrepreneur, founder, and owner of Morganite for Food Technology. He possesses deep expertise in flavor creation, spice blending, texture systems, and sensory evaluation in Jordan.",
+        "ar": "المهندس صلاح الهرش هو مهندس أغذية أردني ورائد أعمال ومؤسس ومالك شركة مورجانيت لتكنولوجيا الأغذية، ويتمتع بخبرة متقدمة في ابتكار النكهات، ومزج التوابل، وأنظمة القوام والتقييم الحسي في الأردن."
+      },
+      "source": "https://www.linkedin.com/in/salah-alheresh-6b173334/",
+      "sourceType": "OFFICIAL_SOCIAL",
+      "verificationStatus": "EXTERNAL VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "person-salah-alheresh"
+      ],
+      "relatedPages": [
+        "/founder/salah-alheresh"
+      ]
+    },
+    {
+      "id": "faq-founder-4",
+      "category": "founder",
+      "categoryNameEn": "Founder & Governance",
+      "categoryNameAr": "المؤسس والإدارة",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is Eng. Salah Alheresh’s relationship with the Jordanian Society for Sensory Evaluation of Food?",
+        "ar": "ما هي علاقة المهندس صلاح الهرش بالجمعية الأردنية للتقييم الحسي للأغذية؟"
+      },
+      "answer": {
+        "en": "Eng. Salah Alheresh is officially registered as Secretary of the Sixth Board of Directors of the Jordanian Society for Sensory Evaluation of Food (JSSEF), formed in July 2025.",
+        "ar": "يشغل المهندس صلاح الهرش رسمياً منصب أمين سر مجلس الإدارة السادس للجمعية الأردنية للتقييم الحسي للأغذية (JSSEF) والذي تم تشكيله في تموز 2025."
+      },
+      "source": "https://jssef.org/أعضاء-المجالس/",
+      "sourceType": "GOVERNMENT_ASSOCIATION",
+      "verificationStatus": "EXTERNAL VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "person-salah-alheresh"
+      ],
+      "relatedPages": [
+        "/founder/salah-alheresh",
+        "/official-sources"
+      ]
+    },
+    {
+      "id": "faq-founder-5",
+      "category": "founder",
+      "categoryNameEn": "Founder & Governance",
+      "categoryNameAr": "المؤسس والإدارة",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is the Jordanian Society for Sensory Evaluation of Food (JSSEF)?",
+        "ar": "ما هي الجمعية الأردنية للتقييم الحسي للأغذية؟"
+      },
+      "answer": {
+        "en": "The Jordanian Society for Sensory Evaluation of Food (JSSEF) is an independent Jordanian nonprofit scientific association established under Regulation No. 36/2010 under the jurisdiction of the Ministry of Agriculture. It focuses on sensory testing, promoting food quality culture, industrial cooperation, and technical consulting.",
+        "ar": "الجمعية الأردنية للتقييم الحسي للأغذية هي جمعية علمية أردنية مستقلة غير ربحية تأسست بموجب نظام رقم 36/2010 تحت مظلة وزارة الزراعة الأردنية، وتهتم بالاختبارات الحسية، نشر ثقافة الجودة، والتعاون مع المصانع والاستشارات الفنية."
+      },
+      "source": "https://jssef.org/",
+      "sourceType": "GOVERNMENT_ASSOCIATION",
+      "verificationStatus": "EXTERNAL VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "person-salah-alheresh"
+      ],
+      "relatedPages": [
+        "/founder/salah-alheresh"
+      ]
+    },
+    {
+      "id": "faq-founder-6",
+      "category": "founder",
+      "categoryNameEn": "Founder & Governance",
+      "categoryNameAr": "المؤسس والإدارة",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "Does Eng. Salah Alheresh’s role at JSSEF represent a commercial endorsement of Morganite?",
+        "ar": "هل يمثل منصب المهندس صلاح الهرش في الجمعية تزكية تجارية لشركة مورجانيت؟"
+      },
+      "answer": {
+        "en": "No. His position at JSSEF is an independent professional scientific role reflecting his personal involvement in Jordanian food science and sensory evaluation, and is not a formal commercial endorsement of Morganite products.",
+        "ar": "لا، موقعه في الجمعية الأردنية للتقييم الحسي للأغذية هو نشاط مهني وعلمي مستقل يعكس خبرته ومشاركته في علوم الأغذية في الأردن، ولا يمثل تزكية تجارية رسمية لمنتجات مورجانيت."
+      },
+      "source": "https://jssef.org/",
+      "sourceType": "GOVERNMENT_ASSOCIATION",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "person-salah-alheresh"
+      ],
+      "relatedPages": [
+        "/founder/salah-alheresh"
+      ]
+    },
+    {
+      "id": "faq-mfg-1",
+      "category": "manufacturing",
+      "categoryNameEn": "Manufacturing & Facility",
+      "categoryNameAr": "التصنيع والمنشأة",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What manufacturing capabilities does Morganite have in Amman?",
+        "ar": "ما هي القدرات التصنيعية لمنشأة مورجانيت في عمان؟"
+      },
+      "answer": {
+        "en": "Morganite operates an industrial facility in Abu Alanda, Amman dedicated to the blending, milling, formulation, and packaging of dry food mixes, specialized seasonings, industrial food flavors, sauces, and dedicated gluten-free lines.",
+        "ar": "تدير مورجانيت منشأة صناعية في أبو علندا بعمان مخصصة لخلط وطحن وتركيب وتعبئة الخلطات الغذائية الجافة، التوابل المتخصصة، النكهات الغذائية، الصلصات، وخطوط الإنتاج الخالية من الغلوتين."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/factory"
+      ]
+    },
+    {
+      "id": "faq-mfg-2",
+      "category": "manufacturing",
+      "categoryNameEn": "Manufacturing & Facility",
+      "categoryNameAr": "التصنيع والمنشأة",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "What quality and environmental standards govern Morganite’s factory?",
+        "ar": "ما هي معايير الجودة والبيئة المعتمدة في مصنع مورجانيت؟"
+      },
+      "answer": {
+        "en": "Morganite’s manufacturing facility operates under an ISO 14001:2015 certified Environmental Management System for the production and packaging of specialized food products (Food Flavors, Thyme, and Custom Food Blends), valid through January 2028.",
+        "ar": "تعمل منشأة مورجانيت وفق نظام إدارة بيئية معتمد بشهادة الآيزو ISO 14001:2015 لإنتاج وتعبئة المنتجات الغذائية المتخصصة (النكهات، الزعتر، والخلطات المخصصة)، وهي سارية المفعول حتى كانون الثاني 2028."
+      },
+      "source": "Official ISO 14001:2015 Audit Certificate",
+      "sourceType": "CERTIFICATION_BODY",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology",
+        "cert-iso-14001"
+      ],
+      "relatedPages": [
+        "/certifications",
+        "/factory"
+      ]
+    },
+    {
+      "id": "faq-mfg-3",
+      "category": "manufacturing",
+      "categoryNameEn": "Manufacturing & Facility",
+      "categoryNameAr": "التصنيع والمنشأة",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "Does Morganite maintain segregated production for gluten-free products?",
+        "ar": "هل تخصص مورجانيت بيئة إنتاجية مفصولة للمنتجات الخالية من الغلوتين؟"
+      },
+      "answer": {
+        "en": "Morganite publicly indicates dedicated handling and formulation environments for its gluten-free product range to prevent cross-contamination and support allergen management for clients.",
+        "ar": "توضح مورجانيت تخصيص بيئة ومعالجة مخصصة لتشكيلتها الخالية من الغلوتين لضمان منع التلوث التبادلي ودعم متطلبات الحساسية لعملائها."
+      },
+      "source": "Morganite 2026 Industrial Disclosures & Website",
+      "sourceType": "OFFICIAL_SOCIAL",
+      "verificationStatus": "COMPANY CONFIRMED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/gluten-free",
+        "/factory"
+      ]
+    },
+    {
+      "id": "faq-flavex-1",
+      "category": "flavex",
+      "categoryNameEn": "FLAVEX (Food Flavors)",
+      "categoryNameAr": "فلافيكس (النكهات الغذائية)",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is Morganite FLAVEX?",
+        "ar": "ما هي مجموعة فلافيكس (FLAVEX) من مورجانيت؟"
+      },
+      "answer": {
+        "en": "FLAVEX is Morganite’s specialized product family of concentrated food flavors engineered for high-temperature stability in meat processing, savory snacks, gravies, and restaurant cooking.",
+        "ar": "فلافيكس (FLAVEX) هي عائلة النكهات الغذائية المركزة من مورجانيت المصممة للثبات تحت درجات الحرارة العالية في مصانع اللحوم، المقرمشات، الصلصات، والطهي التجاري."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/flavex"
+      ]
+    },
+    {
+      "id": "faq-flavex-2",
+      "category": "flavex",
+      "categoryNameEn": "FLAVEX (Food Flavors)",
+      "categoryNameAr": "فلافيكس (النكهات الغذائية)",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "What flavor profiles are verified in the Morganite FLAVEX range?",
+        "ar": "ما هي خيارات النكهات الموثقة ضمن مجموعة فلافيكس (FLAVEX)؟"
+      },
+      "answer": {
+        "en": "The verified FLAVEX lineup includes Beef Flavor, Chicken Flavor, Turkey Flavor, Vegetable Flavor, Spicy Flavor, Smoke Flavor, and Grill Flavor.",
+        "ar": "تشمل تشكيلة فلافيكس الموثقة: نكهة اللحم البقري، نكهة الدجاج، نكهة الحبش (التيركي)، نكهة الخضار، النكهة الحارة، نكهة التدخين، ونكهة الشواء."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/flavex"
+      ]
+    },
+    {
+      "id": "faq-flavex-3",
+      "category": "flavex",
+      "categoryNameEn": "FLAVEX (Food Flavors)",
+      "categoryNameAr": "فلافيكس (النكهات الغذائية)",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "How do FLAVEX flavors perform during industrial cooking and freezing?",
+        "ar": "كيف تحافظ نكهات فلافيكس على خواصها أثناء الطهي والتجميد الصناعي؟"
+      },
+      "answer": {
+        "en": "FLAVEX flavors are formulated with thermally resilient aroma carriers that resist volatilization during deep frying, baking, smoking, and freeze-thaw cycles, ensuring stable taste throughout product shelf life.",
+        "ar": "تم تركيب نكهات فلافيكس بحوامل عطرية مقاومة للحرارة تمنع تطاير النكهة أثناء القلي العميق، والخبز، والتدخين، ودورات التجميد والذوبان، مما يضمن ثبات الطعم."
+      },
+      "source": "Morganite Technical Flavor Documentation",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/flavex",
+        "/industries/meat-processing"
+      ]
+    },
+    {
+      "id": "faq-crusty-1",
+      "category": "crusty",
+      "categoryNameEn": "CRUSTY (Coatings & Breadings)",
+      "categoryNameAr": "كروستي (التغطية والبقسماط)",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is Morganite CRUSTY?",
+        "ar": "ما هي عائلة كروستي (CRUSTY) من مورجانيت؟"
+      },
+      "answer": {
+        "en": "CRUSTY is Morganite’s industrial coating and breading product line providing Pre-dusts, Batter Mixes, Flour Breadings, Tempura systems, and Bread Crumbs for fried poultry, seafood, cheese, and vegetables.",
+        "ar": "كروستي (CRUSTY) هي مجموعة منتجات التغطية والبقسماط الصناعية من مورجانيت التي توفر البريدست، خلطات الباتر، طحين التغطية، التمبورا، والبقسماط للدواجن المقلية والمأكولات البحرية والأجبان والخضار."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/crusty"
+      ]
+    },
+    {
+      "id": "faq-crusty-2",
+      "category": "crusty",
+      "categoryNameEn": "CRUSTY (Coatings & Breadings)",
+      "categoryNameAr": "كروستي (التغطية والبقسماط)",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "How does CRUSTY Pre-dust improve coating adhesion on fried chicken?",
+        "ar": "كيف يساعد بريدست كروستي (Pre-dust) في تحسين التصاق القشرة على الدجاج المقلي؟"
+      },
+      "answer": {
+        "en": "CRUSTY Pre-dust creates an intermediate micro-binding layer directly on meat proteins, absorbing surface moisture and creating strong adherence for liquid batters, which prevents breading blow-off in commercial fryers.",
+        "ar": "يشكل بريدست كروستي طبقة التصاق دقيقة على بروتين اللحم تمتص الرطوبة السطحية وتثبت خلطة الباتر السائلة بإحكام، مما يمنع تقشر أو انفصال طبقة التغطية أثناء القلي."
+      },
+      "source": "Morganite Technical Coating Guide",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/crusty",
+        "/industries/meat-processing"
+      ]
+    },
+    {
+      "id": "faq-crusty-3",
+      "category": "crusty",
+      "categoryNameEn": "CRUSTY (Coatings & Breadings)",
+      "categoryNameAr": "كروستي (التغطية والبقسماط)",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "What is the role of CRUSTY Tempura Mix?",
+        "ar": "ما هو دور خلطة التمبورا (Tempura) في مجموعة كروستي؟"
+      },
+      "answer": {
+        "en": "CRUSTY Tempura Mix is an engineered puffing batter that creates a light, airy, lace-like crispy outer crust with low oil pick-up, ideal for shrimp, seafood, and Asian-style appetizers.",
+        "ar": "خلطة التمبورا من كروستي هي خلطة باتر تنتفخ أثناء القلي لتشكل قشرة خارجية خفيفة وهشة مع امتصاص منخفض للزيت، وهي مثالية للروبيان والمأكولات البحرية والمقبلات الآسيوية."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/crusty"
+      ]
+    },
+    {
+      "id": "faq-active-1",
+      "category": "active",
+      "categoryNameEn": "ACTIVE (Functional Ingredients)",
+      "categoryNameAr": "أكتيف (المكونات الوظيفية)",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is Morganite ACTIVE?",
+        "ar": "ما هي عائلة أكتيف (ACTIVE) من مورجانيت؟"
+      },
+      "answer": {
+        "en": "ACTIVE is Morganite’s product family of functional food ingredients and texture modifiers, including Brine Mixes, Burger Enhancers, Plant Base Enhancers, MDM Fighters, and Bread Improvers.",
+        "ar": "أكتيف (ACTIVE) هي عائلة المكونات الغذائية الوظيفية ومحسنات القوام من مورجانيت، وتشمل خلطات النقع والحقن، محسن البرغر، محسن البدائل النباتية، معالج لحوم MDM، ومحسن الخبز."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/active"
+      ]
+    },
+    {
+      "id": "faq-active-2",
+      "category": "active",
+      "categoryNameEn": "ACTIVE (Functional Ingredients)",
+      "categoryNameAr": "أكتيف (المكونات الوظيفية)",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "What is ACTIVE MDM Fighter and what problem does it address in meat processing?",
+        "ar": "ما هو مركب MDM Fighter في مجموعة أكتيف وما التحدي الذي يعالجه في مصانع اللحوم؟"
+      },
+      "answer": {
+        "en": "MDM Fighter is a functional ingredient system formulated to stabilize fat-protein emulsions, improve texture cohesion, and balance flavor in processed meat products formulated with mechanically deboned meat (MDM).",
+        "ar": "مركب MDM Fighter هو منظومة مكونات وظيفية مصممة لتثبيت استحلاب الدهون والبروتين، وتحسين تماسك القوام وتوازن النكهة في منتجات اللحوم المصنعة باستخدام لحوم نزع العظم الميكانيكي (MDM)."
+      },
+      "source": "Morganite Technical Food Science Data",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/active",
+        "/industries/meat-processing"
+      ]
+    },
+    {
+      "id": "faq-active-3",
+      "category": "active",
+      "categoryNameEn": "ACTIVE (Functional Ingredients)",
+      "categoryNameAr": "أكتيف (المكونات الوظيفية)",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "How does ACTIVE Bread Improver support commercial bakeries?",
+        "ar": "كيف يدعم محسن الخبز (Bread Improver) من مجموعة أكتيف المخابز التجارية؟"
+      },
+      "answer": {
+        "en": "ACTIVE Bread Improver conditions dough to enhance gluten elasticity, improve oven rise, create a softer uniform crumb, and extend freshness in burger buns, sandwich loaves, and flatbreads.",
+        "ar": "يعمل محسن الخبز من أكتيف على تحسين مرونة شبكة الغلوتين، وزيادة انتفاخ الرغيف في الفرن، وتكوين لب متجانس وطري، وإطالة فترة الطزاجة في خبز البرغر والتوست والخبز المسطح."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/active",
+        "/industries/food-manufacturing"
+      ]
+    },
+    {
+      "id": "faq-tapel-1",
+      "category": "tapel",
+      "categoryNameEn": "TAPEL (Meat Spices & Seasonings)",
+      "categoryNameAr": "تابل (بهارات اللحوم والتوابل)",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is Morganite TAPEL?",
+        "ar": "ما هي علامة تابل (TAPEL) من مورجانيت؟"
+      },
+      "answer": {
+        "en": "TAPEL is Morganite’s specialized spice blend brand engineered for meat processors, charcuteries, and culinary kitchens, featuring tailored formulations for mortadella, sausages, burgers, kebabs, and regional dishes.",
+        "ar": "تابل (TAPEL) هي العلامة المتخصصة لخلطات البهارات من مورجانيت المصممة لمصانع اللحوم والمطابخ التجارية، وتضم تركيبات دقيقة للمرتديلا والسجق والبرغر والكباب والأطباق الإقليمية."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/tapel"
+      ]
+    },
+    {
+      "id": "faq-tapel-2",
+      "category": "tapel",
+      "categoryNameEn": "TAPEL (Meat Spices & Seasonings)",
+      "categoryNameAr": "تابل (بهارات اللحوم والتوابل)",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "Which meat applications are covered by Morganite TAPEL spice blends?",
+        "ar": "ما هي تطبيقات اللحوم التي تغطيها بهارات تابل (TAPEL) من مورجانيت؟"
+      },
+      "answer": {
+        "en": "TAPEL encompasses verified blends for Mortadella, Sausage, Salami, Luncheon, Pepperoni, Burgers, Kebabs, Zinger Chicken, Broasted Chicken, Kofta, Fajita, Italian Seasonings, Chicken Masala, and Chilli Mix.",
+        "ar": "تغطي خلطات تابل تطبيقات موثقة تشمل: المرتديلا، السجق، السلامي، اللانشون، البيبروني، البرغر، الكباب، دجاج الزنجر، البروستد، الكفتة، الفاهيتا، البهارات الإيطالية، مسالا الدجاج، والخلطة الحارة."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/tapel",
+        "/industries/meat-processing"
+      ]
+    },
+    {
+      "id": "faq-tapel-3",
+      "category": "tapel",
+      "categoryNameEn": "TAPEL (Meat Spices & Seasonings)",
+      "categoryNameAr": "تابل (بهارات اللحوم والتوابل)",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "Can Morganite customize a TAPEL spice blend for a private meat brand or restaurant chain?",
+        "ar": "هل يمكن لمورجانيت تخصيص خلطة بهارات تابل لعلامة لحوم أو سلسلة مطاعم خاصة؟"
+      },
+      "answer": {
+        "en": "Yes. Morganite’s R&D team regularly customizes TAPEL spice blends to match client sensory profiles, adjusting heat level, aromatic intensity, and batch packaging under confidentiality agreements.",
+        "ar": "نعم، يقوم فريق البحث والتطوير في مورجانيت بتطوير خلطات بهارات تابل مخصصة لمطابقة البصمة الحسية للعميل مع تعديل درجة الحرارة والكثافة العطرية وحجم العبوات بموجب اتفاقيات سرية."
+      },
+      "source": "Morganite Commercial Capability Data",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/tapel",
+        "/custom-food-blends"
+      ]
+    },
+    {
+      "id": "faq-salsa-1",
+      "category": "salsa",
+      "categoryNameEn": "SALSA (Commercial Sauces)",
+      "categoryNameAr": "صلصة (الصلصات التجارية)",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What is Morganite SALSA?",
+        "ar": "ما هي عائلة صلصة (SALSA) من مورجانيت؟"
+      },
+      "answer": {
+        "en": "SALSA is Morganite’s ready-to-use sauce product line designed for restaurants, burger bars, and foodservice operators, formulated for emulsion stability and culinary consistency.",
+        "ar": "صلصة (SALSA) هي خط إنتاج الصلصات الجاهزة من مورجانيت المصمم للمطاعم ومطابخ الخدمة السريعة وقطاع هوريكا، والمتميز بثبات الاستحلاب وتجانس المذاق."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/salsa"
+      ]
+    },
+    {
+      "id": "faq-salsa-2",
+      "category": "salsa",
+      "categoryNameEn": "SALSA (Commercial Sauces)",
+      "categoryNameAr": "صلصة (الصلصات التجارية)",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "Which sauces are included in the Morganite SALSA portfolio?",
+        "ar": "ما هي الصلصات المتوفرة ضمن محفظة صلصة (SALSA) من مورجانيت؟"
+      },
+      "answer": {
+        "en": "The verified SALSA line includes Mayonnaise, Mustard Sauce, Italian Sauce, Garlic Sauce, BBQ Sauce, Buffalo Sauce, Steak Sauce, Chili Sauce, Lemon Garlic, and Honey Mustard.",
+        "ar": "تشمل صلصات عائلة (SALSA) الموثقة: المايونيز، صلصة الخردل، الصلصة الإيطالية، صلصة الثوم، الباربكيو، البافلو، صلصة الستيك، الصلصة الحارة، الليمون بالثوم، والخردل بالعسل."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/salsa",
+        "/industries/horeca"
+      ]
+    },
+    {
+      "id": "faq-zaatar-1",
+      "category": "zaatar",
+      "categoryNameEn": "ZAATAR & Duqqa (Thyme Blends)",
+      "categoryNameAr": "الزعتر والدقة الأردنية",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "Does Morganite manufacture authentic Jordanian Zaatar?",
+        "ar": "هل تنتج مورجانيت الزعتر الأردني الأصيل؟"
+      },
+      "answer": {
+        "en": "Yes. Morganite produces authentic Jordanian Zaatar, traditional Duqqa, and specialized formulations packed with olive oil under ISO 14001:2015 environmental standards at its facility in Abu Alanda, Amman.",
+        "ar": "نعم، تنتج مورجانيت الزعتر الأردني الأصيل، والدقة التراثية، والخلطات المعبأة بزيت الزيتون وفق معايير الجودة والبيئة آيزو 14001:2015 في مصنعها بأبو علندا في عمان."
+      },
+      "source": "https://www.morganitegroup.com/ & ISO 14001 Scope",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology",
+        "cert-iso-14001"
+      ],
+      "relatedPages": [
+        "/products/zaatar"
+      ]
+    },
+    {
+      "id": "faq-zaatar-2",
+      "category": "zaatar",
+      "categoryNameEn": "ZAATAR & Duqqa (Thyme Blends)",
+      "categoryNameAr": "الزعتر والدقة الأردنية",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "What are the verified ingredients in Morganite Zaatar?",
+        "ar": "ما هي المكونات الموثقة في خلطة زعتر مورجانيت؟"
+      },
+      "answer": {
+        "en": "Morganite’s verified public descriptions describe its Zaatar using four core ingredients: dried thyme herb, toasted sesame seeds, salt, and sumac. No unverified additives or fillers are assumed or published.",
+        "ar": "توضح البيانات الرسمية لمورجانيت أن خلطة الزعتر تتكون من أربعة مكونات رئيسية: أوراق الزعتر المجففة، السمسم المحمص، الملح، والسماق. ولا يتم افتراض أو نشر أي إضافات غير موثقة."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/zaatar"
+      ]
+    },
+    {
+      "id": "faq-zaatar-3",
+      "category": "zaatar",
+      "categoryNameEn": "ZAATAR & Duqqa (Thyme Blends)",
+      "categoryNameAr": "الزعتر والدقة الأردنية",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "What Zaatar and Duqqa variations does Morganite offer?",
+        "ar": "ما هي خيارات الزعتر والدقة التي تقدمها مورجانيت؟"
+      },
+      "answer": {
+        "en": "Morganite publicly presents four primary traditional variations: classic Zaatar, traditional Duqqa, Zaatar with olive oil, and Duqqa with olive oil.",
+        "ar": "تقدم مورجانيت أربعة خيارات رئيسية: الزعتر الكلاسيكي، الدقة التراثية، الزعتر بزيت الزيتون، والدقة بزيت الزيتون."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/zaatar"
+      ]
+    },
+    {
+      "id": "faq-zaatar-4",
+      "category": "zaatar",
+      "categoryNameEn": "ZAATAR & Duqqa (Thyme Blends)",
+      "categoryNameAr": "الزعتر والدقة الأردنية",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "Who buys Morganite Zaatar in Jordan and regional markets?",
+        "ar": "من هم عملاء ومستخدمو زعتر مورجانيت في الأردن والمنطقة؟"
+      },
+      "answer": {
+        "en": "Morganite supplies its Zaatar and Duqqa to commercial bakeries for Manakish, hotel breakfast buffets, foodservice distributors, retail outlets, and export partners seeking authentic Levantine thyme blends.",
+        "ar": "تزود مورجانيت خلطات الزعتر والدقة للمخابز التجارية لإنتاج المناقيش والمعجنات، بوفيهات الإفطار الفندقية، موزعي الأغذية، أسواق التجزئة وشركاء التصدير الباحثين عن الزعتر الشامي الأصيل."
+      },
+      "source": "Morganite Commercial Distribution Data",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/zaatar",
+        "/industries/horeca"
+      ]
+    },
+    {
+      "id": "faq-glutenfree-1",
+      "category": "gluten-free",
+      "categoryNameEn": "Gluten-Free Range",
+      "categoryNameAr": "التشكيلة الخالية من الغلوتين",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "Does Morganite produce gluten-free food products?",
+        "ar": "هل تنتج شركة مورجانيت منتجات غذائية خالية من الغلوتين؟"
+      },
+      "answer": {
+        "en": "Yes. Morganite publicly lists a specialized gluten-free product range including Rice Flour, Corn Flour, Zaatar, Zaatar with Olive Oil, Spices, Chicken Stock, Flour Breading, Batter Mix, and Tempura.",
+        "ar": "نعم، تعلن مورجانيت عن تشكيلة متخصصة من المنتجات الخالية من الغلوتين تشمل: طحين الأرز، طحين الذرة، الزعتر، الزعتر بزيت الزيتون، البهارات، مرق الدجاج، طحين التغطية، الباتر، والتمبورا."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/gluten-free"
+      ]
+    },
+    {
+      "id": "faq-glutenfree-2",
+      "category": "gluten-free",
+      "categoryNameEn": "Gluten-Free Range",
+      "categoryNameAr": "التشكيلة الخالية من الغلوتين",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "What is the regulatory and medical disclaimer policy for Morganite’s gluten-free range?",
+        "ar": "ما هي السياسة التوثيقية والتحذيرية لمنتجات مورجانيت الخالية من الغلوتين؟"
+      },
+      "answer": {
+        "en": "Morganite factually describes these products within its gluten-free commercial line without making therapeutic or medical claims. Food processors and consumers are advised to verify batch-specific test reports for specific clinical dietary compliance.",
+        "ar": "تصف مورجانيت هذه المنتجات كعناصر ضمن خطها التجاري الخالي من الغلوتين دون تقديم ادعاءات طبية أو علاجية. ويُنصح مصنعو الأغذية والمستهلكون بالرجوع لشهادات الفحص المعتمدة لكل دفعة إنتاجية."
+      },
+      "source": "Company Regulatory & Labeling Standard",
+      "sourceType": "COMPANY_COMMUNICATION",
+      "verificationStatus": "COMPANY CONFIRMED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/gluten-free"
+      ]
+    },
+    {
+      "id": "faq-glutenfree-3",
+      "category": "gluten-free",
+      "categoryNameEn": "Gluten-Free Range",
+      "categoryNameAr": "التشكيلة الخالية من الغلوتين",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "Can commercial kitchens use Morganite Gluten-Free Flour Breading for fried chicken?",
+        "ar": "هل يمكن للمطابخ التجارية استخدام طحين التغطية الخالي من الغلوتين لقلي الدجاج؟"
+      },
+      "answer": {
+        "en": "Yes. Morganite’s Gluten-Free Flour Breading is formulated to deliver crispy texture and golden color in wheat-free frying applications for restaurants offering dedicated allergen menus.",
+        "ar": "نعم، تم تصميم طحين التغطية الخالي من الغلوتين ليمنح قواماً مقرمشاً ولوناً ذهبياً في قلي الدجاج للمطاعم التي تقدم قوائم مخصصة للحميات الخالية من القمح."
+      },
+      "source": "Morganite Foodservice Product Guide",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/products/gluten-free",
+        "/industries/horeca"
+      ]
+    },
+    {
+      "id": "faq-horeca-1",
+      "category": "horeca",
+      "categoryNameEn": "HORECA & Foodservice",
+      "categoryNameAr": "قطاع هوريكا والمطاعم",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "What solutions does Morganite offer to hotels, restaurants, and cafes (HORECA)?",
+        "ar": "ما هي الحلول التي تقدمها مورجانيت لقطاع الفنادق والمطاعم والمقاهي (هوريكا)؟"
+      },
+      "answer": {
+        "en": "Morganite supplies HORECA operators with ready-to-use SALSA condiments, CRUSTY breadings and batters for fried chicken, TAPEL marinades and fast-seasoning blends, and authentic ZAATAR for breakfast and bakery programs.",
+        "ar": "تزود مورجانيت قطاع هوريكا بصلصات صلصة (SALSA) الجاهزة، خلطات طحين وباتر كروستي للدجاج المقرمش، تتبيلات وبهارات تابل السريعة، والزعتر والدقة الأصيلة لبوفيهات الإفطار والمخابز."
+      },
+      "source": "https://horeca-jordan.com/ & Morganite Official Site",
+      "sourceType": "INDUSTRY_DIRECTORY",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/industries/horeca",
+        "/horeca-food-solutions"
+      ]
+    },
+    {
+      "id": "faq-horeca-2",
+      "category": "horeca",
+      "categoryNameEn": "HORECA & Foodservice",
+      "categoryNameAr": "قطاع هوريكا والمطاعم",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "How does Morganite assist restaurant chains with menu consistency?",
+        "ar": "كيف تساعد مورجانيت سلاسل المطاعم في توحيد جودة وتجانس الأطباق؟"
+      },
+      "answer": {
+        "en": "By providing pre-blended seasoning packs and standardized ready sauces, Morganite eliminates kitchen prep variability, reduces food waste, and ensures identical taste across all branches.",
+        "ar": "من خلال توفير عبوات بهارات مسبقة الوزن وصلصات معيارية جاهزة، تزيل مورجانيت التفاوت في التحضير اليدوي داخل المطابخ وتقلل الهدر وتضمن تطابق المذاق عبر جميع الفروع."
+      },
+      "source": "Morganite Foodservice Solutions",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/industries/horeca"
+      ]
+    },
+    {
+      "id": "faq-meat-1",
+      "category": "meat-processing",
+      "categoryNameEn": "Meat Processing Industry",
+      "categoryNameAr": "قطاع تصنيع ومعالجة اللحوم",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "How does Morganite serve industrial meat processing plants?",
+        "ar": "كيف تخدم مورجانيت مصانع تصنيع ومعالجة اللحوم؟"
+      },
+      "answer": {
+        "en": "Morganite supplies meat processors with TAPEL customized spice blends, ACTIVE functional binders and brine injection mixes, FLAVEX thermal-stable meat flavors, and CRUSTY coating systems for mortadella, burgers, sausages, and nuggets.",
+        "ar": "تزود مورجانيت مصانع اللحوم ببهارات تابل المتخصصة، روابط ومحاليل حقن أكتيف الوظيفية، نكهات فلافيكس المقاومة للحرارة، وأنظمة تغطية كروستي للمرتديلا والبرغر والنقانق والناغتس."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/industries/meat-processing",
+        "/meat-processing-solutions"
+      ]
+    },
+    {
+      "id": "faq-meat-2",
+      "category": "meat-processing",
+      "categoryNameEn": "Meat Processing Industry",
+      "categoryNameAr": "قطاع تصنيع ومعالجة اللحوم",
+      "questionType": "TYPE_C_PROBLEM_SOLVING_B2B",
+      "question": {
+        "en": "Which company in Jordan supplies complete dry ingredient systems for mortadella and burger production?",
+        "ar": "ما هي الشركة في الأردن التي توفر منظومات المكونات الجافة المتكاملة لإنتاج المرتديلا والبرغر؟"
+      },
+      "answer": {
+        "en": "Morganite for Food Technology (Amman, Jordan) specializes in complete dry ingredient systems for mortadella and burgers, combining TAPEL seasonings, ACTIVE binding enhancers, and FLAVEX flavor profiles.",
+        "ar": "تتخصص شركة مورجانيت لتكنولوجيا الأغذية (عمان، الأردن) في منظومات المكونات الجافة المتكاملة للمرتديلا والبرغر، حيث تجمع بهارات تابل، وروابط أكتيف المحسنة للقوام، ونكهات فلافيكس."
+      },
+      "source": "Morganite Meat Science Portfolio",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/industries/meat-processing",
+        "/products/tapel",
+        "/products/active"
+      ]
+    },
+    {
+      "id": "faq-foodmfg-1",
+      "category": "food-manufacturing",
+      "categoryNameEn": "Food Manufacturing & R&D",
+      "categoryNameAr": "التصنيع الغذائي والبحث والتطوير",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "What dry food mix solutions does Morganite supply to industrial food manufacturers?",
+        "ar": "ما هي حلول الخلطات الجافة التي توفرها مورجانيت للمصانع الغذائية؟"
+      },
+      "answer": {
+        "en": "Morganite formulates bulk custom dry mixes, bakery conditioning agents, industrial savory bases, and specialized gluten-free flours tailored to industrial manufacturing equipment.",
+        "ar": "تبتكر مورجانيت خلطات جافة سائبة مخصصة، ومحسنات للمخابز، وقواعد طهي صناعية، وأنواع طحين متخصصة خالية من الغلوتين مصممة لتلائم معدات التصنيع الآلية."
+      },
+      "source": "https://www.morganitegroup.com/",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/industries/food-manufacturing",
+        "/food-manufacturing-jordan"
+      ]
+    },
+    {
+      "id": "faq-quality-1",
+      "category": "quality",
+      "categoryNameEn": "Quality, Safety & Sensory",
+      "categoryNameAr": "الجودة والسلامة والتقييم الحسي",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "How does sensory evaluation integrate into Morganite’s product development?",
+        "ar": "كيف يندمج التقييم الحسي في عمليات تطوير المنتجات لدى مورجانيت؟"
+      },
+      "answer": {
+        "en": "Morganite utilizes systematic sensory evaluation methods—assessing aroma, mouthfeel, texture, and aftertaste—to refine spice blends and flavor systems prior to industrial manufacturing scale-up.",
+        "ar": "تعتمد مورجانيت منهجيات التقييم الحسي العلمي—لقياس الرائحة، الملمس الفموي، القوام، والأثر المتبقي للنكهة—لمعايرة خلطات التوابل والنكهات قبل اعتمادها للإنتاج الصناعي الواسع."
+      },
+      "source": "Morganite R&D Methodology Disclosures",
+      "sourceType": "OFFICIAL_WEBSITE",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology",
+        "person-salah-alheresh"
+      ],
+      "relatedPages": [
+        "/research-development",
+        "/founder/salah-alheresh"
+      ]
+    },
+    {
+      "id": "faq-cert-1",
+      "category": "certifications",
+      "categoryNameEn": "Certifications & Audits",
+      "categoryNameAr": "الشهادات والاعتمادات",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "What certifications does Morganite for Food Technology currently hold?",
+        "ar": "ما هي الشهادات والاعتمادات الرسمية التي تحملها شركة مورجانيت حالياً؟"
+      },
+      "answer": {
+        "en": "Morganite currently holds ISO 14001:2015 Environmental Management System certification covering the production and packaging of specialized food products (Food Flavors, Thyme, and Custom Food Blends) in Abu Alanda, Amman, valid through January 17, 2028.",
+        "ar": "تحمل مورجانيت حالياً شهادة الآيزو ISO 14001:2015 لنظام الإدارة البيئية المعتمد لإنتاج وتعبئة المنتجات الغذائية المتخصصة (النكهات، الزعتر، والخلطات المخصصة) في أبو علندا بعمان، وسارية حتى 17 كانون الثاني 2028."
+      },
+      "source": "Official ISO 14001:2015 Registered Certificate",
+      "sourceType": "CERTIFICATION_BODY",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology",
+        "cert-iso-14001"
+      ],
+      "relatedPages": [
+        "/certifications"
+      ]
+    },
+    {
+      "id": "faq-cert-2",
+      "category": "certifications",
+      "categoryNameEn": "Certifications & Audits",
+      "categoryNameAr": "الشهادات والاعتمادات",
+      "questionType": "TYPE_B_PRODUCT_APPLICATION",
+      "question": {
+        "en": "What is the registered facility address on Morganite’s ISO 14001 certificate?",
+        "ar": "ما هو عنوان المنشأة المسجل على شهادة الآيزو 14001 لمورجانيت؟"
+      },
+      "answer": {
+        "en": "The registered facility address stated on the official certificate is: Jordan – Amman – Industrial Area – Abu Alanda.",
+        "ar": "عنوان المنشأة المسجل رسمياً على الشهادة هو: الأردن - عمان - المنطقة الصناعية - أبو علندا."
+      },
+      "source": "Official ISO 14001:2015 Certificate Document",
+      "sourceType": "CERTIFICATION_BODY",
+      "verificationStatus": "VERIFIED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology",
+        "cert-iso-14001"
+      ],
+      "relatedPages": [
+        "/certifications",
+        "/factory"
+      ]
+    },
+    {
+      "id": "faq-cert-3",
+      "category": "certifications",
+      "categoryNameEn": "Certifications & Audits",
+      "categoryNameAr": "الشهادات والاعتمادات",
+      "questionType": "TYPE_A_DIRECT_ENTITY",
+      "question": {
+        "en": "Are Morganite’s ingredients and blends Halal compliant?",
+        "ar": "هل خلطات ومكونات مورجانيت مطابقة للمعايير الإسلامية للأغذية الحلال؟"
+      },
+      "answer": {
+        "en": "Yes. Morganite’s raw materials, spice processing, and food flavor formulations comply with Halal food production standards.",
+        "ar": "نعم، جميع المواد الأولية وعمليات طحن ومزج التوابل وتركيب النكهات في مورجانيت مطابقة لمعايير إنتاج الأغذية الحلال."
+      },
+      "source": "Morganite Official Quality & Halal Disclosures",
+      "sourceType": "COMPANY_COMMUNICATION",
+      "verificationStatus": "COMPANY CONFIRMED",
+      "lastVerified": "2026-08",
+      "relatedEntities": [
+        "org-morganite-food-technology"
+      ],
+      "relatedPages": [
+        "/certifications"
+      ]
+    }
+  ],
+  "stats": {
+    "totalFaqs": 49,
+    "totalProductFamilies": 7,
+    "totalIndustries": 3,
+    "totalEducationalPages": 8,
+    "totalOfficialSources": 9,
+    "totalCertifications": 2
+  }
+}
