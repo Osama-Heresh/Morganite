@@ -51,14 +51,12 @@ export const Footer: React.FC = () => {
           {/* Col 1 (4 cols): Corporate Entity & Identity */}
           <div className="lg:col-span-4 space-y-4">
             <div className="flex items-center gap-3.5">
-              <div className="bg-[#FAF7F2] p-1.5 border border-white/20 flex items-center justify-center shadow-xs">
-                <img
-                  src="/brand/Logo-Black-new.png"
-                  alt="Morganite for Food Technology Official Logo"
-                  className="h-9 w-auto max-w-[150px] object-contain"
-                  referrerPolicy="no-referrer"
-                />
-              </div>
+              <img
+                src="/brand/Logo-Black-new.png"
+                alt="Morganite for Food Technology Official Logo"
+                className="h-9 sm:h-10 w-auto max-w-[160px] object-contain brightness-0 invert opacity-95"
+                referrerPolicy="no-referrer"
+              />
               <div>
                 <span className="font-bold text-white text-sm tracking-wide block">
                   {isArabic ? COMPANY_ENTITY.legalNameAr : COMPANY_ENTITY.legalName}

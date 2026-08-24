@@ -151,11 +151,11 @@ export const HomePage: React.FC = () => {
                 </span>
               </div>
 
-              <div className="bg-[#FAF7F2] p-3 border border-white/20 flex items-center justify-center">
+              <div className="py-2 flex items-center justify-start">
                 <img
                   src="/brand/Logo-Black-new.png"
                   alt="Morganite for Food Technology Official Logo"
-                  className="h-10 w-auto max-w-full object-contain"
+                  className="h-10 w-auto max-w-full object-contain brightness-0 invert opacity-95"
                   referrerPolicy="no-referrer"
                 />
               </div>

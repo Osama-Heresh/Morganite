@@ -175,7 +175,7 @@ export const OfficialSourcesPage: React.FC = () => {
             </div>
 
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
-              <div className="lg:col-span-4 bg-[#FAF7F2] p-6 border border-black/15 flex flex-col items-center justify-center space-y-3 text-center">
+              <div className="lg:col-span-4 p-6 border border-black/15 flex flex-col items-center justify-center space-y-3 text-center">
                 <img
                   src="/brand/Logo-Black-new.png"
                   alt="Morganite Official Logo"

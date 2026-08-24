@@ -67,14 +67,12 @@ export const Navbar: React.FC = () => {
             to={`/?lang=${language}`}
             className="flex items-center gap-3 group focus:outline-none"
           >
-            <div className="bg-[#FAF7F2] px-2.5 py-1 border border-white/20 flex items-center justify-center shadow-xs">
-              <img
-                src="/brand/Logo-Black-new.png"
-                alt="Morganite for Food Technology Official Logo"
-                className="h-8 w-auto max-w-[130px] sm:max-w-[155px] object-contain"
-                referrerPolicy="no-referrer"
-              />
-            </div>
+            <img
+              src="/brand/Logo-Black-new.png"
+              alt="Morganite for Food Technology Official Logo"
+              className="h-8 sm:h-9 w-auto max-w-[140px] sm:max-w-[165px] object-contain brightness-0 invert opacity-95 group-hover:opacity-100 transition-opacity"
+              referrerPolicy="no-referrer"
+            />
             <div className="hidden md:block">
               <div className="font-black text-sm tracking-tight uppercase text-white group-hover:text-[#E8C5A0] transition-colors leading-none">
                 MORGANITE
