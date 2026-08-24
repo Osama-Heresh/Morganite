@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import { useLanguage } from '../../context/LanguageContext';
+import { SITE_URL, SITE_LOGO_ABSOLUTE_URL } from '../../config/site';
 
 interface MetaHeadProps {
   title: string;
@@ -15,13 +16,13 @@ export const MetaHead: React.FC<MetaHeadProps> = ({
   description,
   canonicalPath,
   ogType = 'website',
-  ogImage = 'https://www.morganitegroup.com/brand/Logo-Black-new.png',
+  ogImage = SITE_LOGO_ABSOLUTE_URL,
 }) => {
   const location = useLocation();
   const { language, isArabic } = useLanguage();
 
   const currentPath = canonicalPath || location.pathname;
-  const baseUrl = 'https://www.morganitegroup.com';
+  const baseUrl = SITE_URL;
   const cleanPath = currentPath === '/' ? '' : currentPath;
   const canonicalUrl = `${baseUrl}${cleanPath}${language === 'ar' ? '?lang=ar' : ''}`;
   const enAlternateUrl = `${baseUrl}${cleanPath}?lang=en`;

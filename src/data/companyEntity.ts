@@ -1,3 +1,5 @@
+import { SITE_LOGO_ABSOLUTE_URL } from '../config/site';
+
 export const COMPANY_ENTITY = {
   id: 'org-morganite-food-technology',
   legalName: 'Morganite for Food Technology',
@@ -69,7 +71,7 @@ export const BRAND_ASSETS = {
     name: 'Morganite Official Logo',
     filename: 'Logo-Black-new.png',
     publicPath: '/brand/Logo-Black-new.png',
-    canonicalUrl: 'https://www.morganitegroup.com/brand/Logo-Black-new.png',
+    canonicalUrl: SITE_LOGO_ABSOLUTE_URL,
     source: 'Official Morganite website',
     status: 'OFFICIAL' as const,
     immutable: true as const,

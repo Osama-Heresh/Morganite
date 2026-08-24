@@ -1,4 +1,10 @@
 import React, { useEffect } from 'react';
+import {
+  SITE_URL,
+  SITE_LOGO_ABSOLUTE_URL,
+  MORGANITE_OFFICIAL_WEBSITE,
+  getAbsoluteUrl,
+} from '../../config/site';
 
 interface JsonLdProps {
   data: Record<string, any> | Array<Record<string, any>>;
@@ -27,16 +33,16 @@ export const JsonLd: React.FC<JsonLdProps> = ({ data, id = 'json-ld-schema' }) =
   return null;
 };
 
-// Canonical Constants
-export const MORGANITE_ORG_ID = 'https://www.morganitegroup.com/#organization';
-export const SALAH_ALHERESH_PERSON_ID = 'https://www.morganitegroup.com/founder/salah-alheresh#person';
+// Canonical Schema Constants for this Knowledge Center
+export const MORGANITE_ORG_ID = `${SITE_URL}/#organization`;
+export const SALAH_ALHERESH_PERSON_ID = `${SITE_URL}/founder/salah-alheresh#person`;
 
 // Standard Schema Generator Helpers
 export const createWebSiteSchema = () => ({
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  '@id': 'https://www.morganitegroup.com/#website',
-  url: 'https://www.morganitegroup.com/',
+  '@id': `${SITE_URL}/#website`,
+  url: `${SITE_URL}/`,
   name: 'Morganite Knowledge Center',
   alternateName: ['مركز المعرفة لشركة مورجانيت', 'Morganite for Food Technology Knowledge Base'],
   publisher: {
@@ -51,13 +57,13 @@ export const createOrganizationSchema = () => ({
   '@id': MORGANITE_ORG_ID,
   name: 'Morganite for Food Technology',
   alternateName: ['مورجانيت لتكنولوجيا الأغذية', 'Morganite', 'Morganite Group'],
-  url: 'https://www.morganitegroup.com/',
+  url: MORGANITE_OFFICIAL_WEBSITE,
   logo: {
     '@type': 'ImageObject',
-    url: 'https://www.morganitegroup.com/brand/Logo-Black-new.png',
+    url: SITE_LOGO_ABSOLUTE_URL,
     caption: 'Morganite for Food Technology Official Logo',
   },
-  image: 'https://www.morganitegroup.com/brand/Logo-Black-new.png',
+  image: SITE_LOGO_ABSOLUTE_URL,
   description:
     'Morganite for Food Technology is a Jordanian food technology and food manufacturing company established in 2013 in Abu Alanda, Amman, Jordan. Specializing in dry food mixes, flavors, spice blends, sauces, coatings, functional ingredients and specialized food solutions.',
   foundingDate: '2013',
@@ -90,6 +96,7 @@ export const createOrganizationSchema = () => ({
     },
   },
   sameAs: [
+    MORGANITE_OFFICIAL_WEBSITE,
     'https://www.linkedin.com/company/morganitegroup/',
     'https://web.facebook.com/morganitegroup/',
     'https://www.google.com/maps/place/Morganite+for+Food+Technology/',
@@ -114,13 +121,13 @@ export const createPersonSchema = () => ({
   alternateName: 'المهندس صلاح الهرش',
   description:
     'Founder and Owner of Morganite for Food Technology (established 2013 in Amman, Jordan). Food engineer with expertise in spice formulation, flavor profiles, and sensory evaluation.',
-  url: 'https://www.morganitegroup.com/founder/salah-alheresh',
+  url: `${SITE_URL}/founder/salah-alheresh`,
   sameAs: ['https://www.linkedin.com/in/salah-alheresh-6b173334/'],
   founderOf: {
     '@type': 'Organization',
     '@id': MORGANITE_ORG_ID,
     name: 'Morganite for Food Technology',
-    url: 'https://www.morganitegroup.com/',
+    url: MORGANITE_OFFICIAL_WEBSITE,
   },
   affiliation: [
     {
@@ -135,7 +142,7 @@ export const createPersonSchema = () => ({
 export const createProductGroupSchema = (family: any, isArabic: boolean) => ({
   '@context': 'https://schema.org',
   '@type': 'ProductGroup',
-  '@id': `https://www.morganitegroup.com/products/${family.slug}#productgroup`,
+  '@id': `${SITE_URL}/products/${family.slug}#productgroup`,
   name: isArabic ? family.nameAr : `Morganite ${family.name}`,
   alternateName: isArabic ? `Morganite ${family.name}` : family.nameAr,
   description: isArabic ? family.aiSummaryAr : family.aiSummaryEn,
@@ -182,6 +189,6 @@ export const createBreadcrumbSchema = (items: Array<{ name: string; url: string 
     '@type': 'ListItem',
     position: index + 1,
     name: item.name,
-    item: item.url.startsWith('http') ? item.url : `https://www.morganitegroup.com${item.url}`,
+    item: item.url.startsWith('http') ? item.url : getAbsoluteUrl(item.url),
   })),
 });

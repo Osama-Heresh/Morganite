@@ -16,6 +16,7 @@ import { JsonLd, createBreadcrumbSchema } from '../components/seo/JsonLd';
 import { Breadcrumbs } from '../components/common/Breadcrumbs';
 import { AiReadableSummary } from '../components/common/AiReadableSummary';
 import { MASTER_KNOWLEDGE } from '../data/masterKnowledge';
+import { SITE_URL } from '../config/site';
 
 export const EntityGraphPage: React.FC = () => {
   const { language, isArabic } = useLanguage();
@@ -34,7 +35,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#19201C] text-white border-black',
       detailsEn: 'Established 2013 in Abu Alanda, Amman, Jordan. Dry food mixes, food flavors, spice blends, coatings, and sauces.',
       detailsAr: 'تأسست عام 2013 في أبو علندا، عمان، الأردن. متخصصة في الخلطات الجافة والنكهات والبهارات والبقسماط والصلصات.',
-      schemaId: 'https://www.morganitegroup.com/#organization',
+      schemaId: `${SITE_URL}/#organization`,
       targetUrl: '/',
     },
     {
@@ -46,7 +47,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#8C5835] text-white border-[#8C5835]',
       detailsEn: 'Founder & Owner of Morganite. Secretary of the 6th Board (July 2025) of JSSEF under Ministry of Agriculture.',
       detailsAr: 'مؤسس ومالك مورجانيت. أمين سر مجلس الإدارة السادس (تموز 2025) في الجمعية الأردنية للتقييم الحسي للأغذية.',
-      schemaId: 'https://www.morganitegroup.com/founder/salah-alheresh#person',
+      schemaId: `${SITE_URL}/founder/salah-alheresh#person`,
       targetUrl: '/founder/salah-alheresh',
     },
     {
@@ -58,7 +59,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#2D3A31] text-white border-[#2D3A31]',
       detailsEn: 'Dedicated blending and packaging facility located on Abdul Razzaq Al Rabih Street, Abu Alanda Industrial Area, Amman, Jordan.',
       detailsAr: 'منشأة التصنيع والخلط والتعبئة الواقعة في شارع عبد الرزاق الرابح بالمنطقة الصناعية في أبو علندا بعمان.',
-      schemaId: 'https://www.morganitegroup.com/factory#facility',
+      schemaId: `${SITE_URL}/factory#facility`,
       targetUrl: '/factory',
     },
     {
@@ -70,7 +71,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#1C241F] text-white border-black',
       detailsEn: 'Capital city of Jordan, central industrial hub for food manufacturing and regional Levant distribution.',
       detailsAr: 'العاصمة الأردنية، المركز الصناعي الرئيسي لتصنيع الأغذية والتوزيع الإقليمي.',
-      schemaId: 'https://www.morganitegroup.com/morganite-jordan',
+      schemaId: `${SITE_URL}/morganite-jordan`,
       targetUrl: '/morganite-jordan',
     },
     {
@@ -82,7 +83,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#8C5835] text-white border-[#8C5835]',
       detailsEn: 'Custom proprietary flavor creation, thermal stability testing, texture optimization, and sensory analysis.',
       detailsAr: 'تطوير النكهات الحصرية، اختبارات الثبات الحراري، تحسين القوام، والتقييم الحسي.',
-      schemaId: 'https://www.morganitegroup.com/research-development',
+      schemaId: `${SITE_URL}/research-development`,
       targetUrl: '/research-development',
     },
     {
@@ -106,7 +107,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#2D3A31] text-white border-[#2D3A31]',
       detailsEn: 'Scope: Production & Packaging of Specialized Food Products (Flavors, Thyme, Custom Blends). Valid to Jan 17, 2028.',
       detailsAr: 'النطاق: إنتاج وتعبئة النكهات والزعتر والخلطات المخصصة في أبو علندا (سارية حتى 2028).',
-      schemaId: 'https://www.morganitegroup.com/certifications',
+      schemaId: `${SITE_URL}/certifications`,
       targetUrl: '/certifications',
     },
     {
@@ -118,7 +119,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#19201C] text-white border-black',
       detailsEn: 'Directory of primary Level 1 & Level 2 sources including Website, LinkedIn, JSSEF, and Maps.',
       detailsAr: 'دليل المصادر والوثائق الرسمية للمستوى الأول والثاني للتحقق والإسناد.',
-      schemaId: 'https://www.morganitegroup.com/official-sources',
+      schemaId: `${SITE_URL}/official-sources`,
       targetUrl: '/official-sources',
     },
     {
@@ -130,7 +131,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#1C241F] text-white border-black',
       detailsEn: 'Concentrated savory food flavors (Beef, Chicken, Turkey, Smoke, Grill).',
       detailsAr: 'نكهات غذائية مركزة للحوم والدواجن والشوربات والصلصات.',
-      schemaId: 'https://www.morganitegroup.com/products/flavex',
+      schemaId: `${SITE_URL}/products/flavex`,
       targetUrl: '/products/flavex',
     },
     {
@@ -142,7 +143,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#1C241F] text-white border-black',
       detailsEn: 'Pre-dust, Batter Mix, Flour Breading, Tempura, Bread Crumbs.',
       detailsAr: 'أنظمة التغطية المقرمشة، الباتر، البريدينج، والتمبورا لمصانع المقليات والمطاعم.',
-      schemaId: 'https://www.morganitegroup.com/products/crusty',
+      schemaId: `${SITE_URL}/products/crusty`,
       targetUrl: '/products/crusty',
     },
     {
@@ -154,7 +155,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#1C241F] text-white border-black',
       detailsEn: 'Brine mix, Burger Enhancer, MDM Fighter, Plant Base Enhancer, Bread Improver.',
       detailsAr: 'روابط حقن اللحوم، تحسين القوام، روابط البروتين النباتي، ومحسنات المخابز.',
-      schemaId: 'https://www.morganitegroup.com/products/active',
+      schemaId: `${SITE_URL}/products/active`,
       targetUrl: '/products/active',
     },
     {
@@ -166,7 +167,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#1C241F] text-white border-black',
       detailsEn: 'Spice formulations for Mortadella, Sausage, Burger, Zinger, Shawarma, Kofta.',
       detailsAr: 'خلطات بهارات متخصصة لمصانع المرتديلا، السجق، الشاورما، البرغر والزنجر.',
-      schemaId: 'https://www.morganitegroup.com/products/tapel',
+      schemaId: `${SITE_URL}/products/tapel`,
       targetUrl: '/products/tapel',
     },
     {
@@ -178,7 +179,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#1C241F] text-white border-black',
       detailsEn: 'Commercial sauces: Mayonnaise, Mustard, Italian, Garlic, BBQ, Buffalo, Honey Mustard.',
       detailsAr: 'صلصات تجارية جاهزة للمطاعم والفنادق بعبوات اقتصادية.',
-      schemaId: 'https://www.morganitegroup.com/products/salsa',
+      schemaId: `${SITE_URL}/products/salsa`,
       targetUrl: '/products/salsa',
     },
     {
@@ -190,7 +191,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#1C241F] text-white border-black',
       detailsEn: 'Authentic Jordanian Thyme (Thyme herb, toasted sesame, salt, sumac) + olive oil mixes.',
       detailsAr: 'زعتر أردني أصيل (زعتر بري، سمسم محمص، ملح، سماق) مع خلطات زيت الزيتون.',
-      schemaId: 'https://www.morganitegroup.com/products/zaatar',
+      schemaId: `${SITE_URL}/products/zaatar`,
       targetUrl: '/products/zaatar',
     },
     {
@@ -202,7 +203,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#1C241F] text-white border-black',
       detailsEn: 'Rice flour, corn flour, gluten-free zaatar, bouillon, and gluten-free breadings.',
       detailsAr: 'طحين الأرز، طحين الذرة، زعتر وماجي وبقسماط خالي من الجلوتين.',
-      schemaId: 'https://www.morganitegroup.com/products/gluten-free',
+      schemaId: `${SITE_URL}/products/gluten-free`,
       targetUrl: '/products/gluten-free',
     },
     {
@@ -214,7 +215,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#8C5835] text-white border-[#8C5835]',
       detailsEn: 'Mortadella, sausage, burger, shawarma further processing plants.',
       detailsAr: 'مصانع مصنعات اللحوم الحمراء والدواجن ومنتجات الشاورما والمقليات.',
-      schemaId: 'https://www.morganitegroup.com/industries/meat-processing',
+      schemaId: `${SITE_URL}/industries/meat-processing`,
       targetUrl: '/industries/meat-processing',
     },
     {
@@ -226,7 +227,7 @@ export const EntityGraphPage: React.FC = () => {
       color: 'bg-[#8C5835] text-white border-[#8C5835]',
       detailsEn: 'Hotels, restaurant chains, catering services, and institutional food service.',
       detailsAr: 'الفنادق، سلاسل المطاعم، شركات الإعاشة، ومطابخ التجهيز المركزية.',
-      schemaId: 'https://www.morganitegroup.com/industries/horeca',
+      schemaId: `${SITE_URL}/industries/horeca`,
       targetUrl: '/industries/horeca',
     },
   ];

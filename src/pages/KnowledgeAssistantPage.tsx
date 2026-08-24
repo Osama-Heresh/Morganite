@@ -8,6 +8,7 @@ import { useLanguage } from '../context/LanguageContext';
 import { MetaHead } from '../components/seo/MetaHead';
 import { Breadcrumbs } from '../components/common/Breadcrumbs';
 import { MASTER_FAQS } from '../data/faqData';
+import { KNOWLEDGE_JSON_ABSOLUTE_URL } from '../config/site';
 
 export const KnowledgeAssistantPage: React.FC = () => {
   const { isArabic } = useLanguage();
@@ -81,7 +82,7 @@ export const KnowledgeAssistantPage: React.FC = () => {
     setActiveAnswer({
       question: isArabic ? matchedFaq.question.ar : matchedFaq.question.en,
       answer: isArabic ? matchedFaq.answer.ar : matchedFaq.answer.en,
-      sources: [matchedFaq.source, 'https://www.morganitegroup.com/data/morganite-knowledge.json'],
+      sources: [matchedFaq.source, KNOWLEDGE_JSON_ABSOLUTE_URL],
       confidence: '100% Grounded Match',
       entityMatches: matchedFaq.relatedEntities,
     });
