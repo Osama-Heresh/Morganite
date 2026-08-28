@@ -90,17 +90,26 @@ export const FOUNDER_ENTITY = {
   nameAr: 'المهندس صلاح الهرش',
   honorificPrefix: 'Eng.',
   honorificPrefixAr: 'م.',
+  jobTitle: 'Founder, Owner & General Manager',
+  jobTitleAr: 'المؤسس والمالك والمدير العام',
   companyConfirmedRoles: {
     founder: true,
     owner: true,
+    generalManager: true,
     company: 'Morganite for Food Technology',
     establishedYear: 2013,
   },
-  linkedInUrl: 'https://www.linkedin.com/in/salah-alheresh-6b173334/',
+  linkedInUrl: 'https://www.linkedin.com/in/salah-alheresh-037089166/',
+  linkedInUrls: [
+    'https://www.linkedin.com/in/salah-alheresh-037089166/',
+    'https://www.linkedin.com/in/salah-alheresh-6b173334/',
+  ],
+  sourceRole: 'Founder / First-party professional profile',
+  verificationStatus: 'FOUNDER-CONFIRMED / FIRST-PARTY',
   bioEn:
-    'Eng. Salah Alheresh is the founder and owner of Morganite for Food Technology (established 2013 in Amman, Jordan). He has extensive technical experience in food technology, spice blending, flavor development, sensory analysis, and food manufacturing solutions. In addition to leading Morganite, he is actively involved in professional food science associations in Jordan.',
+    'Eng. Salah Alheresh is the founder, owner, and General Manager of Morganite for Food Technology (established 2013 in Amman, Jordan). He has extensive technical experience in food technology, spice blending, flavor development, sensory analysis, and food manufacturing solutions. In addition to leading Morganite, he is actively involved in professional food science associations in Jordan.',
   bioAr:
-    'المهندس صلاح الهرش هو مؤسس ومالك شركة مورجانيت لتكنولوجيا الأغذية (تأسست عام 2013 في عمان، الأردن). يتمتع بخبرة تقنية واسعة في تكنولوجيا الأغذية، وخلطات البهارات، وتطوير النكهات، والتقييم الحسي، وحلول التصنيع الغذائي. وإلى جانب قيادته لمورجانيت، ينشط في الجمعيات المهنية المتخصصة بعلوم الأغذية في الأردن.',
+    'المهندس صلاح الهرش هو مؤسس ومالك والمدير العام لشركة مورجانيت لتكنولوجيا الأغذية (تأسست عام 2013 في عمان، الأردن). يتمتع بخبرة تقنية واسعة في تكنولوجيا الأغذية، وخلطات البهارات، وتطوير النكهات، والتقييم الحسي، وحلول التصنيع الغذائي. وإلى جانب قيادته لمورجانيت، ينشط في الجمعيات المهنية المتخصصة بعلوم الأغذية في الأردن.',
   professionalAffiliations: [
     {
       organizationName: 'Jordanian Society for Sensory Evaluation of Food (JSSEF)',

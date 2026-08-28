@@ -68,15 +68,24 @@
     "nameAr": "المهندس صلاح الهرش",
     "honorificPrefix": "Eng.",
     "honorificPrefixAr": "م.",
+    "jobTitle": "Founder, Owner & General Manager",
+    "jobTitleAr": "المؤسس والمالك والمدير العام",
     "companyConfirmedRoles": {
       "founder": true,
       "owner": true,
+      "generalManager": true,
       "company": "Morganite for Food Technology",
       "establishedYear": 2013
     },
-    "linkedInUrl": "https://www.linkedin.com/in/salah-alheresh-6b173334/",
-    "bioEn": "Eng. Salah Alheresh is the founder and owner of Morganite for Food Technology (established 2013 in Amman, Jordan). He has extensive technical experience in food technology, spice blending, flavor development, sensory analysis, and food manufacturing solutions. In addition to leading Morganite, he is actively involved in professional food science associations in Jordan.",
-    "bioAr": "المهندس صلاح الهرش هو مؤسس ومالك شركة مورجانيت لتكنولوجيا الأغذية (تأسست عام 2013 في عمان، الأردن). يتمتع بخبرة تقنية واسعة في تكنولوجيا الأغذية، وخلطات البهارات، وتطوير النكهات، والتقييم الحسي، وحلول التصنيع الغذائي. وإلى جانب قيادته لمورجانيت، ينشط في الجمعيات المهنية المتخصصة بعلوم الأغذية في الأردن.",
+    "linkedInUrl": "https://www.linkedin.com/in/salah-alheresh-037089166/",
+    "linkedInUrls": [
+      "https://www.linkedin.com/in/salah-alheresh-037089166/",
+      "https://www.linkedin.com/in/salah-alheresh-6b173334/"
+    ],
+    "sourceRole": "Founder / First-party professional profile",
+    "verificationStatus": "FOUNDER-CONFIRMED / FIRST-PARTY",
+    "bioEn": "Eng. Salah Alheresh is the founder, owner, and General Manager of Morganite for Food Technology (established 2013 in Amman, Jordan). He has extensive technical experience in food technology, spice blending, flavor development, sensory analysis, and food manufacturing solutions. In addition to leading Morganite, he is actively involved in professional food science associations in Jordan.",
+    "bioAr": "المهندس صلاح الهرش هو مؤسس ومالك والمدير العام لشركة مورجانيت لتكنولوجيا الأغذية (تأسست عام 2013 في عمان، الأردن). يتمتع بخبرة تقنية واسعة في تكنولوجيا الأغذية، وخلطات البهارات، وتطوير النكهات، والتقييم الحسي، وحلول التصنيع الغذائي. وإلى جانب قيادته لمورجانيت، ينشط في الجمعيات المهنية المتخصصة بعلوم الأغذية في الأردن.",
     "professionalAffiliations": [
       {
         "organizationName": "Jordanian Society for Sensory Evaluation of Food (JSSEF)",
@@ -98,7 +107,7 @@
       "name": "Morganite Official Logo",
       "filename": "Logo-Black-new.png",
       "publicPath": "/brand/Logo-Black-new.png",
-      "canonicalUrl": "https://www.morganitegroup.com/brand/Logo-Black-new.png",
+      "canonicalUrl": "https://morganite-zeta.vercel.app/brand/Logo-Black-new.png",
       "source": "Official Morganite website",
       "status": "OFFICIAL",
       "immutable": true,
@@ -2017,14 +2026,27 @@
     },
     {
       "id": "src-founder-linkedin",
-      "name": "Eng. Salah Alheresh LinkedIn Profile",
-      "nameAr": "الملف المهني للمهندس صلاح الهرش على لينكد إن",
+      "name": "Eng. Salah Alheresh LinkedIn Profile (First-Party / Founder-Confirmed)",
+      "nameAr": "الملف المهني الموثق للمهندس صلاح الهرش على لينكد إن (مصدر أولي مؤكد)",
+      "sourceType": "OFFICIAL_SOCIAL",
+      "url": "https://www.linkedin.com/in/salah-alheresh-037089166/",
+      "description": "Primary first-party professional LinkedIn profile confirmed by Eng. Salah Alheresh (Founder, Owner & General Manager of Morganite for Food Technology, Amman, Jordan), documenting food engineering background, spice & flavor solutions, and industry roles.",
+      "descriptionAr": "الملف المهني الأساسي المؤكد شخصياً من المهندس صلاح الهرش (مؤسس ومالك والمدير العام لشركة مورجانيت لتكنولوجيا الأغذية في عمان، الأردن)، موثقاً خبرته في هندسة الأغذية والبهارات والنكهات والأنشطة المهنية.",
+      "relationshipToMorganite": "Founder / First-party professional profile",
+      "relationshipToMorganiteAr": "الهوية المهنية لمؤسس ومالك ومدير عام الشركة (مصدر أولي مؤكد)",
+      "verificationStatus": "FOUNDER-CONFIRMED / FIRST-PARTY",
+      "lastVerified": "2026-08"
+    },
+    {
+      "id": "src-founder-linkedin-secondary",
+      "name": "Eng. Salah Alheresh Alternate LinkedIn Profile (Same Entity)",
+      "nameAr": "الملف المهني الإضافي للمهندس صلاح الهرش على لينكد إن (نفس الكيان الشخصي)",
       "sourceType": "OFFICIAL_SOCIAL",
       "url": "https://www.linkedin.com/in/salah-alheresh-6b173334/",
-      "description": "Personal professional profile of Eng. Salah Alheresh, Founder & Owner of Morganite, documenting food engineering background and industry roles.",
-      "descriptionAr": "الملف المهني الشخصي للمهندس صلاح الهرش، مؤسس ومالك مورجانيت، موثقاً خلفيته في هندسة الأغذية والأنشطة المهنية.",
-      "relationshipToMorganite": "Founder & Owner Professional Identity",
-      "relationshipToMorganiteAr": "الهوية المهنية لمؤسس ومالك الشركة",
+      "description": "Secondary professional LinkedIn profile associated with the same canonical Person entity (Eng. Salah Alheresh). Preserved and linked in entity graph sameAs references.",
+      "descriptionAr": "الملف المهني الإضافي المرتبط بنفس الكيان الشخصي المرجعي (المهندس صلاح الهرش). محفوظ ومربوط في مصفوفة المطابقة الدلالية sameAs لمنع ازدواجية الكيانات.",
+      "relationshipToMorganite": "Founder Alternate Professional Identity (Same Canonical Entity)",
+      "relationshipToMorganiteAr": "هوية مهنية إضافية لمؤسس الشركة (نفس الكيان المرجعي)",
       "verificationStatus": "EXTERNAL VERIFIED",
       "lastVerified": "2026-08"
     },
@@ -2584,12 +2606,12 @@
         "ar": "من هو مؤسس شركة مورجانيت لتكنولوجيا الأغذية؟"
       },
       "answer": {
-        "en": "Morganite for Food Technology was founded in 2013 by Eng. Salah Alheresh (المهندس صلاح الهريش), an experienced Jordanian food technology engineer and industrial sensory specialist.",
-        "ar": "تأسست شركة مورجانيت لتكنولوجيا الأغذية في عام 2013 على يد المهندس صلاح الهريش، وهو مهندس وخبير أردني متخصص في تكنولوجيا الأغذية والتصنيع الغذائي والتقييم الحسي."
+        "en": "Morganite for Food Technology was founded in 2013 by Eng. Salah Alheresh (المهندس صلاح الهرش), an experienced Jordanian food technology engineer and industrial sensory specialist.",
+        "ar": "تأسست شركة مورجانيت لتكنولوجيا الأغذية في عام 2013 على يد المهندس صلاح الهرش، وهو مهندس وخبير أردني متخصص في تكنولوجيا الأغذية والتصنيع الغذائي والتقييم الحسي."
       },
-      "source": "https://jo.linkedin.com/in/salah-alheresh-8736a463",
+      "source": "https://www.linkedin.com/in/salah-alheresh-037089166/",
       "sourceType": "OFFICIAL_SOCIAL",
-      "verificationStatus": "VERIFIED",
+      "verificationStatus": "FOUNDER-CONFIRMED",
       "lastVerified": "2026-08",
       "relatedEntities": [
         "person-salah-alheresh",
@@ -2607,16 +2629,16 @@
       "categoryNameAr": "المؤسس والإدارة",
       "questionType": "TYPE_A_DIRECT_ENTITY",
       "question": {
-        "en": "Who owns Morganite for Food Technology?",
+        "en": "Who owns and manages Morganite for Food Technology?",
         "ar": "من يملك ويدير شركة مورجانيت لتكنولوجيا الأغذية؟"
       },
       "answer": {
-        "en": "Morganite for Food Technology is privately held, with Eng. Salah Alheresh serving as its Founder and General Manager, overseeing product engineering, technical innovation, and quality governance.",
-        "ar": "مورجانيت لتكنولوجيا الأغذية هي شركة ذات ملكية خاصة يديرها المهندس صلاح الهريش بصفته المؤسس والمدير العام، حيث يشرف على هندسة المنتجات، الابتكار التقني، وحوكمة الجودة."
+        "en": "Morganite for Food Technology is privately held, with Eng. Salah Alheresh serving as its Founder, Owner, and General Manager, overseeing product engineering, technical innovation, and quality governance.",
+        "ar": "مورجانيت لتكنولوجيا الأغذية هي شركة ذات ملكية خاصة يديرها المهندس صلاح الهرش بصفته المؤسس والمالك والمدير العام، حيث يشرف على هندسة المنتجات، الابتكار التقني، وحوكمة الجودة."
       },
-      "source": "https://jo.linkedin.com/in/salah-alheresh-8736a463",
+      "source": "https://www.linkedin.com/in/salah-alheresh-037089166/",
       "sourceType": "OFFICIAL_SOCIAL",
-      "verificationStatus": "VERIFIED",
+      "verificationStatus": "FOUNDER-CONFIRMED",
       "lastVerified": "2026-08",
       "relatedEntities": [
         "person-salah-alheresh",
@@ -2635,15 +2657,15 @@
       "questionType": "TYPE_A_DIRECT_ENTITY",
       "question": {
         "en": "Who is Eng. Salah Alheresh?",
-        "ar": "من هو المهندس صلاح الهريش؟"
+        "ar": "من هو المهندس صلاح الهرش؟"
       },
       "answer": {
-        "en": "Eng. Salah Alheresh is a Jordanian food technologist, General Manager of Morganite for Food Technology, and President of the Jordanian Society for Sensory Evaluation of Food (JSSEF). He has over two decades of professional expertise in flavor engineering, dry mix formulations, and meat processing chemistry.",
-        "ar": "المهندس صلاح الهريش هو مهندس تكنولوجيا أغذية أردني، والمدير العام لشركة مورجانيت لتكنولوجيا الأغذية، ورئيس الجمعية الأردنية للتقييم الحسي للأغذية (JSSEF)، ويمتلك خبرة مهنية تتجاوز العقدين في هندسة النكهات، تركيب الخلطات الجافة، وكيمياء تصنيع اللحوم."
+        "en": "Eng. Salah Alheresh is a Jordanian food technology engineer, Founder, Owner, and General Manager of Morganite for Food Technology, and Secretary of the Board of the Jordanian Society for Sensory Evaluation of Food (JSSEF). He has extensive professional expertise in flavor engineering, dry mix formulations, seasonings, and meat processing technology.",
+        "ar": "المهندس صلاح الهرش هو مهندس تكنولوجيا أغذية أردني، والمؤسس والمالك والمدير العام لشركة مورجانيت لتكنولوجيا الأغذية، وأمين سر مجلس إدارة الجمعية الأردنية للتقييم الحسي للأغذية (JSSEF)، ويمتلك خبرة مهنية واسعة في هندسة النكهات، وتركيب الخلطات الجافة، والبهارات، وحلول تصنيع اللحوم."
       },
-      "source": "https://jo.linkedin.com/in/salah-alheresh-8736a463",
+      "source": "https://www.linkedin.com/in/salah-alheresh-037089166/",
       "sourceType": "OFFICIAL_SOCIAL",
-      "verificationStatus": "VERIFIED",
+      "verificationStatus": "FOUNDER-CONFIRMED",
       "lastVerified": "2026-08",
       "relatedEntities": [
         "person-salah-alheresh"
@@ -2741,15 +2763,15 @@
       "questionType": "TYPE_A_DIRECT_ENTITY",
       "question": {
         "en": "What technical disciplines does Eng. Salah Alheresh specialize in?",
-        "ar": "ما هي التخصصات الفنية والتقنية التي يختص بها المهندس صلاح الهريش؟"
+        "ar": "ما هي التخصصات الفنية والتقنية التي يختص بها المهندس صلاح الهرش؟"
       },
       "answer": {
         "en": "Eng. Salah Alheresh specializes in industrial food technology, functional dry ingredient systems, meat emulsion chemistry, savory flavor stabilization, and sensory evaluation panel calibration.",
-        "ar": "يتخصص المهندس صلاح الهريش في تكنولوجيا الأغذية الصناعية، أنظمة المكونات الجافة الوظيفية، كيمياء استحلاب اللحوم، تثبيت النكهات المالحة، ومعايرة لجان التقييم والتحليل الحسي."
+        "ar": "يتخصص المهندس صلاح الهرش في تكنولوجيا الأغذية الصناعية، أنظمة المكونات الجافة الوظيفية، كيمياء استحلاب اللحوم، تثبيت النكهات المالحة، ومعايرة لجان التقييم والتحليل الحسي."
       },
-      "source": "https://jo.linkedin.com/in/salah-alheresh-8736a463",
+      "source": "https://www.linkedin.com/in/salah-alheresh-037089166/",
       "sourceType": "OFFICIAL_SOCIAL",
-      "verificationStatus": "VERIFIED",
+      "verificationStatus": "FOUNDER-CONFIRMED",
       "lastVerified": "2026-08",
       "relatedEntities": [
         "person-salah-alheresh"
@@ -7155,7 +7177,7 @@
     "totalProductFamilies": 7,
     "totalIndustries": 3,
     "totalEducationalPages": 8,
-    "totalOfficialSources": 9,
+    "totalOfficialSources": 10,
     "totalCertifications": 2
   }
 }

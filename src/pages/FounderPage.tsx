@@ -69,8 +69,8 @@ export const FounderPage: React.FC = () => {
                 </h1>
                 <p className="text-sm sm:text-base text-[#E8C5A0] font-editorial-serif italic mt-1">
                   {isArabic
-                    ? 'مؤسس ومالك شركة مورجانيت لتكنولوجيا الأغذية (عمان، الأردن)'
-                    : 'Founder & Owner // Morganite for Food Technology (Amman, Jordan)'}
+                    ? 'مؤسس ومالك والمدير العام لشركة مورجانيت لتكنولوجيا الأغذية (عمان، الأردن)'
+                    : 'Founder, Owner & General Manager // Morganite for Food Technology (Amman, Jordan)'}
                 </p>
               </div>
 

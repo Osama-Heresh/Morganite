@@ -86,8 +86,11 @@ export const createOrganizationSchema = () => ({
     '@id': SALAH_ALHERESH_PERSON_ID,
     name: 'Eng. Salah Alheresh',
     alternateName: 'المهندس صلاح الهرش',
-    jobTitle: 'Founder and Owner',
-    sameAs: ['https://www.linkedin.com/in/salah-alheresh-6b173334/'],
+    jobTitle: 'Founder, Owner and General Manager',
+    sameAs: [
+      'https://www.linkedin.com/in/salah-alheresh-037089166/',
+      'https://www.linkedin.com/in/salah-alheresh-6b173334/',
+    ],
     affiliation: {
       '@type': 'Organization',
       name: 'Jordanian Society for Sensory Evaluation of Food',
@@ -119,10 +122,20 @@ export const createPersonSchema = () => ({
   '@id': SALAH_ALHERESH_PERSON_ID,
   name: 'Eng. Salah Alheresh',
   alternateName: 'المهندس صلاح الهرش',
+  jobTitle: 'Founder, Owner and General Manager',
   description:
-    'Founder and Owner of Morganite for Food Technology (established 2013 in Amman, Jordan). Food engineer with expertise in spice formulation, flavor profiles, and sensory evaluation.',
+    'Founder, Owner and General Manager of Morganite for Food Technology (established 2013 in Amman, Jordan). Food engineer with expertise in spice formulation, flavor profiles, and sensory evaluation.',
   url: `${SITE_URL}/founder/salah-alheresh`,
-  sameAs: ['https://www.linkedin.com/in/salah-alheresh-6b173334/'],
+  sameAs: [
+    'https://www.linkedin.com/in/salah-alheresh-037089166/',
+    'https://www.linkedin.com/in/salah-alheresh-6b173334/',
+  ],
+  worksFor: {
+    '@type': 'Organization',
+    '@id': MORGANITE_ORG_ID,
+    name: 'Morganite for Food Technology',
+    url: MORGANITE_OFFICIAL_WEBSITE,
+  },
   founderOf: {
     '@type': 'Organization',
     '@id': MORGANITE_ORG_ID,
@@ -136,6 +149,14 @@ export const createPersonSchema = () => ({
       alternateName: 'الجمعية الأردنية للتقييم الحسي للأغذية',
       url: 'https://jssef.org/',
     },
+  ],
+  knowsAbout: [
+    'Food Technology',
+    'Industrial Spice Blends',
+    'Food Flavors Formulation',
+    'Sensory Evaluation of Food',
+    'Meat Processing Seasonings',
+    'Functional Dry Mix Systems',
   ],
 });
 

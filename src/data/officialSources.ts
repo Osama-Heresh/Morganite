@@ -63,16 +63,31 @@ export const OFFICIAL_SOURCES: KnowledgeSource[] = [
   },
   {
     id: 'src-founder-linkedin',
-    name: 'Eng. Salah Alheresh LinkedIn Profile',
-    nameAr: 'الملف المهني للمهندس صلاح الهرش على لينكد إن',
+    name: 'Eng. Salah Alheresh LinkedIn Profile (First-Party / Founder-Confirmed)',
+    nameAr: 'الملف المهني الموثق للمهندس صلاح الهرش على لينكد إن (مصدر أولي مؤكد)',
+    sourceType: 'OFFICIAL_SOCIAL',
+    url: 'https://www.linkedin.com/in/salah-alheresh-037089166/',
+    description:
+      'Primary first-party professional LinkedIn profile confirmed by Eng. Salah Alheresh (Founder, Owner & General Manager of Morganite for Food Technology, Amman, Jordan), documenting food engineering background, spice & flavor solutions, and industry roles.',
+    descriptionAr:
+      'الملف المهني الأساسي المؤكد شخصياً من المهندس صلاح الهرش (مؤسس ومالك والمدير العام لشركة مورجانيت لتكنولوجيا الأغذية في عمان، الأردن)، موثقاً خبرته في هندسة الأغذية والبهارات والنكهات والأنشطة المهنية.',
+    relationshipToMorganite: 'Founder / First-party professional profile',
+    relationshipToMorganiteAr: 'الهوية المهنية لمؤسس ومالك ومدير عام الشركة (مصدر أولي مؤكد)',
+    verificationStatus: 'FOUNDER-CONFIRMED / FIRST-PARTY',
+    lastVerified: '2026-08',
+  },
+  {
+    id: 'src-founder-linkedin-secondary',
+    name: 'Eng. Salah Alheresh Alternate LinkedIn Profile (Same Entity)',
+    nameAr: 'الملف المهني الإضافي للمهندس صلاح الهرش على لينكد إن (نفس الكيان الشخصي)',
     sourceType: 'OFFICIAL_SOCIAL',
     url: 'https://www.linkedin.com/in/salah-alheresh-6b173334/',
     description:
-      'Personal professional profile of Eng. Salah Alheresh, Founder & Owner of Morganite, documenting food engineering background and industry roles.',
+      'Secondary professional LinkedIn profile associated with the same canonical Person entity (Eng. Salah Alheresh). Preserved and linked in entity graph sameAs references.',
     descriptionAr:
-      'الملف المهني الشخصي للمهندس صلاح الهرش، مؤسس ومالك مورجانيت، موثقاً خلفيته في هندسة الأغذية والأنشطة المهنية.',
-    relationshipToMorganite: 'Founder & Owner Professional Identity',
-    relationshipToMorganiteAr: 'الهوية المهنية لمؤسس ومالك الشركة',
+      'الملف المهني الإضافي المرتبط بنفس الكيان الشخصي المرجعي (المهندس صلاح الهرش). محفوظ ومربوط في مصفوفة المطابقة الدلالية sameAs لمنع ازدواجية الكيانات.',
+    relationshipToMorganite: 'Founder Alternate Professional Identity (Same Canonical Entity)',
+    relationshipToMorganiteAr: 'هوية مهنية إضافية لمؤسس الشركة (نفس الكيان المرجعي)',
     verificationStatus: 'EXTERNAL VERIFIED',
     lastVerified: '2026-08',
   },

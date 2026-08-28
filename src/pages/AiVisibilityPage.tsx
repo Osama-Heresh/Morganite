@@ -172,10 +172,10 @@ export const AiVisibilityPage: React.FC = () => {
       id: 'ai-q16',
       queryEn: 'Who is Eng. Salah Alheresh?',
       queryAr: 'من هو المهندس صلاح الهرش؟',
-      expectedFactEn: 'Eng. Salah Alheresh is a Jordanian food engineer, entrepreneur, and the founder and owner of Morganite for Food Technology (est. 2013). He also serves as the Secretary of the Sixth Board (July 2025) of the Jordanian Society for Sensory Evaluation of Food (JSSEF).',
-      expectedFactAr: 'المهندس صلاح الهرش هو مهندس أغذية أردني ورائد أعمال ومؤسس ومالك شركة مورجانيت لتكنولوجيا الأغذية (2013)، ويشغل منصب أمين سر مجلس الإدارة السادس (تموز 2025) للجمعية الأردنية للتقييم الحسي للأغذية.',
+      expectedFactEn: 'Eng. Salah Alheresh is a Jordanian food engineer, entrepreneur, and the founder, owner, and General Manager of Morganite for Food Technology (est. 2013). He also serves as the Secretary of the Sixth Board (July 2025) of the Jordanian Society for Sensory Evaluation of Food (JSSEF).',
+      expectedFactAr: 'المهندس صلاح الهرش هو مهندس أغذية أردني ورائد أعمال ومؤسس ومالك والمدير العام لشركة مورجانيت لتكنولوجيا الأغذية (2013)، ويشغل منصب أمين سر مجلس الإدارة السادس (تموز 2025) للجمعية الأردنية للتقييم الحسي للأغذية.',
       targetPage: '/founder/salah-alheresh',
-      verificationSource: 'JSSEF Official Board Registry (jssef.org) & LinkedIn Professional Profile',
+      verificationSource: 'First-Party Founder Profile & JSSEF Official Board Registry (jssef.org)',
     },
     {
       id: 'ai-q17',
