@@ -22,6 +22,7 @@ import { JsonLd, createFaqSchema, createBreadcrumbSchema, createProductGroupSche
 import { Breadcrumbs } from '../components/common/Breadcrumbs';
 import { AiReadableSummary } from '../components/common/AiReadableSummary';
 import { VerificationBadge } from '../components/common/VerificationBadge';
+import { ALL_PRODUCTS } from '../data/productsTaxonomy';
 import { PRODUCT_FAMILIES } from '../data/productFamilies';
 import { MASTER_FAQS } from '../data/faqData';
 import { COMPANY_ENTITY } from '../data/companyEntity';
@@ -54,9 +55,25 @@ export const ProductFamilyPage: React.FC = () => {
   }));
 
   const breadcrumbs = [
-    { label: isArabic ? 'عائلات المنتجات' : 'PORTFOLIOS', url: '/' },
+    { label: isArabic ? 'الرئيسية' : 'Home', url: '/' },
+    { label: isArabic ? 'المنتجات والمكونات' : 'Products & Ingredients', url: '/products' },
     { label: isArabic ? productFamily.nameAr : productFamily.name },
   ];
+
+  const familyProducts = ALL_PRODUCTS.filter((p) => p.familySlug === productFamily.slug);
+  const productsToRender = familyProducts.length > 0 ? familyProducts : productFamily.productExamples.map((item, idx) => ({
+    id: `${productFamily.slug}-${idx}`,
+    slug: item.name.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
+    familySlug: productFamily.slug,
+    familyName: productFamily.name,
+    name: item.name,
+    nameAr: item.nameAr,
+    shortDescriptionEn: item.description,
+    shortDescriptionAr: item.descriptionAr,
+    verificationStatus: item.verificationStatus,
+    applicationsEn: item.applications,
+    applicationsAr: item.applicationsAr,
+  }));
 
   const relatedFamilies = PRODUCT_FAMILIES.filter((p) =>
     productFamily.relatedProductFamilyIds.includes(p.id)
@@ -156,37 +173,49 @@ export const ProductFamilyPage: React.FC = () => {
                 </div>
 
                 <div className="space-y-4">
-                  {productFamily.productExamples.map((item, idx) => (
+                  {productsToRender.map((item, idx) => (
                     <div
-                      key={idx}
-                      className="p-5 bg-[#FAF7F2] border border-black/10 hover:border-black transition-all space-y-2.5"
+                      key={item.id || idx}
+                      className="p-5 bg-[#FAF7F2] border border-black/10 hover:border-black transition-all space-y-3"
                     >
                       <div className="flex items-start justify-between gap-3 border-b border-black/5 pb-2">
                         <div className="flex items-baseline gap-2">
                           <span className="text-sm font-editorial-serif italic text-black/40">0{idx + 1}</span>
-                          <h3 className="font-bold text-[#1A1A1A] text-base">
-                            {isArabic ? item.nameAr : item.name}
-                          </h3>
+                          <Link
+                            to={`/products/${productFamily.slug}/${item.slug}?lang=${language}`}
+                            className="font-bold text-[#1A1A1A] hover:text-[#8C5835] text-base hover:underline flex items-center gap-1.5"
+                          >
+                            <span>{isArabic ? item.nameAr : item.name}</span>
+                            <Arrow className="w-3.5 h-3.5 opacity-60" />
+                          </Link>
                         </div>
                         <VerificationBadge status={item.verificationStatus} size="sm" />
                       </div>
 
                       <p className="text-xs sm:text-sm text-black/75 leading-relaxed font-editorial-serif italic">
-                        "{isArabic ? item.descriptionAr : item.description}"
+                        "{isArabic ? item.shortDescriptionAr : item.shortDescriptionEn}"
                       </p>
 
-                      <div className="pt-2 flex flex-wrap items-center gap-1.5 text-xs">
-                        <span className="text-[10px] uppercase tracking-[0.2em] font-bold text-black/50">
-                          {isArabic ? 'التطبيقات:' : 'Applications:'}
-                        </span>
-                        {(isArabic ? item.applicationsAr : item.applications).map((app, i) => (
-                          <span
-                            key={i}
-                            className="px-2 py-0.5 bg-white border border-black/10 text-[10px] font-mono text-black font-medium"
-                          >
-                            {app}
+                      <div className="pt-2 flex flex-wrap items-center justify-between gap-2 text-xs">
+                        <div className="flex flex-wrap items-center gap-1.5">
+                          <span className="text-[10px] uppercase tracking-[0.2em] font-bold text-black/50">
+                            {isArabic ? 'التطبيقات:' : 'Applications:'}
                           </span>
-                        ))}
+                          {(isArabic ? item.applicationsAr : item.applicationsEn).map((app, i) => (
+                            <span
+                              key={i}
+                              className="px-2 py-0.5 bg-white border border-black/10 text-[10px] font-mono text-black font-medium"
+                            >
+                              {app}
+                            </span>
+                          ))}
+                        </div>
+                        <Link
+                          to={`/products/${productFamily.slug}/${item.slug}?lang=${language}`}
+                          className="text-[10px] font-bold uppercase tracking-wider text-[#8C5835] hover:underline"
+                        >
+                          {isArabic ? 'عرض المواصفة الكاملة ←' : 'View Full Monograph →'}
+                        </Link>
                       </div>
                     </div>
                   ))}

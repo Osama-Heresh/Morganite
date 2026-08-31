@@ -55,9 +55,15 @@ export const ResearchDevPage: React.FC = () => {
 
             <h1 className="text-3xl sm:text-5xl font-black uppercase tracking-tight text-white leading-tight">
               {isArabic
-                ? 'البحث والتطوير والحلول الغذائية المخصصة'
-                : 'Research, Formulation & Sensory Science'}
+                ? 'البحث والتطوير'
+                : 'Research & Development'}
             </h1>
+
+            <p className="text-base sm:text-lg text-[#E8C5A0] font-editorial-serif italic max-w-3xl">
+              {isArabic
+                ? 'الهندسة الغذائية، التقييم الحسي، وتطوير الخلطات والتركيبات المخصصة لمصانع الأغذية وسلاسل المطاعم.'
+                : 'Applied food engineering, sensory evaluation science, and custom dry-mix formulation for food manufacturers.'}
+            </p>
 
             <p className="text-sm sm:text-base text-white/70 max-w-3xl leading-relaxed font-editorial-serif italic text-lg">
               "{isArabic
@@ -176,12 +182,19 @@ export const ResearchDevPage: React.FC = () => {
           </section>
 
           {/* CTA LINK */}
-          <div className="text-center pt-2">
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-2">
             <Link
-              to={`/custom-food-blends?lang=${language}`}
-              className="inline-flex items-center gap-2 px-6 py-3.5 text-[10px] uppercase tracking-[0.2em] font-bold bg-[#1A1A1A] hover:bg-black text-white transition-colors"
+              to={`/custom-food-solutions?lang=${language}`}
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 text-[10px] uppercase tracking-[0.2em] font-bold bg-[#8C5835] hover:bg-[#A36840] text-white transition-colors"
             >
-              <span>{isArabic ? 'استكشف صفحة الخلطات المخصصة والحلول التعاقدية' : 'Explore Custom Food Blends & Contract R&D'}</span>
+              <span>{isArabic ? 'استكشف الحلول والخلطات المخصصة' : 'Explore Custom Food Solutions'}</span>
+              <Arrow className="w-3.5 h-3.5" />
+            </Link>
+            <Link
+              to={`/products?lang=${language}`}
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 text-[10px] uppercase tracking-[0.2em] font-bold bg-[#1A1A1A] hover:bg-black text-white transition-colors"
+            >
+              <span>{isArabic ? 'دليل المنتجات والمكونات' : 'Browse Product Directory'}</span>
               <Arrow className="w-3.5 h-3.5" />
             </Link>
           </div>

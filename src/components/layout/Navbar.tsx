@@ -29,6 +29,8 @@ export const Navbar: React.FC = () => {
   };
 
   const navLinks = [
+    { labelEn: 'About', labelAr: 'عن مورجانيت', path: '/about-morganite', icon: Factory },
+    { labelEn: 'Solutions', labelAr: 'الحلول الصناعية', path: '/solutions', icon: Layers },
     { labelEn: 'Factory', labelAr: 'المصنع', path: '/factory', icon: Factory },
     { labelEn: 'R&D', labelAr: 'البحث والتطوير', path: '/research-development', icon: Sparkles },
     { labelEn: 'Industries', labelAr: 'القطاعات', path: '/industries', icon: Layers },
@@ -108,8 +110,15 @@ export const Navbar: React.FC = () => {
               {productsDropdownOpen && (
                 <div className="absolute top-full start-0 w-80 pt-2 z-50">
                   <div className="bg-[#181F1A] border border-white/15 shadow-2xl p-2 space-y-1">
-                    <div className="px-3 py-1 text-[9px] uppercase tracking-[0.3em] text-white/40 border-b border-white/10 mb-1">
-                      {isArabic ? 'العائلات السبع المعتمدة' : '7 Certified Portfolios'}
+                    <div className="px-3 py-1.5 flex items-center justify-between text-[9px] uppercase tracking-[0.3em] text-white/40 border-b border-white/10 mb-1">
+                      <span>{isArabic ? 'العائلات السبع المعتمدة' : '7 Certified Portfolios'}</span>
+                      <Link
+                        to={`/products?lang=${language}`}
+                        className="text-[#E8C5A0] hover:underline font-bold text-[9px]"
+                        onClick={() => setProductsDropdownOpen(false)}
+                      >
+                        {isArabic ? 'الدليل الشامل ←' : 'Master Catalog →'}
+                      </Link>
                     </div>
                     {PRODUCT_FAMILIES.map((p, idx) => (
                       <Link

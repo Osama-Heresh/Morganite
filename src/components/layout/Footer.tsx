@@ -111,6 +111,15 @@ export const Footer: React.FC = () => {
               {isArabic ? 'عائلات المنتجات' : 'Product Portfolios'}
             </div>
             <ul className="space-y-1.5 text-xs">
+              <li>
+                <Link
+                  to={`/products?lang=${language}`}
+                  className="text-[#E8C5A0] hover:underline font-bold flex items-center justify-between py-1 border-b border-white/10"
+                >
+                  <span>{isArabic ? 'فهرس المنتجات الكامل' : 'All Products & Ingredients'}</span>
+                  <span className="text-[9px] font-mono font-bold bg-white/10 px-1.5 py-0.2">ALL</span>
+                </Link>
+              </li>
               {PRODUCT_FAMILIES.map((p, idx) => (
                 <li key={p.slug}>
                   <Link
@@ -125,22 +134,60 @@ export const Footer: React.FC = () => {
             </ul>
           </div>
 
-          {/* Col 3 (3 cols): Knowledge Hubs & Intent Pages */}
+          {/* Col 3 (3 cols): Solutions & Curated Research */}
           <div className="lg:col-span-3 space-y-3">
             <div className="text-[10px] uppercase tracking-[0.25em] font-bold text-[#C99A6B] border-b border-white/10 pb-1">
-              {isArabic ? 'الأدلة والقطاعات' : 'Curated Research'}
+              {isArabic ? 'الحلول والقطاعات' : 'Solutions & Sectors'}
             </div>
             <ul className="space-y-1.5 text-xs">
-              {educationalLinks.map((link) => (
-                <li key={link.slug}>
-                  <Link
-                    to={`/${link.slug}?lang=${language}`}
-                    className="hover:text-[#E8C5A0] transition-colors py-1 block border-b border-white/5 text-white/80"
-                  >
-                    {isArabic ? link.labelAr : link.labelEn}
-                  </Link>
-                </li>
-              ))}
+              <li>
+                <Link
+                  to={`/solutions?lang=${language}`}
+                  className="text-[#E8C5A0] hover:underline font-bold py-1 block border-b border-white/10"
+                >
+                  {isArabic ? 'دليل الحلول الصناعية' : 'Industry Solutions Hub'}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to={`/solutions/meat-processing?lang=${language}`}
+                  className="hover:text-[#E8C5A0] transition-colors py-1 block border-b border-white/5 text-white/80"
+                >
+                  {isArabic ? 'حلول مصانع اللحوم' : 'Meat Processing Solutions'}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to={`/solutions/food-manufacturing?lang=${language}`}
+                  className="hover:text-[#E8C5A0] transition-colors py-1 block border-b border-white/5 text-white/80"
+                >
+                  {isArabic ? 'حلول مصانع الأغذية' : 'Food Manufacturing Systems'}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to={`/solutions/horeca?lang=${language}`}
+                  className="hover:text-[#E8C5A0] transition-colors py-1 block border-b border-white/5 text-white/80"
+                >
+                  {isArabic ? 'حلول المطاعم والفنادق (HORECA)' : 'HORECA & Foodservice'}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to={`/custom-food-solutions?lang=${language}`}
+                  className="hover:text-[#E8C5A0] transition-colors py-1 block border-b border-white/5 text-white/80"
+                >
+                  {isArabic ? 'التطوير والتصنيع المخصص' : 'Custom Formulation & R&D'}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to={`/about-morganite?lang=${language}`}
+                  className="hover:text-[#E8C5A0] transition-colors py-1 block border-b border-white/5 text-white/80"
+                >
+                  {isArabic ? 'عن مورجانيت لتكنولوجيا الأغذية' : 'About Morganite Food Tech'}
+                </Link>
+              </li>
               <li className="pt-1">
                 <Link
                   to={`/faq?lang=${language}`}

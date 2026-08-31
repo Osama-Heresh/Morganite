@@ -203,6 +203,44 @@ export const createFaqSchema = (faqs: Array<{ question: string; answer: string }
   })),
 });
 
+export const createProductSchema = (product: any, isArabic: boolean) => ({
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  '@id': `${SITE_URL}/products/${product.familySlug}/${product.slug}#product`,
+  name: isArabic ? product.nameAr : product.name,
+  alternateName: isArabic ? product.name : product.nameAr,
+  description: isArabic ? product.fullDescriptionAr : product.fullDescriptionEn,
+  category: isArabic ? product.categoryAr : product.category,
+  brand: {
+    '@type': 'Brand',
+    name: 'Morganite',
+  },
+  manufacturer: {
+    '@type': 'Organization',
+    '@id': MORGANITE_ORG_ID,
+    name: 'Morganite for Food Technology',
+  },
+  isRelatedTo: {
+    '@type': 'ProductGroup',
+    '@id': `${SITE_URL}/products/${product.familySlug}#productgroup`,
+    name: product.familyName,
+  },
+});
+
+export const createServiceSchema = (service: { name: string; nameAr: string; description: string; descriptionAr: string; url: string }, isArabic: boolean) => ({
+  '@context': 'https://schema.org',
+  '@type': 'Service',
+  '@id': `${getAbsoluteUrl(service.url)}#service`,
+  name: isArabic ? service.nameAr : service.name,
+  description: isArabic ? service.descriptionAr : service.description,
+  provider: {
+    '@type': 'Organization',
+    '@id': MORGANITE_ORG_ID,
+    name: 'Morganite for Food Technology',
+  },
+  serviceType: 'Food Technology Manufacturing & Formulation Solutions',
+});
+
 export const createBreadcrumbSchema = (items: Array<{ name: string; url: string }>) => ({
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
@@ -213,3 +251,4 @@ export const createBreadcrumbSchema = (items: Array<{ name: string; url: string 
     item: item.url.startsWith('http') ? item.url : getAbsoluteUrl(item.url),
   })),
 });
+

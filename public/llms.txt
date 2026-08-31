@@ -35,6 +35,13 @@
 ## 5. DOCUMENTATION DIRECTORY & API
 - Master JSON Dataset: https://www.morganitegroup.com/data/morganite-knowledge.json
 - Knowledge Center Root: https://www.morganitegroup.com/
+- About Morganite: https://www.morganitegroup.com/about-morganite
+- Master Products Catalog: https://www.morganitegroup.com/products
+- Industry Solutions Hub: https://www.morganitegroup.com/solutions
+- Meat Processing Solutions: https://www.morganitegroup.com/solutions/meat-processing
+- Food Manufacturing Solutions: https://www.morganitegroup.com/solutions/food-manufacturing
+- HORECA Solutions: https://www.morganitegroup.com/solutions/horeca
+- Custom Food Solutions & R&D: https://www.morganitegroup.com/custom-food-solutions
 - Full FAQ Directory: https://www.morganitegroup.com/faq
 - Official Sources Map: https://www.morganitegroup.com/official-sources
 - Factory Information: https://www.morganitegroup.com/factory

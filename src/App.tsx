@@ -6,7 +6,15 @@ import { Footer } from './components/layout/Footer';
 
 // Pages
 import { HomePage } from './pages/HomePage';
+import { ProductsPage } from './pages/ProductsPage';
 import { ProductFamilyPage } from './pages/ProductFamilyPage';
+import { ProductDetailPage } from './pages/ProductDetailPage';
+import { SolutionsPage } from './pages/SolutionsPage';
+import { MeatProcessingSolutionPage } from './pages/MeatProcessingSolutionPage';
+import { FoodManufacturingSolutionPage } from './pages/FoodManufacturingSolutionPage';
+import { HorecaSolutionPage } from './pages/HorecaSolutionPage';
+import { CustomFoodSolutionsPage } from './pages/CustomFoodSolutionsPage';
+import { AboutMorganitePage } from './pages/AboutMorganitePage';
 import { FactoryPage } from './pages/FactoryPage';
 import { ResearchDevPage } from './pages/ResearchDevPage';
 import { IndustriesPage } from './pages/IndustriesPage';
@@ -38,7 +46,16 @@ export function App() {
         <div className="flex-1">
           <Routes>
             <Route path="/" element={<HomePage />} />
+            <Route path="/about" element={<AboutMorganitePage />} />
+            <Route path="/about-morganite" element={<AboutMorganitePage />} />
+            <Route path="/products" element={<ProductsPage />} />
             <Route path="/products/:familySlug" element={<ProductFamilyPage />} />
+            <Route path="/products/:familySlug/:productSlug" element={<ProductDetailPage />} />
+            <Route path="/solutions" element={<SolutionsPage />} />
+            <Route path="/solutions/meat-processing" element={<MeatProcessingSolutionPage />} />
+            <Route path="/solutions/food-manufacturing" element={<FoodManufacturingSolutionPage />} />
+            <Route path="/solutions/horeca" element={<HorecaSolutionPage />} />
+            <Route path="/custom-food-solutions" element={<CustomFoodSolutionsPage />} />
             <Route path="/factory" element={<FactoryPage />} />
             <Route path="/research-development" element={<ResearchDevPage />} />
             <Route path="/industries" element={<IndustriesPage />} />
